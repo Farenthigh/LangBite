@@ -7,27 +7,29 @@
 
 import SwiftUI
 
-
 struct LearnView: View {
-    @EnvironmentObject var vm: LangViewModel
+    @StateObject var vm = DailyWordViewModel()
     @EnvironmentObject var fav: FavoritesManager
-    @StateObject private var player = AudioPlayer()
+    @StateObject private var speaker = SpeechManager()
     
     
     var body: some View {
         NavigationStack {
             VStack(spacing: 20) {
-                if let word = vm.dailyWord {
+                if let word = vm.today {
                     DailyWordCard(word: word)
+                        .environmentObject(speaker)
+                        .environmentObject(fav)
                         .padding()
+                        .frame(maxWidth: .infinity)
                 } else {
                     Text("No daily word available")
                 }
                 
-                
-                if let word = vm.dailyWord {
+                if let word = vm.today {
                     ExampleCard(word: word)
                         .padding(.horizontal)
+                        .frame(maxWidth: .infinity)
                 }
                 
                 
@@ -42,16 +44,21 @@ struct LearnView: View {
 struct DailyWordCard: View {
     let word: VocabWord
     @EnvironmentObject private var fav: FavoritesManager
-    
+    @EnvironmentObject private var speaker: SpeechManager
     
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
             HStack {
-                VStack(alignment: .leading) {
+                VStack(alignment: .leading, spacing: 6) {
                     Text(word.word).font(.title).bold()
                     HStack {
-                        Image(systemName: "speaker.wave.2.fill").foregroundColor(.blue)
-                        Text(word.translation).foregroundColor(.secondary)
+                        Button {
+                            speaker.speak(word.word, language: "en-US")
+                        } label: {
+                            Image(systemName: "speaker.wave.2.fill")
+                                .foregroundColor(.blue)
+                        }
+                        Text(word.meaningThai).foregroundColor(.secondary)
                     }
                 }
                 Spacer()
@@ -65,26 +72,38 @@ struct DailyWordCard: View {
     }
 }
 
-
 struct ExampleCard: View {
     let word: VocabWord
     
-    
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
-            Text("Example Sentences").font(.headline)
-            ForEach(word.examples, id: \.self) { ex in
-                VStack(alignment: .leading, spacing: 6) {
-                    Text(ex).font(.body)
+            
+            Text("Example Sentences")
+                .font(.headline)
+            
+            LazyVStack(alignment: .leading, spacing: 12) {
+                ForEach(word.examples, id: \.self) { ex in
+                    Text(ex)
+                        .font(.system(size: 16))
+                        .foregroundColor(.primary)
+                        .fixedSize(horizontal: false, vertical: true)
                 }
             }
         }
-        .padding()
-        .background(RoundedRectangle(cornerRadius: 12).fill(Color(UIColor.systemBackground)).shadow(radius: 3))
+        .padding(18)
+        .background(
+            RoundedRectangle(cornerRadius: 16)
+                .fill(Color(.secondarySystemBackground))
+                .shadow(radius: 4)
+                
+        )
+        .padding(.horizontal)
     }
 }
 
+
 #Preview {
     LearnView()
+        .environmentObject(FavoritesManager())
 }
 

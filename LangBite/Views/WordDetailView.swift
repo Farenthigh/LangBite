@@ -10,55 +10,88 @@ import SwiftUI
 
 struct WordDetailView: View {
     let word: VocabWord
-    @StateObject private var player = AudioPlayer()
+    @StateObject private var speaker = SpeechManager()
     @EnvironmentObject var fav: FavoritesManager
     
     
     var body: some View {
         ScrollView {
-            VStack(spacing: 16) {
-                HStack {
-                    VStack(alignment: .leading) {
-                        Text(word.word).font(.title2).bold()
-                        Text(word.translation).font(.subheadline).foregroundColor(.secondary)
-                    }
-                    Spacer()
-                    Button(action: { fav.toggleFavorite(item: word.word) }) {
-                        Image(systemName: fav.isFavorite(word.word) ? "heart.fill" : "heart").foregroundColor(.red)
+            VStack(spacing: 20) {
+                
+                // TOP CARD
+                VStack(alignment: .leading, spacing: 8) {
+                    HStack {
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text(word.word)
+                                .font(.largeTitle)
+                                .bold()
+                            Text(word.meaningThai)
+                                .font(.title3)
+                                .foregroundColor(.secondary)
+                        }
+                        
+                        Spacer()
+                        
+                        Button {
+                            fav.toggleFavorite(item: word.word)
+                        } label: {
+                            Image(systemName: fav.isFavorite(word.word) ? "heart.fill" : "heart")
+                                .foregroundColor(.red)
+                                .font(.title2)
+                        }
                     }
                 }
                 .padding()
-                .background(RoundedRectangle(cornerRadius: 12).fill(Color(UIColor.secondarySystemBackground)).shadow(radius: 4))
+                .background(
+                    RoundedRectangle(cornerRadius: 16)
+                        .fill(Color(UIColor.secondarySystemBackground))
+                        .shadow(radius: 4)
+                )
                 
                 
+                // EXAMPLE SENTENCES
                 VStack(alignment: .leading, spacing: 12) {
-                    Text("Example Sentences").font(.headline)
-                    ForEach(word.examples, id: \.self) { ex in
-                        Text(ex)
-                            .padding(8)
-                            .frame(maxWidth: .infinity, alignment: .leading)
-                            .background(RoundedRectangle(cornerRadius: 10).fill(Color(UIColor.systemBackground)).shadow(radius: 2))
+                    Text("Example Sentences")
+                        .font(.headline)
+                    
+                    ForEach(word.examples, id: \.self) { example in
+                        VStack(alignment: .leading, spacing: 6){
+                            Text(example).font(.body)
+                        }
                     }
                 }
-                
+                .padding()
+                .background(RoundedRectangle(cornerRadius: 12)
+                .fill(Color(UIColor.systemBackground))
+                .shadow(radius: 3))
                 
                 Spacer()
             }
             .padding()
+
         }
         .navigationTitle(word.word)
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {
-                Button(action: {
-                    if let url = Bundle.main.url(forResource: "sample", withExtension: "mp3") {
-                        player.playLocal(url: url)
-                    }
-                }) { Image(systemName: "speaker.wave.2.fill") }
+                Button {
+                    speaker.speak(word.word, language: "en-US")
+                } label: {
+                    Image(systemName: "speaker.wave.2.fill")
+                }
             }
         }
     }
 }
 
-//#Preview {
-//    WordDetailView()
-//}
+#Preview {
+    WordDetailView(word: VocabWord(
+        id: 1,
+        word: "therefore",
+        meaningThai: "ดังนั้น",
+        examples: [
+            "The data was incomplete; therefore, the conclusion is uncertain.",
+            "The results were consistent, therefore supporting the hypothesis."
+        ]
+    ))
+    .environmentObject(FavoritesManager())
+}

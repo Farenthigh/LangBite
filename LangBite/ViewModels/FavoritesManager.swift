@@ -16,7 +16,6 @@ final class FavoritesManager: ObservableObject {
         }
     }
     
-    
     init() {
         favorites = UserDefaults.standard.stringArray(forKey: "favorites") ?? []
     }
@@ -29,7 +28,6 @@ final class FavoritesManager: ObservableObject {
             favorites.append(item)
         }
     }
-    
     
     func isFavorite(_ item: String) -> Bool {
         favorites.contains(item)
