@@ -1,0 +1,1907 @@
+[
+  {
+    "id": 1,
+    "word": "ingredient",
+    "meaningThai": "ส่วนผสม",
+    "examples": [
+      "Check the ingredients before cooking.",
+      "We need fresh ingredients for this dish."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "seasoning",
+    "meaningThai": "เครื่องปรุง",
+    "examples": [
+      "Add seasoning to enhance the flavor.",
+      "This dish needs more seasoning."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "flavor",
+    "meaningThai": "รสชาติ",
+    "examples": ["The flavor is very rich.", "This soup has a mild flavor."]
+  },
+  {
+    "id": 4,
+    "word": "texture",
+    "meaningThai": "เนื้อสัมผัส",
+    "examples": [
+      "The texture is soft and creamy.",
+      "I like the crunchy texture."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "fresh",
+    "meaningThai": "สด",
+    "examples": ["Buy fresh vegetables only.", "The fish is very fresh today."]
+  },
+  {
+    "id": 6,
+    "word": "ripe",
+    "meaningThai": "สุก (ผลไม้)",
+    "examples": [
+      "The mangoes are perfectly ripe.",
+      "Wait until the fruit is ripe."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "spicy",
+    "meaningThai": "เผ็ด",
+    "examples": ["This dish is very spicy.", "Do you like spicy food?"]
+  },
+  {
+    "id": 8,
+    "word": "savory",
+    "meaningThai": "รสเค็ม/รสจัดจ้านแบบคาว",
+    "examples": [
+      "This snack is more savory than sweet.",
+      "I prefer savory dishes."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "sweet",
+    "meaningThai": "หวาน",
+    "examples": ["The dessert is too sweet.", "I like mildly sweet drinks."]
+  },
+  {
+    "id": 10,
+    "word": "bitter",
+    "meaningThai": "ขม",
+    "examples": ["Black coffee is usually bitter.", "This herb tastes bitter."]
+  },
+  {
+    "id": 11,
+    "word": "sour",
+    "meaningThai": "เปรี้ยว",
+    "examples": ["Limes are very sour.", "This soup has a sour taste."]
+  },
+  {
+    "id": 12,
+    "word": "umami",
+    "meaningThai": "รสอูมามิ",
+    "examples": [
+      "Soy sauce adds umami to dishes.",
+      "Mushrooms are naturally umami."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "crispy",
+    "meaningThai": "กรอบ",
+    "examples": ["The fried chicken is crispy.", "I love crispy snacks."]
+  },
+  {
+    "id": 14,
+    "word": "tender",
+    "meaningThai": "นุ่ม (เนื้อ/อาหาร)",
+    "examples": [
+      "The meat is very tender.",
+      "Cook it longer to make it tender."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "chewy",
+    "meaningThai": "เหนียวหนุบ",
+    "examples": ["The noodles are too chewy.", "This candy is soft and chewy."]
+  },
+  {
+    "id": 16,
+    "word": "aroma",
+    "meaningThai": "กลิ่นหอม",
+    "examples": [
+      "The aroma of garlic is amazing.",
+      "This coffee has a strong aroma."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "whole grain",
+    "meaningThai": "ธัญพืชเต็มเมล็ด",
+    "examples": [
+      "Whole grain bread is healthier.",
+      "I switched to whole grain rice."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "dairy",
+    "meaningThai": "ผลิตภัณฑ์นม",
+    "examples": [
+      "She can't eat dairy products.",
+      "Milk and cheese are dairy items."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "gluten-free",
+    "meaningThai": "ปลอดกลูเตน",
+    "examples": [
+      "This bread is gluten-free.",
+      "Some people need gluten-free diets."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "appetizer",
+    "meaningThai": "อาหารเรียกน้ำย่อย",
+    "examples": [
+      "We ordered an appetizer first.",
+      "Spring rolls are a common appetizer."
+    ]
+  },
+  {
+    "id": 21,
+    "word": "main course",
+    "meaningThai": "จานหลัก",
+    "examples": [
+      "The main course is served now.",
+      "I skipped the appetizer and ordered the main course."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "side dish",
+    "meaningThai": "อาหารเคียง",
+    "examples": [
+      "Kimchi is a popular side dish.",
+      "We ordered fries as a side dish."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "dessert",
+    "meaningThai": "ของหวาน",
+    "examples": [
+      "We had ice cream for dessert.",
+      "Dessert comes after the main dish."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "beverage",
+    "meaningThai": "เครื่องดื่ม",
+    "examples": [
+      "What beverage would you like?",
+      "Tea is my favorite beverage."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "portion",
+    "meaningThai": "ขนาดส่วนอาหาร",
+    "examples": ["The portion is very large.", "I want a smaller portion."]
+  },
+  {
+    "id": 26,
+    "word": "leftovers",
+    "meaningThai": "อาหารที่เหลือ",
+    "examples": ["We kept the leftovers for later.", "Don't waste leftovers."]
+  },
+  {
+    "id": 27,
+    "word": "takeaway",
+    "meaningThai": "อาหารนำกลับบ้าน",
+    "examples": [
+      "We ordered takeaway last night.",
+      "Is this available for takeaway?"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "reservation",
+    "meaningThai": "การจองโต๊ะ",
+    "examples": ["Do you have a reservation?", "I made a reservation at 7 PM."]
+  },
+  {
+    "id": 29,
+    "word": "menu",
+    "meaningThai": "เมนู",
+    "examples": ["Can I see the menu?", "The menu has many options."]
+  },
+  {
+    "id": 30,
+    "word": "chef’s special",
+    "meaningThai": "เมนูพิเศษของเชฟ",
+    "examples": [
+      "What's the chef’s special today?",
+      "The chef’s special changes daily."
+    ]
+  },
+  {
+    "id": 31,
+    "word": "grill",
+    "meaningThai": "ย่างบนเตา",
+    "examples": ["Grill the chicken for 10 minutes.", "We had grilled seafood."]
+  },
+  {
+    "id": 32,
+    "word": "boil",
+    "meaningThai": "ต้ม",
+    "examples": ["Boil the pasta for 8 minutes.", "The water is boiling."]
+  },
+  {
+    "id": 33,
+    "word": "steam",
+    "meaningThai": "นึ่ง",
+    "examples": ["Steamed fish is healthier.", "Steam the vegetables lightly."]
+  },
+  {
+    "id": 34,
+    "word": "fry",
+    "meaningThai": "ทอด",
+    "examples": [
+      "Fry the chicken until golden.",
+      "I don’t eat fried food often."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "stir-fry",
+    "meaningThai": "ผัด",
+    "examples": [
+      "Stir-fry the vegetables quickly.",
+      "This is a simple stir-fried dish."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "bake",
+    "meaningThai": "อบ",
+    "examples": ["Bake the cake for 25 minutes.", "We baked cookies yesterday."]
+  },
+  {
+    "id": 37,
+    "word": "slice",
+    "meaningThai": "หั่นเป็นแผ่นบาง",
+    "examples": ["Slice the onion thinly.", "He sliced the bread evenly."]
+  },
+  {
+    "id": 38,
+    "word": "chop",
+    "meaningThai": "หั่น/สับ",
+    "examples": ["Chop the garlic finely.", "She chopped the carrots quickly."]
+  },
+  {
+    "id": 39,
+    "word": "mix",
+    "meaningThai": "ผสม",
+    "examples": [
+      "Mix all ingredients together.",
+      "Mix the sauce well before serving."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "marinate",
+    "meaningThai": "หมัก",
+    "examples": [
+      "Marinate the meat for 2 hours.",
+      "This chicken was marinated overnight."
+    ]
+  },
+  {
+    "id": 41,
+    "word": "serve",
+    "meaningThai": "เสิร์ฟ",
+    "examples": ["Serve the dish while hot.", "They serve breakfast all day."]
+  },
+  {
+    "id": 42,
+    "word": "dish",
+    "meaningThai": "จานอาหาร",
+    "examples": ["This dish is very popular.", "Try their signature dish."]
+  },
+  {
+    "id": 43,
+    "word": "spice",
+    "meaningThai": "เครื่องเทศ",
+    "examples": [
+      "This curry uses many spices.",
+      "Add more spice if you like heat."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "herbs",
+    "meaningThai": "สมุนไพร/ผักกลิ่นหอม",
+    "examples": [
+      "Fresh herbs make the dish aromatic.",
+      "Add herbs for more flavor."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "sauce",
+    "meaningThai": "ซอส",
+    "examples": ["The sauce is delicious.", "Serve with dipping sauce."]
+  },
+  {
+    "id": 46,
+    "word": "broth",
+    "meaningThai": "น้ำซุป",
+    "examples": [
+      "The broth is very flavorful.",
+      "Simmer the broth for an hour."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "garnish",
+    "meaningThai": "ตกแต่งอาหาร",
+    "examples": ["Garnish with cilantro.", "The garnish adds color."]
+  },
+  {
+    "id": 48,
+    "word": "buffet",
+    "meaningThai": "บุฟเฟ่ต์",
+    "examples": [
+      "The hotel offers a breakfast buffet.",
+      "We went to a seafood buffet."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "flavorful",
+    "meaningThai": "รสจัดจ้าน, เข้มข้น",
+    "examples": [
+      "The soup is very flavorful.",
+      "This stew tastes rich and flavorful."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "homemade",
+    "meaningThai": "ทำเองที่บ้าน",
+    "examples": ["I prefer homemade meals.", "This cake tastes homemade."]
+  },
+  {
+    "id": 51,
+    "word": "juicy",
+    "meaningThai": "ฉ่ำ",
+    "examples": [
+      "The steak is very juicy.",
+      "I love juicy fruits like oranges."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "creamy",
+    "meaningThai": "มันเนียน, ครีมมี่",
+    "examples": ["The soup is very creamy.", "Add milk to make it creamy."]
+  },
+  {
+    "id": 53,
+    "word": "light",
+    "meaningThai": "รสเบา, ไม่หนักท้อง",
+    "examples": [
+      "I want something light for dinner.",
+      "This salad feels light and refreshing."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "rich",
+    "meaningThai": "เข้มข้น, รสจัด, มันเยอะ",
+    "examples": [
+      "The chocolate cake is very rich.",
+      "This sauce tastes rich and deep."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "refreshing",
+    "meaningThai": "สดชื่น",
+    "examples": [
+      "This drink is very refreshing.",
+      "Mint gives a refreshing flavor."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "tangy",
+    "meaningThai": "เปรี้ยวแบบจี๊ดจ๊าด",
+    "examples": [
+      "The sauce has a tangy taste.",
+      "I love tangy salad dressings."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "salty",
+    "meaningThai": "เค็ม",
+    "examples": ["The soup is too salty.", "I like salty snacks."]
+  },
+  {
+    "id": 58,
+    "word": "bland",
+    "meaningThai": "รสจืด",
+    "examples": ["The noodles taste bland.", "Add salt if it's too bland."]
+  },
+  {
+    "id": 59,
+    "word": "greasy",
+    "meaningThai": "มันเยิ้ม",
+    "examples": ["This fried food is greasy.", "I avoid greasy meals at night."]
+  },
+  {
+    "id": 60,
+    "word": "mashed",
+    "meaningThai": "บดละเอียด",
+    "examples": ["I love mashed potatoes.", "Mash the bananas until smooth."]
+  },
+  {
+    "id": 61,
+    "word": "diced",
+    "meaningThai": "หั่นเต๋า",
+    "examples": ["Add diced tomatoes.", "Dice the onions evenly."]
+  },
+  {
+    "id": 62,
+    "word": "minced",
+    "meaningThai": "สับละเอียด",
+    "examples": ["Use minced garlic.", "Minced meat cooks faster."]
+  },
+  {
+    "id": 63,
+    "word": "simmer",
+    "meaningThai": "เคี่ยวไฟอ่อน",
+    "examples": [
+      "Simmer the soup for 20 minutes.",
+      "Let it simmer until thick."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "caramelize",
+    "meaningThai": "ทำให้เป็นคาราเมล/ทำให้หวานไหม้",
+    "examples": [
+      "Caramelize the onions slowly.",
+      "Sugar caramelizes at high heat."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "spread",
+    "meaningThai": "ทา/ปาด (เช่น เนย)",
+    "examples": ["Spread butter on the toast.", "Don't spread too much jam."]
+  },
+  {
+    "id": 66,
+    "word": "dip",
+    "meaningThai": "จิ้ม",
+    "examples": ["Dip the fries in ketchup.", "I love dipping sauce."]
+  },
+  {
+    "id": 67,
+    "word": "pour",
+    "meaningThai": "เท/ราด",
+    "examples": ["Pour the sauce over the pasta.", "Pour the milk gently."]
+  },
+  {
+    "id": 68,
+    "word": "knead",
+    "meaningThai": "นวดแป้ง",
+    "examples": [
+      "Knead the dough for 10 minutes.",
+      "The dough is easy to knead."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "brew",
+    "meaningThai": "ชง/ต้ม (ชา, กาแฟ)",
+    "examples": [
+      "They brew their own coffee.",
+      "Brew the tea for three minutes."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "stew",
+    "meaningThai": "ตุ๋น, อาหารตุ๋น",
+    "examples": ["The beef stew is tender.", "Stew the meat slowly."]
+  },
+  {
+    "id": 71,
+    "word": "roast",
+    "meaningThai": "อบ/คั่ว/ย่างแบบแห้ง",
+    "examples": [
+      "Roast the chicken for 45 minutes.",
+      "I love roasted vegetables."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "toast",
+    "meaningThai": "ปิ้ง/ขนมปังปิ้ง",
+    "examples": ["Toast the bread lightly.", "I had toast for breakfast."]
+  },
+  {
+    "id": 73,
+    "word": "melt",
+    "meaningThai": "ละลาย",
+    "examples": ["Melt the butter first.", "The cheese melts beautifully."]
+  },
+  {
+    "id": 74,
+    "word": "scoop",
+    "meaningThai": "ตัก (โดยใช้ช้อนตัก)",
+    "examples": ["Scoop some ice cream.", "She scooped rice into the bowl."]
+  },
+  {
+    "id": 75,
+    "word": "sprinkle",
+    "meaningThai": "โรย",
+    "examples": ["Sprinkle salt lightly.", "Sprinkle cheese on top."]
+  },
+  {
+    "id": 76,
+    "word": "drizzle",
+    "meaningThai": "ราดเป็นเส้นบาง ๆ",
+    "examples": ["Drizzle honey over the bread.", "Drizzle some olive oil."]
+  },
+  {
+    "id": 77,
+    "word": "craving",
+    "meaningThai": "ความอยากกิน",
+    "examples": ["I’m craving something sweet.", "She had a craving for sushi."]
+  },
+  {
+    "id": 78,
+    "word": "appetite",
+    "meaningThai": "ความอยากอาหาร",
+    "examples": ["I lost my appetite.", "Exercise increases your appetite."]
+  },
+  {
+    "id": 79,
+    "word": "leftover soup",
+    "meaningThai": "ซุปที่เหลือ",
+    "examples": ["Heat the leftover soup.", "We saved the leftover soup."]
+  },
+  {
+    "id": 80,
+    "word": "food allergy",
+    "meaningThai": "แพ้อาหาร",
+    "examples": ["He has a peanut allergy.", "Check for food allergies first."]
+  },
+  {
+    "id": 81,
+    "word": "vegan",
+    "meaningThai": "วีแกน (ไม่กินสัตว์และผลผลิตจากสัตว์)",
+    "examples": ["They serve vegan options.", "She switched to a vegan diet."]
+  },
+  {
+    "id": 82,
+    "word": "vegetarian",
+    "meaningThai": "มังสวิรัติ",
+    "examples": [
+      "Is this vegetarian?",
+      "Many restaurants offer vegetarian dishes."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "organic",
+    "meaningThai": "ออร์แกนิก",
+    "examples": [
+      "I prefer organic vegetables.",
+      "This shop sells organic produce."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "condiment",
+    "meaningThai": "เครื่องปรุงบนโต๊ะ (ซอส, น้ำปลา ฯลฯ)",
+    "examples": [
+      "Ketchup is a common condiment.",
+      "Pass me the condiments, please."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "pickles",
+    "meaningThai": "ผักดอง",
+    "examples": ["Pickles go well with burgers.", "I love sour pickles."]
+  },
+  {
+    "id": 86,
+    "word": "gravy",
+    "meaningThai": "น้ำเกรวี่",
+    "examples": [
+      "The gravy tastes amazing.",
+      "Pour gravy over the mashed potatoes."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "dressing",
+    "meaningThai": "น้ำสลัด",
+    "examples": [
+      "The salad dressing is homemade.",
+      "Add more dressing if you like."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "comfort food",
+    "meaningThai": "อาหารที่กินแล้วสบายใจ",
+    "examples": [
+      "Soup is my comfort food.",
+      "Everyone has their own comfort food."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "fusion food",
+    "meaningThai": "อาหารฟิวชั่น",
+    "examples": [
+      "This is a fusion restaurant.",
+      "Fusion food mixes different cuisines."
+    ]
+  },
+  {
+    "id": 90,
+    "word": "street food",
+    "meaningThai": "อาหารข้างทาง",
+    "examples": [
+      "Thailand is famous for its street food.",
+      "Street food is cheap and tasty."
+    ]
+  },
+  {
+    "id": 91,
+    "word": "signature dish",
+    "meaningThai": "เมนูเด่นของร้าน",
+    "examples": [
+      "Pad Thai is their signature dish.",
+      "Try the restaurant's signature dish."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "course meal",
+    "meaningThai": "มื้อแบบมีหลายคอร์ส",
+    "examples": [
+      "We had a three-course meal.",
+      "A course meal includes appetizer and dessert."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "food stall",
+    "meaningThai": "ร้านอาหารเล็ก ๆ / ร้านรถเข็น",
+    "examples": [
+      "I bought noodles from a food stall.",
+      "Street food stalls open late."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "refreshment",
+    "meaningThai": "ของว่างและเครื่องดื่มเบา ๆ",
+    "examples": [
+      "Refreshments will be served later.",
+      "We prepared light refreshments."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "food presentation",
+    "meaningThai": "การจัดจานอาหาร",
+    "examples": [
+      "The food presentation is beautiful.",
+      "Good presentation makes food more appetizing."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "balanced meal",
+    "meaningThai": "มื้ออาหารที่สมดุล",
+    "examples": [
+      "Try to eat a balanced meal.",
+      "This dish is not very balanced."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "flaky",
+    "meaningThai": "ร่วนเป็นชั้น (พาย/ครัวซองต์)",
+    "examples": ["The croissant is soft and flaky.", "I love flaky pastry."]
+  },
+  {
+    "id": 98,
+    "word": "buttery",
+    "meaningThai": "หอมเนย/รสเนย",
+    "examples": [
+      "The cookies are rich and buttery.",
+      "This bread has a buttery aroma."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "zesty",
+    "meaningThai": "รสสดชื่น เปรี้ยวอมหวานแบบมีชีวิตชีวา",
+    "examples": [
+      "The sauce has a zesty flavor.",
+      "Lime makes dishes more zesty."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "overcooked",
+    "meaningThai": "สุกเกินไป",
+    "examples": [
+      "The pasta is overcooked.",
+      "Be careful not to overcook the meat."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "undercooked",
+    "meaningThai": "สุกไม่พอ",
+    "examples": [
+      "The chicken is undercooked.",
+      "Undercooked meat can be unsafe."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "raw",
+    "meaningThai": "ดิบ",
+    "examples": ["Sushi uses raw fish.", "Some vegetables are eaten raw."]
+  },
+  {
+    "id": 103,
+    "word": "ripe",
+    "meaningThai": "สุกพร้อมกิน (ผลไม้)",
+    "examples": ["These bananas are ripe.", "Pick a ripe mango."]
+  },
+  {
+    "id": 104,
+    "word": "overripe",
+    "meaningThai": "สุกงอมเกินไป",
+    "examples": [
+      "The banana is overripe.",
+      "Overripe fruit is good for baking."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "frozen",
+    "meaningThai": "แช่แข็ง",
+    "examples": ["We bought frozen vegetables.", "Keep the meat frozen."]
+  },
+  {
+    "id": 106,
+    "word": "thaw",
+    "meaningThai": "ละลายน้ำแข็ง",
+    "examples": [
+      "Thaw the chicken before cooking.",
+      "Let the prawns thaw naturally."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "fermented",
+    "meaningThai": "หมักดอง",
+    "examples": [
+      "Kimchi is a fermented food.",
+      "Fermented products are good for digestion."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "grated",
+    "meaningThai": "ขูด/ฝน",
+    "examples": ["Add grated cheese.", "Grate the carrots finely."]
+  },
+  {
+    "id": 109,
+    "word": "ripe aroma",
+    "meaningThai": "กลิ่นสุกหอม (ผลไม้)",
+    "examples": [
+      "The durian has a strong ripe aroma.",
+      "Smell the aroma to check ripeness."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "crispy skin",
+    "meaningThai": "หนังกรอบ",
+    "examples": [
+      "The chicken has crispy skin.",
+      "Bake longer for crispier skin."
+    ]
+  },
+  {
+    "id": 111,
+    "word": "soggy",
+    "meaningThai": "แฉะ/นิ่มจนไม่น่ากิน",
+    "examples": ["The fries turned soggy.", "Don’t let the cereal get soggy."]
+  },
+  {
+    "id": 112,
+    "word": "stale",
+    "meaningThai": "ไม่สด/เหม็นหืน (ขนมปัง/ของอบ)",
+    "examples": ["The bread is stale.", "Stale food tastes bad."]
+  },
+  {
+    "id": 113,
+    "word": "expired",
+    "meaningThai": "หมดอายุ",
+    "examples": ["Don't eat expired food.", "Check the expiration date."]
+  },
+  {
+    "id": 114,
+    "word": "expiry date",
+    "meaningThai": "วันหมดอายุ",
+    "examples": [
+      "Check the expiry date on the milk.",
+      "The expiry date is tomorrow."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "chewy texture",
+    "meaningThai": "เนื้อสัมผัสหนุบหนับ",
+    "examples": [
+      "This candy has a chewy texture.",
+      "I like noodles with a chewy texture."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "foamy",
+    "meaningThai": "เป็นฟอง",
+    "examples": ["The coffee is foamy.", "Whisk until foamy."]
+  },
+  {
+    "id": 117,
+    "word": "creamy sauce",
+    "meaningThai": "ซอสครีมมี่",
+    "examples": [
+      "The creamy sauce is delicious.",
+      "Add cream to make the sauce creamy."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "chilled",
+    "meaningThai": "เย็นๆ",
+    "examples": ["Serve the drink chilled.", "Keep the dessert chilled."]
+  },
+  {
+    "id": 119,
+    "word": "refreshing drink",
+    "meaningThai": "เครื่องดื่มที่สดชื่น",
+    "examples": [
+      "Lemonade is a refreshing drink.",
+      "Cold tea is very refreshing."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "nutty",
+    "meaningThai": "กลิ่น/รสคล้ายถั่ว",
+    "examples": [
+      "This coffee has a nutty flavor.",
+      "Brown butter tastes nutty."
+    ]
+  },
+  {
+    "id": 121,
+    "word": "fragrant",
+    "meaningThai": "หอม",
+    "examples": ["Jasmine rice is very fragrant.", "The herbs smell fragrant."]
+  },
+  {
+    "id": 122,
+    "word": "zesty flavor",
+    "meaningThai": "รสเปรี้ยวสดชื่น",
+    "examples": ["The sauce has a zesty flavor.", "Lemon gives a zesty kick."]
+  },
+  {
+    "id": 123,
+    "word": "umami broth",
+    "meaningThai": "น้ำซุปอูมามิ",
+    "examples": [
+      "The ramen has rich umami broth.",
+      "Simmer longer for stronger umami."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "crispy topping",
+    "meaningThai": "ท็อปปิ้งกรอบ",
+    "examples": [
+      "Add crispy topping for texture.",
+      "The crispy topping completes the dish."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "garnish with",
+    "meaningThai": "ตกแต่งด้วย...",
+    "examples": ["Garnish with parsley.", "Garnish with lemon slices."]
+  },
+  {
+    "id": 126,
+    "word": "sear",
+    "meaningThai": "ย่าง/ทอดให้ไหม้นิดๆด้านนอก",
+    "examples": ["Sear the steak on high heat.", "Searing locks in the flavor."]
+  },
+  {
+    "id": 127,
+    "word": "skim",
+    "meaningThai": "ช้อนฟอง/ไขมันออก",
+    "examples": ["Skim the foam off the top.", "Skim excess oil from the soup."]
+  },
+  {
+    "id": 128,
+    "word": "strain",
+    "meaningThai": "กรอง",
+    "examples": [
+      "Strain the broth before serving.",
+      "Strain the juice to remove pulp."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "fold",
+    "meaningThai": "ตะล่อม (ผสมเบาๆในเบเกอรี่)",
+    "examples": ["Fold the batter gently.", "Fold in the whipped cream."]
+  },
+  {
+    "id": 130,
+    "word": "coat",
+    "meaningThai": "คลุก/เคลือบ",
+    "examples": ["Coat the chicken with flour.", "Coat the wings in sauce."]
+  },
+  {
+    "id": 131,
+    "word": "prep",
+    "meaningThai": "เตรียมวัตถุดิบ",
+    "examples": ["I need to prep the vegetables.", "Kitchen prep takes time."]
+  },
+  {
+    "id": 132,
+    "word": "leftover ingredients",
+    "meaningThai": "วัตถุดิบที่เหลือ",
+    "examples": [
+      "Use leftover ingredients wisely.",
+      "We cooked with leftover ingredients."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "house special",
+    "meaningThai": "เมนูพิเศษประจำร้าน",
+    "examples": ["Try the house special.", "The house special changes weekly."]
+  },
+  {
+    "id": 134,
+    "word": "bill please",
+    "meaningThai": "เช็คบิลครับ/ค่ะ",
+    "examples": ["Can I have the bill please?", "We asked for the bill."]
+  },
+  {
+    "id": 135,
+    "word": "table for two",
+    "meaningThai": "โต๊ะสำหรับสองคน",
+    "examples": ["Table for two, please.", "They booked a table for two."]
+  },
+  {
+    "id": 136,
+    "word": "allergic to",
+    "meaningThai": "แพ้...",
+    "examples": ["I’m allergic to peanuts.", "She's allergic to seafood."]
+  },
+  {
+    "id": 137,
+    "word": "recommendation",
+    "meaningThai": "เมนูแนะนำ",
+    "examples": [
+      "Do you have any recommendations?",
+      "What's your recommendation today?"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "refill",
+    "meaningThai": "เติม (น้ำ/เครื่องดื่ม)",
+    "examples": ["Free refills are available.", "Can I get a refill?"]
+  },
+  {
+    "id": 139,
+    "word": "mild",
+    "meaningThai": "รสอ่อน, ไม่จัด",
+    "examples": ["I prefer mild curry.", "This dish is quite mild."]
+  },
+  {
+    "id": 140,
+    "word": "medium spicy",
+    "meaningThai": "เผ็ดกลาง",
+    "examples": ["I want it medium spicy.", "Medium spicy is perfect for me."]
+  },
+  {
+    "id": 141,
+    "word": "extra spicy",
+    "meaningThai": "เผ็ดมาก",
+    "examples": ["Make mine extra spicy.", "This is extremely spicy."]
+  },
+  {
+    "id": 142,
+    "word": "grilled platter",
+    "meaningThai": "จานรวมของปิ้งย่าง",
+    "examples": [
+      "We ordered the grilled platter.",
+      "The seafood platter is popular."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "stirred",
+    "meaningThai": "คน/ผสมด้วยการคน",
+    "examples": [
+      "Stirred constantly to avoid burning.",
+      "The sauce must be stirred gently."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "poached",
+    "meaningThai": "ตุ๋น/ลวกในน้ำเดือดอ่อน ๆ",
+    "examples": ["Poached eggs are soft.", "Try poached chicken."]
+  },
+  {
+    "id": 145,
+    "word": "broiled",
+    "meaningThai": "อบไฟบนแรง ๆ",
+    "examples": [
+      "The fish was broiled perfectly.",
+      "Broiled cheese tastes amazing."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "condensed milk",
+    "meaningThai": "นมข้นหวาน",
+    "examples": [
+      "Thai tea uses condensed milk.",
+      "Add condensed milk for sweetness."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "savory broth",
+    "meaningThai": "น้ำซุปเค็มกลมกล่อม",
+    "examples": [
+      "The savory broth tastes comforting.",
+      "Simmer for deeper savory notes."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "food texture",
+    "meaningThai": "เนื้อสัมผัสของอาหาร",
+    "examples": [
+      "Good ramen has perfect texture.",
+      "Texture matters in desserts."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "juicy bite",
+    "meaningThai": "คำที่ฉ่ำ",
+    "examples": ["Every bite is juicy.", "The burger has a juicy bite."]
+  },
+  {
+    "id": 150,
+    "word": "fluffy",
+    "meaningThai": "ฟู นุ่มเบา",
+    "examples": ["The pancakes are fluffy.", "Whip the eggs until fluffy."]
+  },
+  {
+    "id": 151,
+    "word": "whip",
+    "meaningThai": "ตีส่วนผสมให้ฟู",
+    "examples": ["Whip the cream until thick.", "Whip the eggs for the batter."]
+  },
+  {
+    "id": 152,
+    "word": "marbling",
+    "meaningThai": "ลายไขมันแทรกในเนื้อ",
+    "examples": [
+      "This steak has beautiful marbling.",
+      "Marbling makes the meat tender."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "lean meat",
+    "meaningThai": "เนื้อไม่ติดมัน",
+    "examples": [
+      "Lean meat is healthier.",
+      "Choose lean cuts if you want less fat."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "skewer",
+    "meaningThai": "ไม้เสียบ/เสียบไม้",
+    "examples": [
+      "Grill the chicken skewers.",
+      "Thread the meat onto the skewer."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "tongs",
+    "meaningThai": "คีมคีบอาหาร",
+    "examples": ["Use tongs to flip the steak.", "Grab the salad with tongs."]
+  },
+  {
+    "id": 156,
+    "word": "ladle",
+    "meaningThai": "ทัพพีตักน้ำซุป",
+    "examples": ["Use a ladle for the soup.", "She ladled broth into the bowl."]
+  },
+  {
+    "id": 157,
+    "word": "cutlery",
+    "meaningThai": "ชุดช้อนส้อมมีด",
+    "examples": [
+      "The cutlery is on the table.",
+      "We need more cutlery for guests."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "tableware",
+    "meaningThai": "ภาชนะบนโต๊ะอาหาร",
+    "examples": [
+      "The restaurant uses elegant tableware.",
+      "We bought new tableware sets."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "serve warm",
+    "meaningThai": "เสิร์ฟแบบอุ่น",
+    "examples": ["Serve warm for best taste.", "The bread is served warm."]
+  },
+  {
+    "id": 160,
+    "word": "overseasoned",
+    "meaningThai": "ปรุงรสจัดเกินไป",
+    "examples": [
+      "The soup is overseasoned.",
+      "Be careful not to overseason it."
+    ]
+  },
+  {
+    "id": 161,
+    "word": "undercooked center",
+    "meaningThai": "ตรงกลางสุกไม่พอ",
+    "examples": [
+      "The steak has an undercooked center.",
+      "Check the center before serving."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "aromatic herbs",
+    "meaningThai": "สมุนไพรหอม",
+    "examples": ["Aromatic herbs add flavor.", "They used many aromatic herbs."]
+  },
+  {
+    "id": 163,
+    "word": "flaky crust",
+    "meaningThai": "แป้งกรอบเป็นชั้น",
+    "examples": ["The pie has a flaky crust.", "I love flaky pastry layers."]
+  },
+  {
+    "id": 164,
+    "word": "broth-based",
+    "meaningThai": "ทำจากน้ำซุป",
+    "examples": ["Pho is a broth-based dish.", "I prefer broth-based soups."]
+  },
+  {
+    "id": 165,
+    "word": "gravy boat",
+    "meaningThai": "ภาชนะใส่น้ำเกรวี่",
+    "examples": [
+      "Pass the gravy boat, please.",
+      "The gravy boat is on the side."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "topping",
+    "meaningThai": "ท็อปปิ้ง",
+    "examples": [
+      "Add your favorite topping.",
+      "Cheese topping makes it better."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "side salad",
+    "meaningThai": "สลัดเคียง",
+    "examples": [
+      "It comes with a side salad.",
+      "I ordered a side salad instead of fries."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "condensed soup",
+    "meaningThai": "ซุปเข้มข้นแบบกระป๋อง",
+    "examples": [
+      "Add water to condensed soup.",
+      "This recipe uses condensed mushroom soup."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "table salt",
+    "meaningThai": "เกลือป่นที่ใช้ทั่วไป",
+    "examples": ["Add a pinch of table salt.", "Table salt dissolves quickly."]
+  },
+  {
+    "id": 170,
+    "word": "coarse salt",
+    "meaningThai": "เกลือหยาบ",
+    "examples": [
+      "Season the steak with coarse salt.",
+      "Coarse salt adds crunch."
+    ]
+  },
+  {
+    "id": 171,
+    "word": "squeeze",
+    "meaningThai": "บีบ (เช่น น้ำมะนาว)",
+    "examples": ["Squeeze lemon over the fish.", "Give it one more squeeze."]
+  },
+  {
+    "id": 172,
+    "word": "rub",
+    "meaningThai": "ถู/นวดเครื่องเทศเข้ากับเนื้อ",
+    "examples": ["Rub the spices into the meat.", "Use a dry rub for barbecue."]
+  },
+  {
+    "id": 173,
+    "word": "bitter-sweet",
+    "meaningThai": "หวานปนขม",
+    "examples": [
+      "Dark chocolate is bitter-sweet.",
+      "I like bitter-sweet flavors."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "tart",
+    "meaningThai": "เปรี้ยวจัด/รสจี๊ด",
+    "examples": ["The lemon pie is tart.", "Tart flavors wake up your palate."]
+  },
+  {
+    "id": 175,
+    "word": "earthy",
+    "meaningThai": "รส/กลิ่นคล้ายดิน (เห็ด/หัวผัก)",
+    "examples": ["Mushrooms have an earthy flavor.", "This tea tastes earthy."]
+  },
+  {
+    "id": 176,
+    "word": "buttery texture",
+    "meaningThai": "เนื้อนุ่มมันแบบเนย",
+    "examples": [
+      "The avocado has a buttery texture.",
+      "This fish tastes buttery."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "crusty bread",
+    "meaningThai": "ขนมปังเปลือกแข็งกรอบ",
+    "examples": ["I bought crusty bread.", "Crusty bread goes well with soup."]
+  },
+  {
+    "id": 178,
+    "word": "puffy",
+    "meaningThai": "พองฟู",
+    "examples": [
+      "The pastry is light and puffy.",
+      "Bake until it's puffy and golden."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "pit",
+    "meaningThai": "เมล็ดใหญ่ของผลไม้ (เช่น อะโวคาโด)",
+    "examples": ["Remove the pit before slicing.", "The pit is very hard."]
+  },
+  {
+    "id": 180,
+    "word": "peel",
+    "meaningThai": "ปอกเปลือก",
+    "examples": ["Peel the carrots.", "Peel the mango before slicing."]
+  },
+  {
+    "id": 181,
+    "word": "rind",
+    "meaningThai": "เปลือกแข็งของผลไม้/ชีส",
+    "examples": ["Grate the lemon rind.", "The cheese has an edible rind."]
+  },
+  {
+    "id": 182,
+    "word": "shellfish",
+    "meaningThai": "อาหารทะเลประเภทหอย/กุ้งปู",
+    "examples": ["He's allergic to shellfish.", "Shellfish cooks quickly."]
+  },
+  {
+    "id": 183,
+    "word": "seafood platter",
+    "meaningThai": "ชุดรวมอาหารทะเล",
+    "examples": ["We shared a seafood platter.", "The seafood platter is huge."]
+  },
+  {
+    "id": 184,
+    "word": "stir well",
+    "meaningThai": "คนให้เข้ากัน",
+    "examples": ["Stir well before serving.", "Stir well to mix the sauce."]
+  },
+  {
+    "id": 185,
+    "word": "overmix",
+    "meaningThai": "ผสมมากเกินไป (ทำให้เสียเนื้อสัมผัส)",
+    "examples": ["Don’t overmix the batter.", "Overmixing makes cakes tough."]
+  },
+  {
+    "id": 186,
+    "word": "food processor",
+    "meaningThai": "เครื่องบด/ปั่นอาหาร",
+    "examples": [
+      "Put the onions in the food processor.",
+      "Use a food processor for quicker prep."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "to-go box",
+    "meaningThai": "กล่องใส่อาหารกลับบ้าน",
+    "examples": [
+      "Can I get a to-go box?",
+      "They packed the leftovers in a to-go box."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "table service",
+    "meaningThai": "การบริการถึงโต๊ะ",
+    "examples": [
+      "This restaurant offers table service.",
+      "Table service may take a few minutes."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "self-service",
+    "meaningThai": "บริการตัวเอง",
+    "examples": [
+      "The drinks are self-service.",
+      "Buffet restaurants are usually self-service."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "meal prep",
+    "meaningThai": "เตรียมอาหารล่วงหน้า",
+    "examples": ["I do meal prep every Sunday.", "Meal prep saves time."]
+  },
+  {
+    "id": 191,
+    "word": "food portion",
+    "meaningThai": "ปริมาณอาหาร",
+    "examples": [
+      "The food portion is large.",
+      "Control your portions for better health."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "cooking oil",
+    "meaningThai": "น้ำมันสำหรับทำอาหาร",
+    "examples": [
+      "Heat the cooking oil.",
+      "Use less cooking oil for this recipe."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "slicing board",
+    "meaningThai": "เขียง",
+    "examples": [
+      "Use a clean slicing board.",
+      "Keep separate boards for meat and vegetables."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "kitchenware",
+    "meaningThai": "อุปกรณ์ในครัว",
+    "examples": [
+      "The store sells quality kitchenware.",
+      "We bought new kitchenware yesterday."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "deep-fry",
+    "meaningThai": "ทอดน้ำมันท่วม",
+    "examples": [
+      "Deep-fry the chicken until golden.",
+      "Be careful when deep-frying."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "pan-fry",
+    "meaningThai": "ทอดแบบใช้น้ำมันน้อย",
+    "examples": ["Pan-fry the fish fillet.", "Pan-frying keeps it healthier."]
+  },
+  {
+    "id": 197,
+    "word": "griddle",
+    "meaningThai": "เตาแผ่นเรียบสำหรับทอด/ปิ้ง",
+    "examples": [
+      "Cook pancakes on the griddle.",
+      "Heat the griddle before using."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "marinated",
+    "meaningThai": "ที่ถูกหมัก",
+    "examples": [
+      "Marinated chicken tastes better.",
+      "The meat was marinated overnight."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "preheat",
+    "meaningThai": "อุ่นเตาให้ร้อนก่อนใช้",
+    "examples": ["Preheat the oven to 180°C.", "Always preheat before baking."]
+  },
+  {
+    "id": 200,
+    "word": "handmade",
+    "meaningThai": "ทำด้วยมือ",
+    "examples": ["This pasta is handmade.", "Handmade food tastes special."]
+  },
+  {
+    "id": 201,
+    "word": "homestyle",
+    "meaningThai": "สไตล์ทำกินที่บ้าน",
+    "examples": ["This soup tastes homestyle.", "They serve homestyle dishes."]
+  },
+  {
+    "id": 202,
+    "word": "creamy texture",
+    "meaningThai": "เนื้อสัมผัสครีมมี่",
+    "examples": [
+      "The pasta has a creamy texture.",
+      "Add milk for a creamier texture."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "toasted",
+    "meaningThai": "ปิ้ง/อบจนเกรียมนิดๆ",
+    "examples": ["I like toasted bread.", "The nuts are lightly toasted."]
+  },
+  {
+    "id": 204,
+    "word": "battered",
+    "meaningThai": "ชุบแป้งทอด",
+    "examples": ["Battered fish is popular.", "They sell battered shrimp."]
+  },
+  {
+    "id": 205,
+    "word": "seasoned",
+    "meaningThai": "ปรุงรสแล้ว",
+    "examples": [
+      "The fries are well seasoned.",
+      "Use seasoned chicken for grilling."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "unseasoned",
+    "meaningThai": "ยังไม่ปรุงรส",
+    "examples": [
+      "The meat is unseasoned.",
+      "Season the eggs—they're too plain."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "hearty",
+    "meaningThai": "อิ่มท้อง/จานใหญ่/เต็มอิ่ม",
+    "examples": ["This is a hearty meal.", "The soup is warm and hearty."]
+  },
+  {
+    "id": 208,
+    "word": "bite-sized",
+    "meaningThai": "พอดีคำ",
+    "examples": ["Serve bite-sized pieces.", "These snacks are bite-sized."]
+  },
+  {
+    "id": 209,
+    "word": "overdone",
+    "meaningThai": "สุกเกิน/ทำมากเกิน",
+    "examples": ["The steak is overdone.", "Don't overdo the seasoning."]
+  },
+  {
+    "id": 210,
+    "word": "food grade",
+    "meaningThai": "ปลอดภัยสำหรับใช้กับอาหาร",
+    "examples": ["Use food-grade containers.", "The oil is food grade."]
+  },
+  {
+    "id": 211,
+    "word": "dressing on the side",
+    "meaningThai": "น้ำสลัดแยก",
+    "examples": [
+      "Can I get the dressing on the side?",
+      "They serve dressing on the side."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "stirred in",
+    "meaningThai": "คนผสมลงไป",
+    "examples": ["The sugar is stirred in.", "Stir in the butter slowly."]
+  },
+  {
+    "id": 213,
+    "word": "flavor profile",
+    "meaningThai": "โทนรสชาติรวมของอาหาร",
+    "examples": [
+      "This dish has a bold flavor profile.",
+      "They changed the flavor profile."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "lightly salted",
+    "meaningThai": "เค็มอ่อน ๆ",
+    "examples": [
+      "These chips are lightly salted.",
+      "I prefer lightly salted nuts."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "charred",
+    "meaningThai": "ไหม้นิดๆแบบหอม",
+    "examples": [
+      "The veggies are slightly charred.",
+      "Charred edges add flavor."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "freshly brewed",
+    "meaningThai": "ชงสดใหม่",
+    "examples": [
+      "Freshly brewed coffee smells amazing.",
+      "They serve freshly brewed tea."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "slow-cooked",
+    "meaningThai": "ปรุงด้วยไฟอ่อนนาน ๆ",
+    "examples": [
+      "The beef is slow-cooked.",
+      "Slow-cooked dishes are very tender."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "oven-roasted",
+    "meaningThai": "อบในเตาอบ",
+    "examples": [
+      "Try the oven-roasted potatoes.",
+      "They serve oven-roasted chicken."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "cooked through",
+    "meaningThai": "สุกทั่วถึง",
+    "examples": [
+      "Make sure the meat is cooked through.",
+      "The center is not cooked through."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "homemade sauce",
+    "meaningThai": "ซอสทำเอง",
+    "examples": [
+      "The homemade sauce is fantastic.",
+      "They serve pasta with homemade sauce."
+    ]
+  },
+  {
+    "id": 221,
+    "word": "food quality",
+    "meaningThai": "คุณภาพอาหาร",
+    "examples": ["The food quality is excellent.", "We focus on food quality."]
+  },
+  {
+    "id": 222,
+    "word": "farm fresh",
+    "meaningThai": "สดจากฟาร์ม",
+    "examples": ["They use farm-fresh ingredients.", "The eggs are farm fresh."]
+  },
+  {
+    "id": 223,
+    "word": "day-old bread",
+    "meaningThai": "ขนมปังทำเมื่อวาน",
+    "examples": [
+      "Day-old bread is good for toast.",
+      "This bread tastes day-old."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "food portioning",
+    "meaningThai": "การแบ่งส่วนอาหาร",
+    "examples": [
+      "Food portioning helps with diet control.",
+      "Restaurants focus on proper portioning."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "table condiment",
+    "meaningThai": "เครื่องปรุงบนโต๊ะ",
+    "examples": [
+      "Ketchup is a table condiment.",
+      "They provide many table condiments."
+    ]
+  },
+  {
+    "id": 226,
+    "word": "pre-cut",
+    "meaningThai": "ตัดไว้ล่วงหน้า",
+    "examples": [
+      "Use pre-cut veggies to save time.",
+      "These pre-cut fruits are convenient."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "bite",
+    "meaningThai": "คำ/ชิมหนึ่งคำ",
+    "examples": ["Take a bite.", "Let me try one bite."]
+  },
+  {
+    "id": 228,
+    "word": "grit",
+    "meaningThai": "ผงทราย/สิ่งเล็กๆในอาหาร",
+    "examples": [
+      "Wash the clams to remove grit.",
+      "The spinach still has grit in it."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "flake",
+    "meaningThai": "แผ่นเล็ก ๆ (ปลาฟู/ของกรอบ)",
+    "examples": [
+      "The fish flakes easily.",
+      "The topping comes in crispy flakes."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "food-safe",
+    "meaningThai": "ปลอดภัยต่ออาหาร",
+    "examples": [
+      "Use food-safe containers only.",
+      "This paint is not food-safe."
+    ]
+  },
+  {
+    "id": 231,
+    "word": "handcrafted",
+    "meaningThai": "ทำด้วยมืออย่างประณีต",
+    "examples": [
+      "They serve handcrafted noodles.",
+      "This is a handcrafted dessert."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "frosting",
+    "meaningThai": "ครีมหน้าขนมเค้ก",
+    "examples": [
+      "The frosting is too sweet.",
+      "Chocolate frosting is my favorite."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "food truck",
+    "meaningThai": "รถขายอาหาร",
+    "examples": [
+      "We ate at a food truck.",
+      "Food trucks are popular at festivals."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "signature sauce",
+    "meaningThai": "ซอสประจำร้าน",
+    "examples": [
+      "Try their signature sauce.",
+      "The signature sauce is amazing."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "sticky",
+    "meaningThai": "เหนียว",
+    "examples": ["The rice is sticky.", "The sauce is thick and sticky."]
+  },
+  {
+    "id": 236,
+    "word": "lightly fried",
+    "meaningThai": "ทอดแบบใช้น้ำมันน้อย",
+    "examples": [
+      "These dumplings are lightly fried.",
+      "I want it lightly fried."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "mouthwatering",
+    "meaningThai": "น่ากินมาก/น้ำลายไหล",
+    "examples": [
+      "The smell is mouthwatering.",
+      "That dish looks mouthwatering."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "sweetened",
+    "meaningThai": "เพิ่มความหวาน",
+    "examples": [
+      "Sweetened condensed milk is common in Asia.",
+      "I prefer unsweetened tea."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "unsweetened",
+    "meaningThai": "ไม่หวาน/ไม่เติมน้ำตาล",
+    "examples": [
+      "I drink unsweetened coffee.",
+      "Unsweetened yogurt tastes sour."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "slow roast",
+    "meaningThai": "อบช้า ๆ ไฟอ่อน",
+    "examples": [
+      "Slow roast the pork for tenderness.",
+      "The vegetables were slow roasted."
+    ]
+  },
+  {
+    "id": 241,
+    "word": "carb",
+    "meaningThai": "คาร์โบไฮเดรต",
+    "examples": ["I'm cutting down on carbs.", "Rice is high in carbs."]
+  },
+  {
+    "id": 242,
+    "word": "protein-rich",
+    "meaningThai": "อุดมไปด้วยโปรตีน",
+    "examples": ["Eggs are protein-rich.", "Try this protein-rich meal."]
+  },
+  {
+    "id": 243,
+    "word": "high-fiber",
+    "meaningThai": "ใยอาหารสูง",
+    "examples": ["Oats are high-fiber.", "This dish is healthy and high-fiber."]
+  },
+  {
+    "id": 244,
+    "word": "locally sourced",
+    "meaningThai": "วัตถุดิบมาจากท้องถิ่น",
+    "examples": [
+      "They use locally sourced vegetables.",
+      "Locally sourced food is fresher."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "farm-raised",
+    "meaningThai": "เลี้ยงจากฟาร์ม",
+    "examples": ["They serve farm-raised salmon.", "The eggs are farm-raised."]
+  },
+  {
+    "id": 246,
+    "word": "wild-caught",
+    "meaningThai": "จับจากธรรมชาติ",
+    "examples": [
+      "Wild-caught fish tastes different.",
+      "This tuna is wild-caught."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "pan-seared",
+    "meaningThai": "ย่าง/ทอดบนกระทะไฟแรงให้ผิวไหม้เล็กน้อย",
+    "examples": [
+      "Try the pan-seared salmon.",
+      "Pan-seared steak tastes amazing."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "crumbly",
+    "meaningThai": "แตกง่าย/ร่วน",
+    "examples": ["The cookie is soft and crumbly.", "This cheese is crumbly."]
+  },
+  {
+    "id": 249,
+    "word": "fork-tender",
+    "meaningThai": "นุ่มจนใช้ส้อมหั่นได้",
+    "examples": [
+      "The beef is fork-tender.",
+      "Slow cooking makes it fork-tender."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "food presentation",
+    "meaningThai": "การจัดจานอาหาร",
+    "examples": [
+      "Good food presentation impresses customers.",
+      "The presentation is beautiful."
+    ]
+  }
+]

@@ -1,0 +1,2219 @@
+[
+  {
+    "id": 1,
+    "word": "on schedule",
+    "meaningThai": "ตรงตามกำหนดเวลา",
+    "examples": [
+      "The project is still on schedule.",
+      "We need to finish this task on schedule."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "behind schedule",
+    "meaningThai": "ล่าช้ากว่ากำหนด",
+    "examples": [
+      "We're behind schedule due to unexpected issues.",
+      "The team is trying to catch up on delayed tasks."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "deadline",
+    "meaningThai": "เส้นตาย, วันที่ต้องส่งงาน",
+    "examples": [
+      "The deadline is next Monday.",
+      "I need more time to meet the deadline."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "deliverable",
+    "meaningThai": "ผลงาน/ของที่ต้องส่ง",
+    "examples": [
+      "What are the deliverables for this week?",
+      "The final deliverable is a full report."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "progress update",
+    "meaningThai": "อัปเดตความคืบหน้า",
+    "examples": [
+      "Can you give me a progress update?",
+      "We share progress updates every Friday."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "task ownership",
+    "meaningThai": "ความรับผิดชอบในงานของตัวเอง",
+    "examples": [
+      "Please take ownership of this task.",
+      "Good ownership leads to better results."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "workload",
+    "meaningThai": "ปริมาณงาน",
+    "examples": [
+      "My workload is heavy this week.",
+      "We need to balance everyone's workload."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "prioritize",
+    "meaningThai": "จัดลำดับความสำคัญ",
+    "examples": [
+      "You need to prioritize urgent tasks.",
+      "Let's prioritize what must be done today."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "meeting agenda",
+    "meaningThai": "หัวข้อการประชุม",
+    "examples": [
+      "Please check the meeting agenda beforehand.",
+      "The agenda was sent to everyone."
+    ]
+  },
+  {
+    "id": 10,
+    "word": "take minutes",
+    "meaningThai": "จดบันทึกการประชุม",
+    "examples": [
+      "Can you take minutes for today's meeting?",
+      "We keep all minutes in a shared drive."
+    ]
+  },
+  {
+    "id": 11,
+    "word": "feedback",
+    "meaningThai": "ข้อเสนอแนะ, ความเห็นเพื่อปรับปรุง",
+    "examples": [
+      "I appreciate your feedback.",
+      "Let me know if you have any feedback."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "revision",
+    "meaningThai": "การแก้ไข",
+    "examples": [
+      "Here is the revised version.",
+      "We need one more revision before release."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "finalize",
+    "meaningThai": "สรุปให้เสร็จ, ปิดงาน",
+    "examples": [
+      "We need to finalize the design today.",
+      "The team finalized the draft last night."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "allocate",
+    "meaningThai": "จัดสรร (เวลา/ทรัพยากร/คน)",
+    "examples": [
+      "We need to allocate more time for testing.",
+      "Resources are allocated based on priority."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "approval",
+    "meaningThai": "การอนุมัติ",
+    "examples": [
+      "We need manager approval before launching.",
+      "Your request has been approved."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "draft",
+    "meaningThai": "ร่าง, เวอร์ชันแรก",
+    "examples": [
+      "This is just a first draft.",
+      "I'll prepare a draft for review."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "capacity",
+    "meaningThai": "ความสามารถในการรับงาน",
+    "examples": [
+      "I don't have capacity for new tasks right now.",
+      "Check the team's capacity before adding tasks."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "collaboration",
+    "meaningThai": "การร่วมงานกัน",
+    "examples": [
+      "Team collaboration improved after the workshop.",
+      "Good collaboration boosts productivity."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "clarify",
+    "meaningThai": "ทำให้ชัดเจน",
+    "examples": [
+      "Let me clarify the requirements.",
+      "Can you clarify what you mean?"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "follow-up",
+    "meaningThai": "ติดตามผล",
+    "examples": [
+      "I'll follow up with them this afternoon.",
+      "We need a follow-up meeting."
+    ]
+  },
+  {
+    "id": 21,
+    "word": "adjust",
+    "meaningThai": "ปรับ",
+    "examples": [
+      "We may need to adjust the timeline.",
+      "Adjust the plan based on feedback."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "align",
+    "meaningThai": "ให้ตรงกัน, ให้เข้าใจตรงกัน",
+    "examples": [
+      "Let's align on the next steps.",
+      "We need alignment before continuing."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "initiative",
+    "meaningThai": "โครงการริเริ่ม / การลงมือทำโดยไม่ต้องบอก",
+    "examples": [
+      "She took initiative to fix the issue.",
+      "This initiative will improve efficiency."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "efficient",
+    "meaningThai": "มีประสิทธิภาพ",
+    "examples": [
+      "This method is more efficient.",
+      "We need an efficient workflow."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "capacity planning",
+    "meaningThai": "วางแผนความสามารถ/ทรัพยากร",
+    "examples": [
+      "Capacity planning prevents overload.",
+      "We review capacity every sprint."
+    ]
+  },
+  {
+    "id": 26,
+    "word": "documentation",
+    "meaningThai": "เอกสารประกอบ, คู่มือ, โน้ต",
+    "examples": [
+      "Good documentation saves time.",
+      "Please update the documentation."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "scope",
+    "meaningThai": "ขอบเขตงาน",
+    "examples": ["This is out of scope.", "We must define the scope clearly."]
+  },
+  {
+    "id": 28,
+    "word": "scope creep",
+    "meaningThai": "ขอบเขตงานเพิ่มเรื่อยๆ แบบไม่ตั้งใจ",
+    "examples": [
+      "The project failed due to scope creep.",
+      "We need to prevent scope creep."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "constraint",
+    "meaningThai": "ข้อจำกัด",
+    "examples": [
+      "Budget is our biggest constraint.",
+      "We must work within these constraints."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "workaround",
+    "meaningThai": "วิธีแก้ชั่วคราว",
+    "examples": [
+      "We found a workaround for the issue.",
+      "This workaround is not a long-term solution."
+    ]
+  },
+  {
+    "id": 31,
+    "word": "estimation",
+    "meaningThai": "การประเมิน (เวลา/ค่าใช้จ่าย)",
+    "examples": [
+      "We need a time estimation.",
+      "Your estimation seems reasonable."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "complexity",
+    "meaningThai": "ความซับซ้อน",
+    "examples": [
+      "The complexity increased after the updates.",
+      "We underestimated the complexity."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "dependency",
+    "meaningThai": "งานที่ต้องรออีกงานก่อน",
+    "examples": [
+      "This task has two dependencies.",
+      "We can’t start yet due to dependencies."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "handover",
+    "meaningThai": "การส่งต่องาน",
+    "examples": [
+      "Please prepare a handover document.",
+      "The handover will be tomorrow."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "escalate",
+    "meaningThai": "ยกระดับปัญหา, ส่งให้ระดับสูงกว่า",
+    "examples": [
+      "We may need to escalate this issue.",
+      "Escalate it to the manager if needed."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "automation",
+    "meaningThai": "การทำงานอัตโนมัติ",
+    "examples": [
+      "Automation reduces manual work.",
+      "We're exploring automation tools."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "evaluate",
+    "meaningThai": "ประเมินผล",
+    "examples": [
+      "We need to evaluate the results.",
+      "Evaluate both options carefully."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "assignment",
+    "meaningThai": "งานที่ได้รับมอบหมาย",
+    "examples": [
+      "This is your assignment for this week.",
+      "I finished the assignment early."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "productive",
+    "meaningThai": "มีประสิทธิผล",
+    "examples": [
+      "Today was a productive day.",
+      "We need a more productive workflow."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "brief",
+    "meaningThai": "คำอธิบายงานแบบย่อ ๆ",
+    "examples": [
+      "Let me give you a quick brief.",
+      "The client sent us the project brief."
+    ]
+  },
+  {
+    "id": 41,
+    "word": "overview",
+    "meaningThai": "ภาพรวม",
+    "examples": [
+      "Here’s an overview of the project.",
+      "I’ll give you an overview first."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "consistency",
+    "meaningThai": "ความสม่ำเสมอ",
+    "examples": [
+      "Consistency is important in UI design.",
+      "We must maintain consistency across pages."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "initiative",
+    "meaningThai": "ความริเริ่มทำเอง",
+    "examples": [
+      "He showed great initiative.",
+      "This initiative will improve workflow."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "estimate",
+    "meaningThai": "ประเมิน",
+    "examples": ["Give me a rough estimate.", "The estimate was too low."]
+  },
+  {
+    "id": 45,
+    "word": "guideline",
+    "meaningThai": "แนวทาง",
+    "examples": [
+      "Follow the design guidelines.",
+      "We need clear guidelines for the team."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "task breakdown",
+    "meaningThai": "การแบ่งงานเป็นส่วนย่อย",
+    "examples": [
+      "We should do a task breakdown.",
+      "Breaking tasks down helps with planning."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "review",
+    "meaningThai": "ตรวจสอบ",
+    "examples": ["Please review this document.", "We need a code review."]
+  },
+  {
+    "id": 48,
+    "word": "revision request",
+    "meaningThai": "คำขอให้แก้ไขงาน",
+    "examples": [
+      "The client sent a revision request.",
+      "We processed all revision requests."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "follow the procedure",
+    "meaningThai": "ปฏิบัติตามขั้นตอน",
+    "examples": [
+      "You must follow the procedure.",
+      "This task requires a strict procedure."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "coordinate",
+    "meaningThai": "ประสานงาน",
+    "examples": [
+      "I'll coordinate with the design team.",
+      "We need to coordinate the timeline."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "touch base",
+    "meaningThai": "อัปเดตกันสั้น ๆ, ทักเพื่อเช็คความคืบหน้า",
+    "examples": [
+      "Let’s touch base tomorrow morning.",
+      "I just wanted to touch base about the report."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "follow-up email",
+    "meaningThai": "อีเมลติดตามงาน",
+    "examples": [
+      "I'll send a follow-up email after the meeting.",
+      "Please write a follow-up email to the client."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "reach out",
+    "meaningThai": "ติดต่อ, ทักหา",
+    "examples": [
+      "Feel free to reach out if you need help.",
+      "I'll reach out to the support team."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "address the issue",
+    "meaningThai": "จัดการกับปัญหา, พูดถึงปัญหา",
+    "examples": [
+      "We need to address the issue immediately.",
+      "This meeting is to address the main concerns."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "bring up",
+    "meaningThai": "หยิบยกขึ้นมาพูด",
+    "examples": [
+      "He brought up an important point.",
+      "I want to bring up a concern."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "wrap up",
+    "meaningThai": "สรุป, ปิดประชุม",
+    "examples": [
+      "Let's wrap up the meeting.",
+      "We wrapped up earlier than expected."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "action item",
+    "meaningThai": "สิ่งที่ต้องทำหลังประชุม",
+    "examples": [
+      "Here are the action items for today.",
+      "Each action item has an owner."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "agenda item",
+    "meaningThai": "หัวข้อในระเบียบวาระ",
+    "examples": [
+      "Let's move to the next agenda item.",
+      "We skipped one agenda item due to time."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "concern",
+    "meaningThai": "ความกังวล, ประเด็นที่ต้องระวัง",
+    "examples": ["I understand your concern.", "Security is our main concern."]
+  },
+  {
+    "id": 60,
+    "word": "highlight",
+    "meaningThai": "เน้นย้ำ",
+    "examples": [
+      "I’d like to highlight this part.",
+      "The report highlights key issues."
+    ]
+  },
+  {
+    "id": 61,
+    "word": "point out",
+    "meaningThai": "ชี้ให้เห็น",
+    "examples": [
+      "She pointed out an error in the file.",
+      "Thanks for pointing that out."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "clarification",
+    "meaningThai": "คำอธิบายเพิ่มเติม",
+    "examples": [
+      "Let me ask for clarification.",
+      "Thanks for the clarification."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "miscommunication",
+    "meaningThai": "การสื่อสารผิดพลาด",
+    "examples": [
+      "There was a miscommunication between teams.",
+      "Let’s avoid miscommunication next time."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "straightforward",
+    "meaningThai": "ตรงไปตรงมา, ง่ายไม่ซับซ้อน",
+    "examples": [
+      "The task is quite straightforward.",
+      "Your explanation was very straightforward."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "jump on a call",
+    "meaningThai": "คุยโทร/ประชุมทางไกลแบบเร็ว ๆ",
+    "examples": [
+      "Let’s jump on a call to discuss this.",
+      "We jumped on a call to solve it quickly."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "follow instructions",
+    "meaningThai": "ทำตามคำแนะนำ",
+    "examples": [
+      "Please follow the instructions carefully.",
+      "He didn't follow the instructions."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "misunderstanding",
+    "meaningThai": "ความเข้าใจผิด",
+    "examples": [
+      "It was just a misunderstanding.",
+      "We can fix this misunderstanding easily."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "confirmation",
+    "meaningThai": "การยืนยัน",
+    "examples": [
+      "I need a confirmation from the manager.",
+      "We received confirmation yesterday."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "push back",
+    "meaningThai": "เลื่อนออกไป / ต่อต้าน / ไม่เห็นด้วย (ขึ้นกับบริบท)",
+    "examples": [
+      "The client pushed back the meeting.",
+      "He pushed back on the proposal."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "productive discussion",
+    "meaningThai": "การคุยที่ได้ผล",
+    "examples": [
+      "We had a productive discussion.",
+      "The meeting wasn't very productive."
+    ]
+  },
+  {
+    "id": 71,
+    "word": "take responsibility",
+    "meaningThai": "รับผิดชอบ",
+    "examples": [
+      "I'll take responsibility for this task.",
+      "He took responsibility for the mistake."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "room for improvement",
+    "meaningThai": "ยังมีส่วนที่พัฒนาได้",
+    "examples": [
+      "There’s room for improvement in the UI.",
+      "My presentation skills have room for improvement."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "misalignment",
+    "meaningThai": "ความไม่ตรงกัน",
+    "examples": [
+      "There’s a misalignment between teams.",
+      "Let's fix this misalignment quickly."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "straight to the point",
+    "meaningThai": "เข้าเรื่องเลย, ไม่อ้อมค้อม",
+    "examples": [
+      "Let’s get straight to the point.",
+      "She’s very straight to the point."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "overcommunicate",
+    "meaningThai": "สื่อสารบ่อย/ละเอียดเกินจำเป็น (เพื่อป้องกันพลาด)",
+    "examples": [
+      "It's better to overcommunicate than miss details.",
+      "We overcommunicate during critical phases."
+    ]
+  },
+  {
+    "id": 76,
+    "word": "understand the context",
+    "meaningThai": "เข้าใจบริบท",
+    "examples": [
+      "You need to understand the context first.",
+      "He responded without understanding the context."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "align expectations",
+    "meaningThai": "ปรับความคาดหวังให้ตรงกัน",
+    "examples": [
+      "We need to align expectations before starting.",
+      "Misunderstandings happen when expectations aren’t aligned."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "loop someone in",
+    "meaningThai": "ดึงใครเข้ามาในวงการคุย/โปรเจกต์",
+    "examples": [
+      "I'll loop you in on the email thread.",
+      "Loop the manager in for visibility."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "take initiative",
+    "meaningThai": "ริเริ่มทำก่อน",
+    "examples": [
+      "She took initiative to resolve the issue.",
+      "Taking initiative is valued in the workplace."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "flag an issue",
+    "meaningThai": "แจ้งว่ามีปัญหา",
+    "examples": [
+      "Thanks for flagging this issue.",
+      "He flagged a security concern."
+    ]
+  },
+  {
+    "id": 81,
+    "word": "quick sync",
+    "meaningThai": "คุยสั้น ๆ ให้เข้าใจตรงกัน",
+    "examples": [
+      "Let’s have a quick sync before lunch.",
+      "A quick sync will help avoid confusion."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "take notes",
+    "meaningThai": "จดโน้ต",
+    "examples": [
+      "Please take notes during the meeting.",
+      "I took notes for everyone."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "brief someone",
+    "meaningThai": "ให้ข้อมูลย่อ ๆ แก่ใครสักคน",
+    "examples": [
+      "Let me brief you on the situation.",
+      "I was briefed before the meeting."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "share insights",
+    "meaningThai": "แชร์ข้อคิด/ข้อมูลเชิงลึก",
+    "examples": [
+      "He shared useful insights.",
+      "We need more data to share insights."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "noted",
+    "meaningThai": "รับทราบ",
+    "examples": ["Noted. I’ll fix it.", "Your points are noted."]
+  },
+  {
+    "id": 86,
+    "word": "double-check",
+    "meaningThai": "ตรวจซ้ำอีกครั้ง",
+    "examples": [
+      "Please double-check the numbers.",
+      "I double-checked the file before sending."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "in progress",
+    "meaningThai": "กำลังดำเนินการ",
+    "examples": [
+      "The task is in progress.",
+      "Everything is already in progress."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "pending",
+    "meaningThai": "รอดำเนินการ",
+    "examples": [
+      "This request is still pending.",
+      "Several tasks are pending approval."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "on hold",
+    "meaningThai": "พักไว้ก่อน",
+    "examples": ["The project is on hold.", "We put the feature on hold."]
+  },
+  {
+    "id": 90,
+    "word": "misinterpret",
+    "meaningThai": "ตีความผิด",
+    "examples": [
+      "Don't misinterpret the results.",
+      "He misinterpreted the message."
+    ]
+  },
+  {
+    "id": 91,
+    "word": "jump to conclusions",
+    "meaningThai": "ด่วนสรุป",
+    "examples": [
+      "Don’t jump to conclusions.",
+      "We need data before concluding anything."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "collaborative effort",
+    "meaningThai": "ความร่วมมือของหลายคน",
+    "examples": [
+      "The success was a collaborative effort.",
+      "This requires a collaborative effort from all teams."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "direct communication",
+    "meaningThai": "การสื่อสารแบบตรงไปตรงมา",
+    "examples": [
+      "I prefer direct communication.",
+      "Direct communication helps avoid confusion."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "misaligned expectations",
+    "meaningThai": "คาดหวังไม่ตรงกัน",
+    "examples": [
+      "The problem came from misaligned expectations.",
+      "We must fix the misalignment."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "provide context",
+    "meaningThai": "ให้บริบทเพิ่ม",
+    "examples": [
+      "Can you provide more context?",
+      "Thanks for providing context earlier."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "smooth communication",
+    "meaningThai": "การสื่อสารที่ราบรื่น",
+    "examples": [
+      "Good tools help maintain smooth communication.",
+      "Smooth communication improves team morale."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "recap",
+    "meaningThai": "สรุปอีกครั้ง",
+    "examples": [
+      "Let me recap the main points.",
+      "Can you recap yesterday’s meeting?"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "shift the focus",
+    "meaningThai": "เปลี่ยนประเด็น/เป้าหมาย",
+    "examples": [
+      "Let’s shift the focus to the solution.",
+      "The team shifted its focus this quarter."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "provide insight",
+    "meaningThai": "ให้มุมมองหรือข้อมูลสำคัญ",
+    "examples": [
+      "Your data provides great insight.",
+      "The report provided insight into user behavior."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "take the lead",
+    "meaningThai": "เป็นคนนำ / นำโปรเจกต์",
+    "examples": [
+      "She took the lead on the project.",
+      "You can take the lead for this sprint."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "concept",
+    "meaningThai": "แนวคิด, คอนเซปต์",
+    "examples": [
+      "This concept is important for the exam.",
+      "Let me explain the main concept."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "methodology",
+    "meaningThai": "ระเบียบวิธี, วิธีการทำงาน/ทำวิจัย",
+    "examples": [
+      "We follow a clear methodology.",
+      "Your methodology section needs more detail."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "summary",
+    "meaningThai": "สรุป",
+    "examples": ["Write a short summary.", "Here's a summary of the findings."]
+  },
+  {
+    "id": 104,
+    "word": "outline",
+    "meaningThai": "โครงร่าง, หัวข้อย่อย",
+    "examples": [
+      "Create an outline before writing.",
+      "The outline keeps the report organized."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "reference",
+    "meaningThai": "อ้างอิง, แหล่งข้อมูล",
+    "examples": [
+      "Don't forget to add references.",
+      "Use credible references only."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "citation",
+    "meaningThai": "รูปแบบการอ้างอิง",
+    "examples": ["Use APA citation style.", "Your citations are incomplete."]
+  },
+  {
+    "id": 107,
+    "word": "data source",
+    "meaningThai": "แหล่งข้อมูล",
+    "examples": [
+      "We need more reliable data sources.",
+      "Document your data sources."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "draft version",
+    "meaningThai": "เวอร์ชันร่าง",
+    "examples": ["This is just a draft version.", "Submit the draft first."]
+  },
+  {
+    "id": 109,
+    "word": "peer review",
+    "meaningThai": "การตรวจทานโดยเพื่อนร่วมงาน/เพื่อน",
+    "examples": [
+      "We had a peer review session.",
+      "Peer review helps improve quality."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "logical flow",
+    "meaningThai": "ลำดับที่เป็นเหตุเป็นผล",
+    "examples": [
+      "Your presentation has a good logical flow.",
+      "Improve the flow between paragraphs."
+    ]
+  },
+  {
+    "id": 111,
+    "word": "consistency",
+    "meaningThai": "ความสม่ำเสมอ",
+    "examples": [
+      "Consistency makes your report stronger.",
+      "Check for consistency in formatting."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "critical thinking",
+    "meaningThai": "การคิดเชิงวิพากษ์",
+    "examples": [
+      "Critical thinking is essential in research.",
+      "You need more critical analysis here."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "self-study",
+    "meaningThai": "การเรียนด้วยตัวเอง",
+    "examples": [
+      "Self-study helps you learn faster.",
+      "I improved through self-study."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "hands-on practice",
+    "meaningThai": "การลงมือทำจริง",
+    "examples": [
+      "This course includes hands-on practice.",
+      "Hands-on learning improves skills."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "case study",
+    "meaningThai": "กรณีศึกษา",
+    "examples": [
+      "We analyzed several case studies.",
+      "Your case study needs more data."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "productivity",
+    "meaningThai": "ประสิทธิผลในการทำงาน",
+    "examples": [
+      "This method boosts productivity.",
+      "I had a productive morning."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "time management",
+    "meaningThai": "การบริหารเวลา",
+    "examples": [
+      "Time management is important for students.",
+      "I’m working on improving my time management."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "focus",
+    "meaningThai": "มีสมาธิ, โฟกัส",
+    "examples": [
+      "I need to focus on this task.",
+      "Good focus helps finish faster."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "motivation",
+    "meaningThai": "แรงจูงใจ",
+    "examples": [
+      "He lost motivation halfway.",
+      "You need motivation to learn consistently."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "study workload",
+    "meaningThai": "ปริมาณงานเรียน",
+    "examples": [
+      "My study workload is heavy this week.",
+      "We divided the workload evenly."
+    ]
+  },
+  {
+    "id": 121,
+    "word": "presentation slide",
+    "meaningThai": "สไลด์นำเสนอ",
+    "examples": [
+      "Your presentation slides look clean.",
+      "We need to update the slides."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "visual aid",
+    "meaningThai": "สื่อช่วยมองเห็น เช่น ภาพ/แผนภูมิ",
+    "examples": [
+      "Use visual aids to explain your idea.",
+      "Charts make great visual aids."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "research question",
+    "meaningThai": "คำถามวิจัย",
+    "examples": [
+      "The research question must be clear.",
+      "We refined the research question."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "findings",
+    "meaningThai": "ผลการค้นพบ",
+    "examples": [
+      "The findings support the hypothesis.",
+      "Summarize the findings in one page."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "analysis",
+    "meaningThai": "การวิเคราะห์",
+    "examples": ["Your analysis is solid.", "We need deeper analysis here."]
+  },
+  {
+    "id": 126,
+    "word": "evidence",
+    "meaningThai": "หลักฐาน/ข้อมูลสนับสนุน",
+    "examples": [
+      "Provide evidence for your claims.",
+      "The evidence is not strong enough."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "reliable",
+    "meaningThai": "น่าเชื่อถือ",
+    "examples": [
+      "Use reliable sources.",
+      "This tool is reliable for long-term use."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "formatting",
+    "meaningThai": "รูปแบบการจัดหน้า/ตัวอักษร",
+    "examples": [
+      "Fix the formatting before submitting.",
+      "Consistent formatting looks professional."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "note-taking",
+    "meaningThai": "การจดโน้ต",
+    "examples": [
+      "Good note-taking helps you study.",
+      "I changed my note-taking method."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "plagiarism",
+    "meaningThai": "การลอกงาน",
+    "examples": [
+      "Avoid plagiarism at all costs.",
+      "The system checks for plagiarism automatically."
+    ]
+  },
+  {
+    "id": 131,
+    "word": "revision",
+    "meaningThai": "การทบทวน/แก้ไขงาน",
+    "examples": [
+      "This chapter needs revision.",
+      "Make revisions based on feedback."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "brainstorming",
+    "meaningThai": "การระดมความคิด",
+    "examples": [
+      "Let’s do a brainstorming session.",
+      "Brainstorming helps generate ideas."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "productivity tool",
+    "meaningThai": "เครื่องมือช่วยให้ทำงานเร็วขึ้น",
+    "examples": [
+      "Notion is my favorite productivity tool.",
+      "We use many productivity tools in the team."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "learning curve",
+    "meaningThai": "เส้นการเรียนรู้ (ยากง่ายแค่ไหนก่อนจะชิน)",
+    "examples": [
+      "This software has a steep learning curve.",
+      "The learning curve is beginner-friendly."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "study session",
+    "meaningThai": "เวลาที่ตั้งใจเรียน/อ่านหนังสือ",
+    "examples": [
+      "I planned a 2-hour study session.",
+      "Group study sessions help me learn better."
+    ]
+  },
+  {
+    "id": 136,
+    "word": "conceptual understanding",
+    "meaningThai": "ความเข้าใจเชิงแนวคิด",
+    "examples": [
+      "You need conceptual understanding before coding.",
+      "The exam tests your conceptual understanding."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "overview",
+    "meaningThai": "ภาพรวม",
+    "examples": [
+      "Here's a quick overview of the chapter.",
+      "The overview helps you understand the structure."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "submission",
+    "meaningThai": "การส่งงาน",
+    "examples": [
+      "The submission deadline is Friday.",
+      "Make sure your submission is complete."
+    ]
+  },
+  {
+    "id": 139,
+    "word": "assessment",
+    "meaningThai": "การประเมินผล",
+    "examples": [
+      "This project is part of your assessment.",
+      "The assessment criteria are listed below."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "rubric",
+    "meaningThai": "เกณฑ์การให้คะแนน",
+    "examples": [
+      "Follow the rubric closely.",
+      "The rubric shows what the instructor wants."
+    ]
+  },
+  {
+    "id": 141,
+    "word": "deep understanding",
+    "meaningThai": "เข้าใจลึก",
+    "examples": [
+      "You need deep understanding for this topic.",
+      "Practice helps develop deeper understanding."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "practice question",
+    "meaningThai": "คำถามฝึก",
+    "examples": [
+      "Here are more practice questions.",
+      "Practice questions help you prepare."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "conclusion",
+    "meaningThai": "บทสรุป",
+    "examples": [
+      "Write a short conclusion.",
+      "Your conclusion needs stronger points."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "study habit",
+    "meaningThai": "นิสัยการเรียน",
+    "examples": [
+      "Good study habits improve grades.",
+      "I'm building better study habits."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "resource material",
+    "meaningThai": "เอกสาร/สื่อประกอบ",
+    "examples": [
+      "The website has resource materials.",
+      "Use all resource materials for revision."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "plan ahead",
+    "meaningThai": "วางแผนล่วงหน้า",
+    "examples": [
+      "You should plan ahead for the exam.",
+      "Planning ahead reduces stress."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "long-term retention",
+    "meaningThai": "จำได้นาน",
+    "examples": [
+      "Active recall improves long-term retention.",
+      "We need strategies for better retention."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "productive routine",
+    "meaningThai": "กิจวัตรที่ทำงานได้ดีมีประสิทธิภาพ",
+    "examples": [
+      "I’m trying to build a productive routine.",
+      "Her routine keeps her productive."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "study objective",
+    "meaningThai": "เป้าหมายการเรียน",
+    "examples": [
+      "Set a clear study objective.",
+      "My objective is to master this chapter."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "knowledge gap",
+    "meaningThai": "ช่องว่างความรู้",
+    "examples": [
+      "Identify your knowledge gaps.",
+      "Practice helps close the gap."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "task delegation",
+    "meaningThai": "การมอบหมายงานให้คนอื่น",
+    "examples": [
+      "Effective delegation improves team performance.",
+      "You should delegate tasks when overloaded."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "work environment",
+    "meaningThai": "สภาพแวดล้อมในการทำงาน",
+    "examples": [
+      "We want a healthy work environment.",
+      "The work environment affects productivity."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "team morale",
+    "meaningThai": "กำลังใจของทีม",
+    "examples": [
+      "Good leadership boosts team morale.",
+      "Low morale affects performance."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "work ethic",
+    "meaningThai": "จรรยาบรรณ/วินัยในการทำงาน",
+    "examples": [
+      "She has a strong work ethic.",
+      "Work ethic matters in every job."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "annual review",
+    "meaningThai": "การประเมินประจำปี",
+    "examples": [
+      "The annual review happens in December.",
+      "Prepare your achievements for the review."
+    ]
+  },
+  {
+    "id": 156,
+    "word": "promotion",
+    "meaningThai": "การเลื่อนตำแหน่ง",
+    "examples": [
+      "She got a promotion last month.",
+      "Hard work increases your chance of promotion."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "probation",
+    "meaningThai": "ทดลองงาน",
+    "examples": [
+      "He passed his probation.",
+      "Probation usually lasts 3 months."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "job responsibility",
+    "meaningThai": "ความรับผิดชอบในงาน",
+    "examples": [
+      "This is part of your job responsibilities.",
+      "We updated the job responsibility list."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "performance review",
+    "meaningThai": "การประเมินผลงาน",
+    "examples": [
+      "Prepare for your performance review.",
+      "The manager provided helpful feedback in the review."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "employee benefits",
+    "meaningThai": "สวัสดิการพนักงาน",
+    "examples": [
+      "Health insurance is part of the benefits.",
+      "The company updated its benefits package."
+    ]
+  },
+  {
+    "id": 161,
+    "word": "salary adjustment",
+    "meaningThai": "การปรับเงินเดือน",
+    "examples": [
+      "The company announced a salary adjustment.",
+      "Salary adjustments depend on performance."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "training session",
+    "meaningThai": "การฝึกอบรม",
+    "examples": [
+      "There will be a training session tomorrow.",
+      "The training session covers new tools."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "career path",
+    "meaningThai": "เส้นทางอาชีพ",
+    "examples": [
+      "We discussed her career path.",
+      "A clear career path motivates employees."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "job rotation",
+    "meaningThai": "การหมุนเวียนงาน",
+    "examples": [
+      "Job rotation helps build skills.",
+      "The company encourages job rotation."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "task efficiency",
+    "meaningThai": "ประสิทธิภาพในการทำงาน",
+    "examples": [
+      "Automation increases task efficiency.",
+      "We improved efficiency through better tools."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "workload balance",
+    "meaningThai": "สมดุลปริมาณงาน",
+    "examples": [
+      "We try to maintain workload balance.",
+      "The manager redistributed tasks for balance."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "daily operations",
+    "meaningThai": "งานประจำวัน, การดำเนินงานประจำ",
+    "examples": [
+      "She oversees daily operations.",
+      "This tool helps manage daily operations."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "operational task",
+    "meaningThai": "งานปฏิบัติการทั่วไป",
+    "examples": [
+      "We handle several operational tasks daily.",
+      "Operational tasks take most of my time."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "managerial task",
+    "meaningThai": "งานบริหารจัดการ",
+    "examples": [
+      "He is shifting to more managerial tasks.",
+      "Managerial tasks require decision-making."
+    ]
+  },
+  {
+    "id": 170,
+    "word": "workplace conflict",
+    "meaningThai": "ความขัดแย้งในที่ทำงาน",
+    "examples": [
+      "We resolved the workplace conflict quickly.",
+      "Communication prevents conflicts."
+    ]
+  },
+  {
+    "id": 171,
+    "word": "team alignment",
+    "meaningThai": "ความเข้าใจตรงกันในทีม",
+    "examples": [
+      "Weekly syncs help team alignment.",
+      "Alignment reduces project issues."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "task prioritization",
+    "meaningThai": "การจัดลำดับความสำคัญของงาน",
+    "examples": [
+      "Task prioritization saves time.",
+      "Learn how to prioritize effectively."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "resource allocation",
+    "meaningThai": "การจัดสรรทรัพยากร",
+    "examples": [
+      "We need better resource allocation.",
+      "Allocation depends on deadlines."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "risk assessment",
+    "meaningThai": "การประเมินความเสี่ยง",
+    "examples": [
+      "We performed a risk assessment.",
+      "Risk assessment is part of planning."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "process improvement",
+    "meaningThai": "การปรับปรุงกระบวนการทำงาน",
+    "examples": [
+      "We started a process improvement project.",
+      "Small improvements make a big difference."
+    ]
+  },
+  {
+    "id": 176,
+    "word": "task ownership",
+    "meaningThai": "การรับผิดชอบงานที่ตัวเองได้รับ",
+    "examples": [
+      "Take full ownership of this task.",
+      "Good ownership leads to better results."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "standard procedure",
+    "meaningThai": "ขั้นตอนมาตรฐาน",
+    "examples": [
+      "Follow the standard procedure.",
+      "This task requires strict procedures."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "documentation update",
+    "meaningThai": "การอัปเดตเอกสาร/คู่มือ",
+    "examples": [
+      "We need a documentation update.",
+      "Update the docs after each change."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "administrative work",
+    "meaningThai": "งานธุรการ, งานเอกสาร",
+    "examples": [
+      "She handles administrative work.",
+      "Admin tasks take half my day."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "cross-team work",
+    "meaningThai": "งานร่วมกันหลายทีม",
+    "examples": [
+      "This project requires cross-team work.",
+      "Cross-team work improves collaboration."
+    ]
+  },
+  {
+    "id": 181,
+    "word": "task dependency",
+    "meaningThai": "งานที่ต้องรออีกงานก่อนถึงจะทำได้",
+    "examples": [
+      "This task has two dependencies.",
+      "Dependencies slow down progress."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "issue tracking",
+    "meaningThai": "การติดตามปัญหา",
+    "examples": [
+      "We use a system for issue tracking.",
+      "Issue tracking keeps the team organized."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "follow procedure",
+    "meaningThai": "ปฏิบัติตามขั้นตอน",
+    "examples": [
+      "Always follow the procedure.",
+      "The team failed to follow procedure last time."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "performance metric",
+    "meaningThai": "ตัวชี้วัดประสิทธิภาพ",
+    "examples": [
+      "These metrics track performance.",
+      "Choose the right performance metrics."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "daily report",
+    "meaningThai": "รายงานประจำวัน",
+    "examples": [
+      "Submit your daily report.",
+      "The manager checks daily reports every morning."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "task summary",
+    "meaningThai": "สรุปงาน",
+    "examples": [
+      "Send me a task summary.",
+      "The summary highlights key progress."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "work progress",
+    "meaningThai": "ความคืบหน้างาน",
+    "examples": ["How’s your work progress?", "We track progress weekly."]
+  },
+  {
+    "id": 188,
+    "word": "pending task",
+    "meaningThai": "งานที่ยังไม่เสร็จ/รอดำเนินการ",
+    "examples": [
+      "There are five pending tasks.",
+      "This task has been pending for days."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "task completion",
+    "meaningThai": "การทำงานเสร็จสมบูรณ์",
+    "examples": [
+      "Task completion rate is high.",
+      "We monitor completion daily."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "team capacity",
+    "meaningThai": "ความสามารถรองรับงานของทีม",
+    "examples": [
+      "We don't have enough capacity this week.",
+      "Check capacity before assigning tasks."
+    ]
+  },
+  {
+    "id": 191,
+    "word": "timeline adjustment",
+    "meaningThai": "การปรับไทม์ไลน์",
+    "examples": [
+      "We need a timeline adjustment.",
+      "The timeline was adjusted due to delays."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "task overview",
+    "meaningThai": "ภาพรวมงาน",
+    "examples": [
+      "Here's the task overview.",
+      "The overview is easy to understand."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "process checklist",
+    "meaningThai": "รายการตรวจสอบขั้นตอน",
+    "examples": [
+      "Use the checklist before submitting.",
+      "The checklist reduces errors."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "weekly update",
+    "meaningThai": "อัปเดตรายสัปดาห์",
+    "examples": [
+      "Send your weekly update.",
+      "The team meets for weekly updates."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "task estimation",
+    "meaningThai": "การประเมินเวลา/ความยาก",
+    "examples": [
+      "We need a better estimation.",
+      "Estimation helps with planning."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "standard workflow",
+    "meaningThai": "ขั้นตอนการทำงานมาตรฐาน",
+    "examples": [
+      "We follow a standard workflow.",
+      "Improving the workflow saves time."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "error handling",
+    "meaningThai": "การจัดการข้อผิดพลาด",
+    "examples": [
+      "Good error handling prevents failures.",
+      "We updated the error handling process."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "task scheduling",
+    "meaningThai": "การจัดตารางงาน",
+    "examples": [
+      "Scheduling helps avoid overload.",
+      "We use tools for task scheduling."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "approval request",
+    "meaningThai": "คำขออนุมัติ",
+    "examples": [
+      "Submit the approval request today.",
+      "The request is pending approval."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "deadline extension",
+    "meaningThai": "การขยายเวลาส่งงาน",
+    "examples": [
+      "We asked for a deadline extension.",
+      "The extension was approved."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "business objective",
+    "meaningThai": "เป้าหมายทางธุรกิจ",
+    "examples": [
+      "We aligned the project with business objectives.",
+      "Clear objectives help the team stay focused."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "target audience",
+    "meaningThai": "กลุ่มเป้าหมาย",
+    "examples": [
+      "Who is our target audience?",
+      "We need more insight about the audience."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "market demand",
+    "meaningThai": "ความต้องการของตลาด",
+    "examples": [
+      "Market demand is increasing.",
+      "We need data to understand the demand."
+    ]
+  },
+  {
+    "id": 204,
+    "word": "business model",
+    "meaningThai": "รูปแบบธุรกิจ",
+    "examples": [
+      "Their business model is subscription-based.",
+      "We are reviewing our current model."
+    ]
+  },
+  {
+    "id": 205,
+    "word": "competitive advantage",
+    "meaningThai": "ข้อได้เปรียบเหนือคู่แข่ง",
+    "examples": [
+      "Innovation gives us a competitive advantage.",
+      "We're losing our advantage in the market."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "customer insight",
+    "meaningThai": "ข้อมูลเชิงลึกของลูกค้า",
+    "examples": [
+      "Customer insights help improve our product.",
+      "We need deeper insights before launching."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "value creation",
+    "meaningThai": "การสร้างคุณค่า",
+    "examples": [
+      "Our focus is long-term value creation.",
+      "Value creation is key to business growth."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "brand identity",
+    "meaningThai": "เอกลักษณ์แบรนด์",
+    "examples": [
+      "We redesigned our brand identity.",
+      "Strong identity boosts recognition."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "value chain",
+    "meaningThai": "ห่วงโซ่คุณค่า",
+    "examples": [
+      "We optimized our value chain.",
+      "Understanding the value chain reduces cost."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "financial projection",
+    "meaningThai": "การคาดการณ์ทางการเงิน",
+    "examples": [
+      "Prepare a financial projection for next year.",
+      "Our projections show steady growth."
+    ]
+  },
+  {
+    "id": 211,
+    "word": "KPIs",
+    "meaningThai": "ตัวชี้วัดผลงานหลัก",
+    "examples": [
+      "We updated our KPIs for Q1.",
+      "Your KPIs look strong this quarter."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "ROI",
+    "meaningThai": "ผลตอบแทนจากการลงทุน",
+    "examples": [
+      "We need to calculate the ROI.",
+      "A project with low ROI is risky."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "revenue growth",
+    "meaningThai": "การเติบโตของรายได้",
+    "examples": [
+      "The revenue growth is impressive.",
+      "We need strategies to boost growth."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "cost structure",
+    "meaningThai": "โครงสร้างต้นทุน",
+    "examples": [
+      "We analyzed our cost structure.",
+      "Reducing cost structure increases profit."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "customer journey",
+    "meaningThai": "เส้นทางประสบการณ์ของลูกค้า",
+    "examples": [
+      "Mapping the customer journey helps identify pain points.",
+      "We improved several touchpoints."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "market positioning",
+    "meaningThai": "การวางตำแหน่งทางการตลาด",
+    "examples": [
+      "Our market positioning targets young adults.",
+      "We are redefining our positioning."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "digital transformation",
+    "meaningThai": "การเปลี่ยนผ่านสู่ดิจิทัล",
+    "examples": [
+      "The company is undergoing digital transformation.",
+      "Transformation improves efficiency."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "stakeholder management",
+    "meaningThai": "การบริหารผู้มีส่วนได้ส่วนเสีย",
+    "examples": [
+      "Stakeholder management is crucial.",
+      "We must update all stakeholders."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "sales funnel",
+    "meaningThai": "ขั้นตอนการขาย",
+    "examples": [
+      "We analyzed our sales funnel.",
+      "The funnel shows where customers drop off."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "lead generation",
+    "meaningThai": "การหาลูกค้าใหม่",
+    "examples": [
+      "We need stronger lead generation strategies.",
+      "Ads help generate more leads."
+    ]
+  },
+  {
+    "id": 221,
+    "word": "business impact",
+    "meaningThai": "ผลกระทบต่อธุรกิจ",
+    "examples": [
+      "This feature brings high business impact.",
+      "We measure the impact before executing."
+    ]
+  },
+  {
+    "id": 222,
+    "word": "profitability",
+    "meaningThai": "ความสามารถในการทำกำไร",
+    "examples": [
+      "We must improve profitability.",
+      "Several factors affect profitability."
+    ]
+  },
+  {
+    "id": 223,
+    "word": "market analysis",
+    "meaningThai": "การวิเคราะห์ตลาด",
+    "examples": [
+      "We conducted market analysis for the new product.",
+      "Analysis reveals strong competition."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "business insight",
+    "meaningThai": "ข้อมูลเชิงลึกทางธุรกิจ",
+    "examples": [
+      "Data gives us valuable business insights.",
+      "We need more insights from the report."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "customer segment",
+    "meaningThai": "กลุ่มลูกค้า",
+    "examples": [
+      "Identify your customer segment.",
+      "Different segments need different approaches."
+    ]
+  },
+  {
+    "id": 226,
+    "word": "brand consistency",
+    "meaningThai": "ความสม่ำเสมอของแบรนด์",
+    "examples": [
+      "Consistency builds trust.",
+      "Our visuals lack brand consistency."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "benchmark",
+    "meaningThai": "เกณฑ์เทียบมาตรฐาน",
+    "examples": [
+      "We benchmarked against competitors.",
+      "Use benchmarks to measure performance."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "customer feedback",
+    "meaningThai": "ความเห็นจากลูกค้า",
+    "examples": [
+      "Customer feedback improves quality.",
+      "We received positive feedback."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "operating cost",
+    "meaningThai": "ค่าใช้จ่ายในการดำเนินงาน",
+    "examples": [
+      "Operating costs increased this year.",
+      "We must lower operating costs."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "cash reserve",
+    "meaningThai": "เงินสำรอง",
+    "examples": [
+      "A company needs enough cash reserves.",
+      "Reserves protect against uncertainty."
+    ]
+  },
+  {
+    "id": 231,
+    "word": "supply-demand balance",
+    "meaningThai": "ดุลยภาพอุปสงค์–อุปทาน",
+    "examples": [
+      "Prices depend on the supply-demand balance.",
+      "The balance shifted this month."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "brand awareness",
+    "meaningThai": "การรับรู้แบรนด์",
+    "examples": [
+      "The campaign increased brand awareness.",
+      "Awareness is low among new users."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "cost reduction",
+    "meaningThai": "การลดต้นทุน",
+    "examples": [
+      "We launched a cost reduction plan.",
+      "Automation supports cost reduction."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "pricing strategy",
+    "meaningThai": "กลยุทธ์การตั้งราคา",
+    "examples": [
+      "We updated our pricing strategy.",
+      "Pricing affects customer behavior."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "budget allocation",
+    "meaningThai": "การจัดสรรงบประมาณ",
+    "examples": [
+      "We need better budget allocation.",
+      "Marketing gets the largest allocation."
+    ]
+  },
+  {
+    "id": 236,
+    "word": "sales target",
+    "meaningThai": "เป้าหมายยอดขาย",
+    "examples": [
+      "The team reached their sales targets.",
+      "We set new targets for Q2."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "market entry strategy",
+    "meaningThai": "กลยุทธ์เข้าสู่ตลาด",
+    "examples": [
+      "We built a market entry strategy for Indonesia.",
+      "Entry strategy affects long-term success."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "break-even point",
+    "meaningThai": "จุดคุ้มทุน",
+    "examples": [
+      "The break-even point is in month 10.",
+      "We must calculate our break-even point."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "consumer behavior",
+    "meaningThai": "พฤติกรรมผู้บริโภค",
+    "examples": [
+      "Consumer behavior changed after the pandemic.",
+      "We study behavior to guide product design."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "brand loyalty",
+    "meaningThai": "ความภักดีต่อแบรนด์",
+    "examples": [
+      "Loyalty leads to repeat purchases.",
+      "We need strategies to improve loyalty."
+    ]
+  },
+  {
+    "id": 241,
+    "word": "expense report",
+    "meaningThai": "รายงานค่าใช้จ่าย",
+    "examples": [
+      "Submit your expense report today.",
+      "The report must include receipts."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "operational cost",
+    "meaningThai": "ต้นทุนการดำเนินงาน",
+    "examples": [
+      "Operational costs increased this quarter.",
+      "We plan to reduce these costs."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "customer satisfaction",
+    "meaningThai": "ความพึงพอใจของลูกค้า",
+    "examples": [
+      "Customer satisfaction improved this year.",
+      "We track satisfaction monthly."
+    ]
+  },
+  {
+    "id": 244,
+    "word": "sales performance",
+    "meaningThai": "ผลการขาย",
+    "examples": [
+      "Sales performance exceeded expectations.",
+      "We reviewed performance today."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "market opportunity",
+    "meaningThai": "โอกาสในตลาด",
+    "examples": [
+      "There is a big market opportunity in this segment.",
+      "We explored new opportunities."
+    ]
+  },
+  {
+    "id": 246,
+    "word": "business requirement",
+    "meaningThai": "ความต้องการทางธุรกิจ",
+    "examples": [
+      "We documented the business requirements.",
+      "Requirements must be clear before development."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "cost-benefit analysis",
+    "meaningThai": "การวิเคราะห์ต้นทุน–ผลประโยชน์",
+    "examples": [
+      "We ran a cost-benefit analysis.",
+      "The analysis supports the project."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "customer retention",
+    "meaningThai": "การรักษาลูกค้า",
+    "examples": [
+      "Retention is cheaper than acquisition.",
+      "We improved retention through loyalty programs."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "strategic planning",
+    "meaningThai": "การวางแผนเชิงกลยุทธ์",
+    "examples": [
+      "Strategic planning happens yearly.",
+      "We aligned all teams through planning."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "operational workflow",
+    "meaningThai": "ลำดับขั้นตอนการทำงาน",
+    "examples": [
+      "We redesigned the operational workflow.",
+      "A clear workflow reduces mistakes."
+    ]
+  }
+]

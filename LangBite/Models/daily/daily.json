@@ -1,0 +1,1818 @@
+[
+  {
+    "id": 1,
+    "word": "serendipity",
+    "meaningThai": "โชคดีโดยบังเอิญ",
+    "examples": [
+      "Finding this café was pure serendipity.",
+      "We met by serendipity at the bookstore."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "resilient",
+    "meaningThai": "ยืดหยุ่น ฟื้นตัวได้เร็ว",
+    "examples": [
+      "She is incredibly resilient after facing many challenges.",
+      "Desert plants must be resilient to survive harsh climates."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "meticulous",
+    "meaningThai": "พิถีพิถัน ละเอียดมาก",
+    "examples": [
+      "He is meticulous when organizing his workspace.",
+      "The chef prepared each dish with meticulous care."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "vibrant",
+    "meaningThai": "สดใส มีชีวิตชีวา",
+    "examples": [
+      "The market becomes vibrant at night.",
+      "She wore a vibrant yellow dress."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "gratitude",
+    "meaningThai": "ความกตัญญู ความรู้สึกขอบคุณ",
+    "examples": [
+      "He expressed his gratitude for the support.",
+      "Practicing gratitude helps improve mental health."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "ambiguous",
+    "meaningThai": "กำกวม ไม่ชัดเจน",
+    "examples": [
+      "His answer was too ambiguous.",
+      "The message was ambiguous and caused confusion."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "perception",
+    "meaningThai": "การรับรู้ มุมมอง",
+    "examples": [
+      "Experience shapes your perception.",
+      "The artwork challenges traditional perception."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "compassion",
+    "meaningThai": "ความเห็นอกเห็นใจ",
+    "examples": [
+      "She treats everyone with compassion.",
+      "Compassion is vital in healthcare."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "innovative",
+    "meaningThai": "สร้างสรรค์ มีนวัตกรรม",
+    "examples": [
+      "The company creates innovative products.",
+      "We need an innovative solution."
+    ]
+  },
+  {
+    "id": 10,
+    "word": "authentic",
+    "meaningThai": "แท้จริง ไม่ปลอม",
+    "examples": [
+      "They serve authentic Thai food.",
+      "People appreciate her authentic personality."
+    ]
+  },
+
+  {
+    "id": 11,
+    "word": "versatile",
+    "meaningThai": "อเนกประสงค์",
+    "examples": [
+      "Rice is a versatile ingredient.",
+      "He is a versatile musician."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "precise",
+    "meaningThai": "แม่นยำ",
+    "examples": [
+      "The data must be precise.",
+      "Please give a precise explanation."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "efficient",
+    "meaningThai": "มีประสิทธิภาพ",
+    "examples": [
+      "This method is more efficient.",
+      "She works efficiently under pressure."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "ambitious",
+    "meaningThai": "ทะเยอทะยาน",
+    "examples": [
+      "He is ambitious and hardworking.",
+      "Her ambitious project succeeded."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "fond",
+    "meaningThai": "ชอบ รู้สึกดี",
+    "examples": [
+      "She is fond of music.",
+      "He grew fond of the quiet town."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "cautious",
+    "meaningThai": "ระมัดระวัง",
+    "examples": [
+      "Be cautious while driving.",
+      "He is cautious with money."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "diligent",
+    "meaningThai": "ขยัน ตั้งใจ",
+    "examples": [
+      "She is a diligent student.",
+      "Diligent effort leads to improvement."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "glimpse",
+    "meaningThai": "แวบหนึ่ง",
+    "examples": [
+      "I caught a glimpse of her.",
+      "The trailer gives a glimpse of the movie."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "harmonious",
+    "meaningThai": "กลมกลืน",
+    "examples": [
+      "The colors are harmonious.",
+      "They maintain a harmonious relationship."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "inevitable",
+    "meaningThai": "หลีกเลี่ยงไม่ได้",
+    "examples": [
+      "Change is inevitable.",
+      "A delay was inevitable."
+    ]
+  },
+
+  {
+    "id": 21,
+    "word": "justify",
+    "meaningThai": "ให้เหตุผลสนับสนุน",
+    "examples": [
+      "He tried to justify his decision.",
+      "You don't need to justify your feelings."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "notorious",
+    "meaningThai": "ชื่อเสียงแย่ ฉาวโฉ่",
+    "examples": [
+      "The area is notorious for theft.",
+      "He became notorious for his behavior."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "optimistic",
+    "meaningThai": "มองโลกในแง่ดี",
+    "examples": [
+      "She is optimistic about her future.",
+      "He stayed optimistic despite challenges."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "pessimistic",
+    "meaningThai": "มองโลกในแง่ร้าย",
+    "examples": [
+      "Don't be pessimistic.",
+      "He tends to view things pessimistically."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "appreciate",
+    "meaningThai": "ซาบซึ้ง ขอบคุณ",
+    "examples": [
+      "I appreciate your help.",
+      "She appreciates your support."
+    ]
+  },
+  {
+    "id": 26,
+    "word": "consistency",
+    "meaningThai": "ความสม่ำเสมอ",
+    "examples": [
+      "Success requires consistency.",
+      "She improved through consistency."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "overwhelm",
+    "meaningThai": "ท่วมท้น ทำให้หนักใจ",
+    "examples": [
+      "She felt overwhelmed by work.",
+      "The kindness overwhelmed him."
+    ]
+  },
+  {
+    "id": 28,
+    "word": "significant",
+    "meaningThai": "สำคัญ มีความหมาย",
+    "examples": [
+      "This is a significant achievement.",
+      "She made significant progress."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "adequate",
+    "meaningThai": "เพียงพอ",
+    "examples": [
+      "Make sure you get adequate rest.",
+      "The lighting is adequate."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "generous",
+    "meaningThai": "ใจกว้าง ให้เยอะ",
+    "examples": [
+      "He is generous with his time.",
+      "They made a generous donation."
+    ]
+  },
+
+  {
+    "id": 31,
+    "word": "frustrated",
+    "meaningThai": "หงุดหงิด ท้อแท้",
+    "examples": [
+      "She felt frustrated with the results.",
+      "Don't get frustrated—keep going."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "reliable",
+    "meaningThai": "เชื่อถือได้",
+    "examples": [
+      "He is a reliable friend.",
+      "This machine is very reliable."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "hesitate",
+    "meaningThai": "ลังเล",
+    "examples": [
+      "Don't hesitate to ask.",
+      "He hesitated before speaking."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "scrutinize",
+    "meaningThai": "ตรวจสอบอย่างละเอียด",
+    "examples": [
+      "The report was scrutinized.",
+      "She scrutinized every detail."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "recognize",
+    "meaningThai": "จำได้ ยอมรับ",
+    "examples": [
+      "I didn't recognize him at first.",
+      "He was recognized for his achievements."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "allocate",
+    "meaningThai": "จัดสรร",
+    "examples": [
+      "They allocated more budget to marketing.",
+      "Time must be allocated wisely."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "brisk",
+    "meaningThai": "คล่องแคล่ว รวดเร็ว",
+    "examples": [
+      "She took a brisk walk.",
+      "Sales were brisk today."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "clarify",
+    "meaningThai": "ทำให้ชัดเจน",
+    "examples": [
+      "Please clarify your point.",
+      "He clarified the instructions."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "delicate",
+    "meaningThai": "บอบบาง อ่อนไหว",
+    "examples": [
+      "The sculpture is delicate.",
+      "Their situation is quite delicate."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "enhance",
+    "meaningThai": "เสริม เพิ่มคุณภาพ",
+    "examples": [
+      "Adding salt enhances the flavor.",
+      "Practice enhances your skills."
+    ]
+  },
+
+  {
+    "id": 41,
+    "word": "fascinate",
+    "meaningThai": "ทำให้หลงใหล",
+    "examples": [
+      "Magic tricks fascinate children.",
+      "He is fascinated by technology."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "modest",
+    "meaningThai": "ถ่อมตัว เรียบง่าย",
+    "examples": [
+      "She is modest about her success.",
+      "He prefers a modest lifestyle."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "navigate",
+    "meaningThai": "นำทาง จัดการ",
+    "examples": [
+      "They navigated through the crowd.",
+      "He navigated the challenge smoothly."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "profound",
+    "meaningThai": "ลึกซึ้ง",
+    "examples": [
+      "Her words had a profound impact.",
+      "He made a profound statement."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "reluctant",
+    "meaningThai": "ไม่เต็มใจ",
+    "examples": [
+      "She was reluctant to join.",
+      "He seemed reluctant to speak up."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "sincere",
+    "meaningThai": "จริงใจ",
+    "examples": [
+      "Her apology was sincere.",
+      "He gave a sincere compliment."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "subtle",
+    "meaningThai": "แนบเนียน บางเบา",
+    "examples": [
+      "The color difference is subtle.",
+      "She made a subtle change."
+    ]
+  },
+  {
+    "id": 48,
+    "word": "thrive",
+    "meaningThai": "เติบโต เจริญรุ่งเรือง",
+    "examples": [
+      "Plants thrive in sunlight.",
+      "Her business continues to thrive."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "witty",
+    "meaningThai": "ขำขัน ฉลาดแกม",
+    "examples": [
+      "He made a witty joke.",
+      "She enjoys witty conversations."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "withdraw",
+    "meaningThai": "ถอนออก ถอนตัว",
+    "examples": [
+      "He withdrew from the competition.",
+      "She decided to withdraw her application."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "adore",
+    "meaningThai": "รัก ชื่นชอบมาก",
+    "examples": [
+      "I absolutely adore this song.",
+      "She adores her little brother."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "adjust",
+    "meaningThai": "ปรับ เปลี่ยนให้เหมาะสม",
+    "examples": [
+      "You may need to adjust your schedule.",
+      "She adjusted the chair to sit comfortably."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "affordable",
+    "meaningThai": "ราคาเอื้อมถึง",
+    "examples": [
+      "The restaurant offers affordable meals.",
+      "Students often look for affordable housing."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "anxious",
+    "meaningThai": "กังวล กระวนกระวาย",
+    "examples": [
+      "She felt anxious before the exam.",
+      "He gets anxious when speaking in public."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "appetite",
+    "meaningThai": "ความอยากอาหาร",
+    "examples": [
+      "The hot weather reduced my appetite.",
+      "He has a big appetite for spicy food."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "assist",
+    "meaningThai": "ช่วยเหลือ",
+    "examples": [
+      "Can you assist me with this task?",
+      "A staff member will assist you shortly."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "attempt",
+    "meaningThai": "พยายาม",
+    "examples": [
+      "She attempted to solve the puzzle.",
+      "They made several attempts to fix it."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "balance",
+    "meaningThai": "ความสมดุล",
+    "examples": [
+      "You need a balance between work and rest.",
+      "He tries to balance his responsibilities."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "behavior",
+    "meaningThai": "พฤติกรรม",
+    "examples": [
+      "The teacher noticed his good behavior.",
+      "Her behavior has improved lately."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "breath",
+    "meaningThai": "ลมหายใจ",
+    "examples": [
+      "Take a deep breath and relax.",
+      "She held her breath underwater."
+    ]
+  },
+
+  {
+    "id": 61,
+    "word": "brief",
+    "meaningThai": "สั้น กระชับ",
+    "examples": [
+      "He gave a brief explanation.",
+      "The meeting was surprisingly brief."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "calm",
+    "meaningThai": "สงบ",
+    "examples": [
+      "Stay calm during the emergency.",
+      "Her voice was calm and steady."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "capable",
+    "meaningThai": "มีความสามารถ",
+    "examples": [
+      "She is capable of handling the project.",
+      "He proved he was capable of more."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "celebrate",
+    "meaningThai": "ฉลอง",
+    "examples": [
+      "We celebrated her birthday yesterday.",
+      "They plan to celebrate their victory."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "challenge",
+    "meaningThai": "ความท้าทาย",
+    "examples": [
+      "Learning a new language is a challenge.",
+      "He enjoys challenges at work."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "comfortable",
+    "meaningThai": "สบาย",
+    "examples": [
+      "This sofa is very comfortable.",
+      "Wear something comfortable for the trip."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "communicate",
+    "meaningThai": "สื่อสาร",
+    "examples": [
+      "They learned to communicate better.",
+      "She communicates clearly and confidently."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "compare",
+    "meaningThai": "เปรียบเทียบ",
+    "examples": [
+      "Don't compare yourself to others.",
+      "We compared the two prices."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "concern",
+    "meaningThai": "ความกังวล",
+    "examples": [
+      "His safety is our main concern.",
+      "She expressed concern about the delay."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "confident",
+    "meaningThai": "มั่นใจ",
+    "examples": [
+      "He feels confident about his exam.",
+      "She walked in with a confident smile."
+    ]
+  },
+
+  {
+    "id": 71,
+    "word": "confuse",
+    "meaningThai": "ทำให้สับสน",
+    "examples": [
+      "The instructions confused me.",
+      "Similar words can easily confuse learners."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "connect",
+    "meaningThai": "เชื่อมโยง ติดต่อ",
+    "examples": [
+      "The bridge connects two towns.",
+      "I couldn't connect to the Wi-Fi."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "consider",
+    "meaningThai": "พิจารณา",
+    "examples": [
+      "Please consider my suggestion.",
+      "They are considering moving abroad."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "content",
+    "meaningThai": "พอใจ",
+    "examples": [
+      "She felt content after the long day.",
+      "He seemed content with the results."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "contribute",
+    "meaningThai": "มีส่วนร่วม สนับสนุน",
+    "examples": [
+      "Everyone contributed to the project.",
+      "She contributed valuable ideas."
+    ]
+  },
+  {
+    "id": 76,
+    "word": "convenient",
+    "meaningThai": "สะดวก",
+    "examples": [
+      "Online shopping is convenient.",
+      "The location is very convenient for us."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "cooperate",
+    "meaningThai": "ร่วมมือ",
+    "examples": [
+      "The teams cooperated effectively.",
+      "He refused to cooperate with the plan."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "creative",
+    "meaningThai": "สร้างสรรค์",
+    "examples": [
+      "She is a very creative person.",
+      "We need creative solutions to the issue."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "curious",
+    "meaningThai": "อยากรู้อยากเห็น",
+    "examples": [
+      "Children are naturally curious.",
+      "I'm curious about how it works."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "decision",
+    "meaningThai": "การตัดสินใจ",
+    "examples": [
+      "It was a difficult decision.",
+      "He made the decision quickly."
+    ]
+  },
+
+  {
+    "id": 81,
+    "word": "depend",
+    "meaningThai": "ขึ้นอยู่กับ",
+    "examples": [
+      "It depends on the weather.",
+      "Success depends on many factors."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "depress",
+    "meaningThai": "ทำให้เศร้า ทำให้หดหู่",
+    "examples": [
+      "Bad news can depress anyone.",
+      "She felt depressed after the breakup."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "deserve",
+    "meaningThai": "สมควรได้รับ",
+    "examples": [
+      "You deserve a break.",
+      "She deserves the promotion."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "desire",
+    "meaningThai": "ความปรารถนา",
+    "examples": [
+      "He has a strong desire to travel.",
+      "Her desire to learn is impressive."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "develop",
+    "meaningThai": "พัฒนา",
+    "examples": [
+      "She developed her skills over time.",
+      "The company is developing a new app."
+    ]
+  },
+  {
+    "id": 86,
+    "word": "direct",
+    "meaningThai": "โดยตรง, ชี้นำ",
+    "examples": [
+      "She gave a direct answer.",
+      "He directed us to the right place."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "discover",
+    "meaningThai": "ค้นพบ",
+    "examples": [
+      "They discovered a new café.",
+      "She discovered her passion for music."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "distance",
+    "meaningThai": "ระยะทาง",
+    "examples": [
+      "The distance between the towns is short.",
+      "He kept his distance during the argument."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "divide",
+    "meaningThai": "แบ่ง",
+    "examples": [
+      "We divided the tasks evenly.",
+      "The river divides the city in two."
+    ]
+  },
+  {
+    "id": 90,
+    "word": "doubt",
+    "meaningThai": "สงสัย",
+    "examples": [
+      "I doubt he will come.",
+      "She had no doubt about her choice."
+    ]
+  },
+
+  {
+    "id": 91,
+    "word": "efficient",
+    "meaningThai": "มีประสิทธิภาพ",
+    "examples": [
+      "This method is efficient.",
+      "He completed the task efficiently."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "embarrass",
+    "meaningThai": "ทำให้อาย",
+    "examples": [
+      "His joke embarrassed her.",
+      "Don't embarrass yourself in front of others."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "encourage",
+    "meaningThai": "ให้กำลังใจ",
+    "examples": [
+      "She encouraged me to apply.",
+      "Teachers encourage students to participate."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "energy",
+    "meaningThai": "พลังงาน",
+    "examples": [
+      "He has a lot of energy in the morning.",
+      "Save energy by turning off the lights."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "engage",
+    "meaningThai": "มีส่วนร่วม",
+    "examples": [
+      "The speaker engaged the audience.",
+      "Students actively engaged in class."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "enjoyable",
+    "meaningThai": "สนุก เพลิดเพลิน",
+    "examples": [
+      "The movie was enjoyable.",
+      "We had an enjoyable afternoon."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "escape",
+    "meaningThai": "หลบหนี",
+    "examples": [
+      "He escaped from the noise.",
+      "They escaped the crowded area."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "estimate",
+    "meaningThai": "ประมาณการ",
+    "examples": [
+      "They estimated the cost.",
+      "The repair will take longer than estimated."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "eventually",
+    "meaningThai": "ในที่สุด",
+    "examples": [
+      "He eventually passed the exam.",
+      "Everything will work out eventually."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "express",
+    "meaningThai": "แสดงออก",
+    "examples": [
+      "She expressed her gratitude.",
+      "He expressed his thoughts clearly."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "familiar",
+    "meaningThai": "คุ้นเคย",
+    "examples": [
+      "Her voice sounds familiar.",
+      "This place feels familiar to me."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "fancy",
+    "meaningThai": "ชอบ (แบบอยากได้), หรูหรา",
+    "examples": [
+      "Do you fancy a cup of tea?",
+      "They ate at a fancy restaurant."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "fearless",
+    "meaningThai": "ไม่กลัว กล้าหาญ",
+    "examples": [
+      "She is fearless when presenting.",
+      "Firefighters must be fearless."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "feature",
+    "meaningThai": "คุณสมบัติ จุดเด่น",
+    "examples": [
+      "This phone has many useful features.",
+      "The new update features better security."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "flexible",
+    "meaningThai": "ยืดหยุ่น",
+    "examples": [
+      "A flexible schedule is important.",
+      "She is flexible with her plans."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "focus",
+    "meaningThai": "โฟกัส ตั้งใจ",
+    "examples": [
+      "Please focus on the task.",
+      "He needs a quiet place to focus."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "forgive",
+    "meaningThai": "ให้อภัย",
+    "examples": [
+      "She forgave him right away.",
+      "It's important to learn to forgive yourself."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "frequent",
+    "meaningThai": "บ่อยครั้ง",
+    "examples": [
+      "He is a frequent visitor here.",
+      "Frequent practice improves skills."
+    ]
+  },
+  {
+    "id": 109,
+    "word": "fuel",
+    "meaningThai": "เชื้อเพลิง, กระตุ้น",
+    "examples": [
+      "The car is low on fuel.",
+      "His passion fuels his creativity."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "genuine",
+    "meaningThai": "แท้ จริงใจ",
+    "examples": [
+      "She gave a genuine smile.",
+      "The product is made of genuine leather."
+    ]
+  },
+
+  {
+    "id": 111,
+    "word": "glow",
+    "meaningThai": "เปล่งแสง",
+    "examples": [
+      "The lamp glowed softly.",
+      "Her skin has a natural glow."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "goal",
+    "meaningThai": "เป้าหมาย",
+    "examples": [
+      "Set clear goals for yourself.",
+      "He worked hard to achieve his goals."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "greet",
+    "meaningThai": "ทักทาย",
+    "examples": [
+      "They greeted each other warmly.",
+      "The receptionist greeted us politely."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "handle",
+    "meaningThai": "จัดการ รับมือ",
+    "examples": [
+      "She can handle pressure well.",
+      "He handled the situation calmly."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "habit",
+    "meaningThai": "นิสัย",
+    "examples": [
+      "Waking up early is a good habit.",
+      "He has a habit of checking his phone often."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "honest",
+    "meaningThai": "ซื่อสัตย์",
+    "examples": [
+      "She is always honest with me.",
+      "Be honest about your feelings."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "hopeful",
+    "meaningThai": "มีความหวัง",
+    "examples": [
+      "We remain hopeful about the results.",
+      "She sounded hopeful after the interview."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "ignore",
+    "meaningThai": "เพิกเฉย",
+    "examples": [
+      "Don't ignore your health.",
+      "He ignored the warning signs."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "impress",
+    "meaningThai": "ทำให้ประทับใจ",
+    "examples": [
+      "He impressed everyone with his presentation.",
+      "The performance truly impressed me."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "improve",
+    "meaningThai": "พัฒนาให้ดีขึ้น",
+    "examples": [
+      "Your English has improved a lot.",
+      "Practice will help you improve."
+    ]
+  },
+
+  {
+    "id": 121,
+    "word": "include",
+    "meaningThai": "รวมถึง",
+    "examples": [
+      "The package includes free shipping.",
+      "The price includes breakfast."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "increase",
+    "meaningThai": "เพิ่มขึ้น",
+    "examples": [
+      "Prices increased last year.",
+      "She wants to increase her income."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "influence",
+    "meaningThai": "มีอิทธิพล",
+    "examples": [
+      "Parents influence their children a lot.",
+      "His work influenced many artists."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "inform",
+    "meaningThai": "แจ้งให้ทราบ",
+    "examples": [
+      "Please inform me of any changes.",
+      "They informed us about the new schedule."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "inspire",
+    "meaningThai": "สร้างแรงบันดาลใจ",
+    "examples": [
+      "Her story inspired millions.",
+      "Good leaders inspire others."
+    ]
+  },
+  {
+    "id": 126,
+    "word": "install",
+    "meaningThai": "ติดตั้ง",
+    "examples": [
+      "He installed the software yesterday.",
+      "You need permission to install this app."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "instruct",
+    "meaningThai": "สั่งสอน ชี้แนะ",
+    "examples": [
+      "The coach instructed the team.",
+      "She instructed me to wait outside."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "intend",
+    "meaningThai": "ตั้งใจ",
+    "examples": [
+      "I intend to finish my work today.",
+      "She intended to call you back."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "intense",
+    "meaningThai": "เข้มข้น รุนแรง",
+    "examples": [
+      "The heat is intense today.",
+      "The competition was intense."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "interest",
+    "meaningThai": "ความสนใจ",
+    "examples": [
+      "She has an interest in photography.",
+      "The topic caught his interest."
+    ]
+  },
+
+  {
+    "id": 131,
+    "word": "interrupt",
+    "meaningThai": "ขัดจังหวะ",
+    "examples": [
+      "Please don't interrupt him.",
+      "She interrupted the meeting with a question."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "invest",
+    "meaningThai": "ลงทุน",
+    "examples": [
+      "They invested in a new startup.",
+      "Invest time in learning new skills."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "involve",
+    "meaningThai": "เกี่ยวข้อง มีส่วนร่วม",
+    "examples": [
+      "The job involves a lot of travel.",
+      "He was involved in the project."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "invite",
+    "meaningThai": "เชิญ",
+    "examples": [
+      "They invited us to dinner.",
+      "She invited her friends to the party."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "judge",
+    "meaningThai": "ตัดสิน",
+    "examples": [
+      "Don't judge a book by its cover.",
+      "He judged the competition fairly."
+    ]
+  },
+  {
+    "id": 136,
+    "word": "kind",
+    "meaningThai": "ใจดี",
+    "examples": [
+      "She is kind to everyone.",
+      "Thank you for your kind words."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "lack",
+    "meaningThai": "ขาด ขาดแคลน",
+    "examples": [
+      "They lack experience.",
+      "He felt a lack of motivation."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "length",
+    "meaningThai": "ความยาว",
+    "examples": [
+      "The length of the table is two meters.",
+      "Check the length before cutting the rope."
+    ]
+  },
+  {
+    "id": 139,
+    "word": "limit",
+    "meaningThai": "ขีดจำกัด",
+    "examples": [
+      "Know your limits.",
+      "There is a limit to how much we can do."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "maintain",
+    "meaningThai": "รักษาไว้ ดูแล",
+    "examples": [
+      "She maintains a healthy lifestyle.",
+      "We need to maintain the equipment."
+    ]
+  },
+
+  {
+    "id": 141,
+    "word": "manage",
+    "meaningThai": "จัดการ",
+    "examples": [
+      "He managed the team well.",
+      "She can manage her time efficiently."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "mention",
+    "meaningThai": "กล่าวถึง",
+    "examples": [
+      "She mentioned your name earlier.",
+      "He forgot to mention the deadline."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "negative",
+    "meaningThai": "ทางลบ",
+    "examples": [
+      "Don't focus on negative thoughts.",
+      "She got negative feedback."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "negotiate",
+    "meaningThai": "เจรจา ต่อรอง",
+    "examples": [
+      "They negotiated a better price.",
+      "He knows how to negotiate effectively."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "notice",
+    "meaningThai": "สังเกต เห็น",
+    "examples": [
+      "Did you notice the new sign?",
+      "She noticed the small details."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "observe",
+    "meaningThai": "สังเกต ดู",
+    "examples": [
+      "He observed the children playing.",
+      "We observed the changes closely."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "offer",
+    "meaningThai": "เสนอ",
+    "examples": [
+      "They offered him a job.",
+      "She offered to help."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "organize",
+    "meaningThai": "จัดระเบียบ",
+    "examples": [
+      "She organized the closet.",
+      "We need to organize our tasks."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "participate",
+    "meaningThai": "เข้าร่วม",
+    "examples": [
+      "Many students participated in the event.",
+      "She loves participating in group activities."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "peaceful",
+    "meaningThai": "สงบสุข",
+    "examples": [
+      "The garden is peaceful in the morning.",
+      "He enjoys peaceful weekends at home."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "perform",
+    "meaningThai": "แสดง, ทำงาน",
+    "examples": [
+      "She performed well during the interview.",
+      "The band will perform tonight."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "pleasant",
+    "meaningThai": "น่าพอใจ",
+    "examples": [
+      "We had a pleasant conversation.",
+      "The weather today is pleasant."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "polite",
+    "meaningThai": "สุภาพ",
+    "examples": [
+      "She is always polite to others.",
+      "Please be polite when speaking."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "positive",
+    "meaningThai": "เชิงบวก",
+    "examples": [
+      "Try to stay positive.",
+      "He received positive feedback."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "prefer",
+    "meaningThai": "ชอบมากกว่า",
+    "examples": [
+      "I prefer tea over coffee.",
+      "She prefers studying at night."
+    ]
+  },
+  {
+    "id": 156,
+    "word": "prepare",
+    "meaningThai": "เตรียมตัว",
+    "examples": [
+      "She prepared for the exam.",
+      "They are preparing dinner."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "pressure",
+    "meaningThai": "ความกดดัน",
+    "examples": [
+      "He works well under pressure.",
+      "The pressure was too much for her."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "pretend",
+    "meaningThai": "แกล้งทำเป็น",
+    "examples": [
+      "The kids pretended to be superheroes.",
+      "Don't pretend you didn't hear me."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "priority",
+    "meaningThai": "สิ่งสำคัญที่สุด",
+    "examples": [
+      "Your health should be a priority.",
+      "They set priorities for the project."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "protect",
+    "meaningThai": "ปกป้อง",
+    "examples": [
+      "Wear sunscreen to protect your skin.",
+      "Parents protect their children."
+    ]
+  },
+
+  {
+    "id": 161,
+    "word": "provide",
+    "meaningThai": "จัดหาให้",
+    "examples": [
+      "The hotel provides free breakfast.",
+      "She provided useful information."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "purchase",
+    "meaningThai": "ซื้อ",
+    "examples": [
+      "She purchased a new phone.",
+      "Keep the receipt after your purchase."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "reduce",
+    "meaningThai": "ลดลง",
+    "examples": [
+      "We need to reduce waste.",
+      "He reduced his screen time."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "reflect",
+    "meaningThai": "สะท้อน, ไตร่ตรอง",
+    "examples": [
+      "The mirror reflects light.",
+      "She reflected on her mistakes."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "refuse",
+    "meaningThai": "ปฏิเสธ",
+    "examples": [
+      "She refused the offer politely.",
+      "He refused to participate."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "relax",
+    "meaningThai": "ผ่อนคลาย",
+    "examples": [
+      "Take a moment to relax.",
+      "He relaxed after finishing the project."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "release",
+    "meaningThai": "ปล่อย, ออกวางจำหน่าย",
+    "examples": [
+      "The company released a new product.",
+      "She released the bird into the sky."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "remind",
+    "meaningThai": "เตือน",
+    "examples": [
+      "Please remind me tomorrow.",
+      "This song reminds me of my childhood."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "repair",
+    "meaningThai": "ซ่อมแซม",
+    "examples": [
+      "They repaired the damaged roof.",
+      "He knows how to repair computers."
+    ]
+  },
+  {
+    "id": 170,
+    "word": "replace",
+    "meaningThai": "แทนที่",
+    "examples": [
+      "You should replace old batteries.",
+      "She replaced the broken chair."
+    ]
+  },
+
+  {
+    "id": 171,
+    "word": "require",
+    "meaningThai": "จำเป็นต้องใช้ ต้องการ",
+    "examples": [
+      "This job requires experience.",
+      "The task requires patience."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "respect",
+    "meaningThai": "เคารพ",
+    "examples": [
+      "You should respect others' opinions.",
+      "He earned my respect."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "respond",
+    "meaningThai": "ตอบสนอง",
+    "examples": [
+      "She didn't respond to my message.",
+      "Please respond as soon as possible."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "responsible",
+    "meaningThai": "รับผิดชอบ",
+    "examples": [
+      "He is responsible for the project.",
+      "Be responsible with your actions."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "satisfy",
+    "meaningThai": "ทำให้พอใจ",
+    "examples": [
+      "The meal satisfied everyone.",
+      "She hopes the results satisfy her expectations."
+    ]
+  },
+  {
+    "id": 176,
+    "word": "schedule",
+    "meaningThai": "ตารางเวลา",
+    "examples": [
+      "My schedule is full today.",
+      "We scheduled the meeting for Monday."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "select",
+    "meaningThai": "เลือก",
+    "examples": [
+      "Please select your preferred option.",
+      "She selected a dress from the rack."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "separate",
+    "meaningThai": "แยกออก",
+    "examples": [
+      "They separated the waste into groups.",
+      "Their paths separated after graduation."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "similar",
+    "meaningThai": "คล้ายกัน",
+    "examples": [
+      "These two bags look similar.",
+      "She and her sister have similar habits."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "solve",
+    "meaningThai": "แก้ปัญหา",
+    "examples": [
+      "They solved the issue quickly.",
+      "Can you solve this puzzle?"
+    ]
+  },
+
+  {
+    "id": 181,
+    "word": "support",
+    "meaningThai": "สนับสนุน",
+    "examples": [
+      "Her family supports her studies.",
+      "We support the new policy."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "survive",
+    "meaningThai": "อยู่รอด",
+    "examples": [
+      "Plants need sunlight to survive.",
+      "He survived the difficult situation."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "surround",
+    "meaningThai": "ล้อมรอบ",
+    "examples": [
+      "Mountains surround the village.",
+      "She felt surrounded by support."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "suggest",
+    "meaningThai": "แนะนำ เสนอ",
+    "examples": [
+      "She suggested a new idea.",
+      "I suggest trying a different approach."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "suppose",
+    "meaningThai": "คิดว่า, สมมติว่า",
+    "examples": [
+      "I suppose you're right.",
+      "Let's suppose we had more time."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "surprising",
+    "meaningThai": "น่าประหลาดใจ",
+    "examples": [
+      "The results were surprising.",
+      "Her improvement is surprising."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "trust",
+    "meaningThai": "เชื่อใจ",
+    "examples": [
+      "I trust your judgment.",
+      "Trust takes time to build."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "understand",
+    "meaningThai": "เข้าใจ",
+    "examples": [
+      "Do you understand the question?",
+      "I understand how you feel."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "update",
+    "meaningThai": "อัปเดต",
+    "examples": [
+      "Please update the document.",
+      "The app needs to be updated."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "valuable",
+    "meaningThai": "มีค่า มีประโยชน์",
+    "examples": [
+      "Your advice is valuable.",
+      "He shared valuable information."
+    ]
+  },
+
+  {
+    "id": 191,
+    "word": "variety",
+    "meaningThai": "ความหลากหลาย",
+    "examples": [
+      "The shop offers a variety of snacks.",
+      "There is a wide variety of choices."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "warn",
+    "meaningThai": "เตือน",
+    "examples": [
+      "They warned us about the storm.",
+      "She warned him to be careful."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "waste",
+    "meaningThai": "เสียเปล่า, ขยะ",
+    "examples": [
+      "Don't waste your time.",
+      "They want to reduce food waste."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "wonder",
+    "meaningThai": "สงสัย",
+    "examples": [
+      "I wonder if he will come.",
+      "She wondered why it happened."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "worry",
+    "meaningThai": "กังวล",
+    "examples": [
+      "Don't worry too much.",
+      "She worries about her exams."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "yawn",
+    "meaningThai": "หาว",
+    "examples": [
+      "He yawned during the meeting.",
+      "She couldn't stop yawning."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "yell",
+    "meaningThai": "ตะโกน",
+    "examples": [
+      "Don't yell at the kids.",
+      "He yelled for help."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "approach",
+    "meaningThai": "เข้าใกล้, วิธีการ",
+    "examples": [
+      "Winter is approaching.",
+      "We need a new approach to this problem."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "borrow",
+    "meaningThai": "ยืม",
+    "examples": [
+      "Can I borrow your pen?",
+      "She borrowed a book from the library."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "celebration",
+    "meaningThai": "การเฉลิมฉลอง",
+    "examples": [
+      "They planned a big celebration.",
+      "The celebration lasted all night."
+    ]
+  }
+]

@@ -1,0 +1,1667 @@
+[
+  {
+    "id": 1,
+    "word": "grab",
+    "meaningThai": "หยิบ, คว้า",
+    "examples": ["Can you grab my bag?", "I’ll grab some food on the way."]
+  },
+  {
+    "id": 2,
+    "word": "check",
+    "meaningThai": "ตรวจสอบ",
+    "examples": ["Let me check my schedule.", "Can you check the time?"]
+  },
+  {
+    "id": 3,
+    "word": "avoid",
+    "meaningThai": "หลีกเลี่ยง",
+    "examples": [
+      "Try to avoid traffic at 5 p.m.",
+      "I avoid spicy food at night."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "borrow",
+    "meaningThai": "ยืม",
+    "examples": ["Can I borrow your pen?", "I borrowed a book from her."]
+  },
+  {
+    "id": 5,
+    "word": "return",
+    "meaningThai": "คืน",
+    "examples": [
+      "I’ll return your jacket tomorrow.",
+      "She returned the item to the shop."
+    ]
+  },
+
+  {
+    "id": 6,
+    "word": "cancel",
+    "meaningThai": "ยกเลิก",
+    "examples": [
+      "I need to cancel the appointment.",
+      "The flight got canceled."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "remind",
+    "meaningThai": "เตือน",
+    "examples": [
+      "Please remind me at 8 a.m.",
+      "I reminded him about the deadline."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "tired",
+    "meaningThai": "เหนื่อย",
+    "examples": ["I’m tired after work.", "She looked tired today."]
+  },
+  {
+    "id": 9,
+    "word": "messy",
+    "meaningThai": "รก, เลอะเทอะ",
+    "examples": ["My room is messy again.", "Don’t leave the kitchen messy."]
+  },
+  {
+    "id": 10,
+    "word": "delay",
+    "meaningThai": "ล่าช้า",
+    "examples": ["The train got delayed.", "Sorry for the delay."]
+  },
+
+  {
+    "id": 11,
+    "word": "prefer",
+    "meaningThai": "ชอบมากกว่า",
+    "examples": ["I prefer coffee over tea.", "He prefers staying home."]
+  },
+  {
+    "id": 12,
+    "word": "schedule",
+    "meaningThai": "กำหนดเวลา",
+    "examples": ["Let’s schedule a meeting.", "My schedule is full today."]
+  },
+  {
+    "id": 13,
+    "word": "bother",
+    "meaningThai": "รบกวน, กวนใจ",
+    "examples": ["Sorry to bother you.", "The noise bothered me all night."]
+  },
+  {
+    "id": 14,
+    "word": "charge",
+    "meaningThai": "ชาร์จไฟ",
+    "examples": ["I need to charge my phone.", "Did you charge your laptop?"]
+  },
+  {
+    "id": 15,
+    "word": "tidy",
+    "meaningThai": "เก็บให้เรียบร้อย",
+    "examples": ["Please tidy your desk.", "I need to tidy my room."]
+  },
+
+  {
+    "id": 16,
+    "word": "deliver",
+    "meaningThai": "ส่งของ",
+    "examples": [
+      "The package will be delivered today.",
+      "They deliver food quickly."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "complain",
+    "meaningThai": "บ่น, ร้องเรียน",
+    "examples": [
+      "He loves to complain about everything.",
+      "I’m not complaining, just saying."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "handle",
+    "meaningThai": "จัดการ",
+    "examples": ["I’ll handle it.", "Can you handle this task?"]
+  },
+  {
+    "id": "19",
+    "word": "pack",
+    "meaningThai": "เก็บของ, แพ็ค",
+    "examples": [
+      "I need to pack for tomorrow.",
+      "She packed her suitcase quickly."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "waste",
+    "meaningThai": "เสียเวลา, สิ้นเปลือง",
+    "examples": ["Don’t waste your money.", "I wasted so much time today."]
+  },
+
+  {
+    "id": 21,
+    "word": "fix",
+    "meaningThai": "ซ่อม",
+    "examples": [
+      "Can you fix this for me?",
+      "The chair is broken; I’ll fix it."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "spill",
+    "meaningThai": "ทำหก",
+    "examples": ["I spilled my drink.", "Be careful not to spill the soup."]
+  },
+  {
+    "id": 23,
+    "word": "rush",
+    "meaningThai": "รีบ",
+    "examples": ["Don’t rush, we have time.", "I rushed out of the house."]
+  },
+  {
+    "id": 24,
+    "word": "repeat",
+    "meaningThai": "พูดอีกครั้ง, ทำซ้ำ",
+    "examples": ["Can you repeat that?", "History tends to repeat itself."]
+  },
+  {
+    "id": 25,
+    "word": "update",
+    "meaningThai": "อัปเดต",
+    "examples": ["Please update me later.", "They updated the app today."]
+  },
+
+  {
+    "id": 26,
+    "word": "move",
+    "meaningThai": "ย้าย",
+    "examples": ["Help me move this table.", "She moved to another city."]
+  },
+  {
+    "id": 27,
+    "word": "skip",
+    "meaningThai": "ข้าม",
+    "examples": ["I’ll skip breakfast today.", "Don’t skip the instructions."]
+  },
+  {
+    "id": 28,
+    "word": "push",
+    "meaningThai": "ผลัก, กระตุ้น",
+    "examples": ["Push the door.", "He pushed me to finish the task."]
+  },
+  {
+    "id": 29,
+    "word": "pull",
+    "meaningThai": "ดึง",
+    "examples": ["Pull the handle.", "She pulled the drawer open."]
+  },
+  {
+    "id": 30,
+    "word": "store",
+    "meaningThai": "เก็บไว้",
+    "examples": [
+      "Store the food in the fridge.",
+      "I stored the files on my drive."
+    ]
+  },
+
+  {
+    "id": 31,
+    "word": "organize",
+    "meaningThai": "จัดระเบียบ",
+    "examples": [
+      "I need to organize my desk.",
+      "She organizes everything neatly."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "choose",
+    "meaningThai": "เลือก",
+    "examples": ["Choose one option.", "I can’t choose between the two."]
+  },
+  {
+    "id": 33,
+    "word": "lose",
+    "meaningThai": "ทำหาย",
+    "examples": ["I always lose my keys.", "Don’t lose your phone."]
+  },
+  {
+    "id": 34,
+    "word": "find",
+    "meaningThai": "หาเจอ",
+    "examples": ["I can’t find my wallet.", "She found her ring under the bed."]
+  },
+  {
+    "id": 35,
+    "word": "attach",
+    "meaningThai": "แนบ, ติด",
+    "examples": [
+      "Please attach the file.",
+      "He attached the receipt to the form."
+    ]
+  },
+
+  {
+    "id": 36,
+    "word": "boil",
+    "meaningThai": "ต้ม",
+    "examples": ["Boil the water first.", "I’m boiling eggs."]
+  },
+  {
+    "id": 37,
+    "word": "accept",
+    "meaningThai": "ยอมรับ",
+    "examples": ["I accept your apology.", "She accepted the offer."]
+  },
+  {
+    "id": 38,
+    "word": "measure",
+    "meaningThai": "วัด",
+    "examples": ["Measure the table’s length.", "Can you measure this for me?"]
+  },
+  {
+    "id": 39,
+    "word": "refill",
+    "meaningThai": "เติมให้เต็ม",
+    "examples": ["I need to refill my bottle.", "The shop refilled the tanks."]
+  },
+  {
+    "id": 40,
+    "word": "fold",
+    "meaningThai": "พับ",
+    "examples": ["Fold the clothes.", "She folded the letter."]
+  },
+
+  {
+    "id": 41,
+    "word": "avoid",
+    "meaningThai": "เลี่ยง",
+    "examples": ["I avoid fast food now.", "Try to avoid that area."]
+  },
+  {
+    "id": 42,
+    "word": "remind",
+    "meaningThai": "เตือน",
+    "examples": ["Remind me later.", "This picture reminds me of home."]
+  },
+  {
+    "id": 43,
+    "word": "press",
+    "meaningThai": "กด",
+    "examples": ["Press the button.", "Press lightly to open it."]
+  },
+  {
+    "id": 44,
+    "word": "stretch",
+    "meaningThai": "ยืดตัว",
+    "examples": [
+      "Don’t forget to stretch.",
+      "I stretched my legs after sitting too long."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "collect",
+    "meaningThai": "เก็บ, รับ",
+    "examples": [
+      "Collect your parcel at the counter.",
+      "I collected all the documents."
+    ]
+  },
+
+  {
+    "id": 46,
+    "word": "mix",
+    "meaningThai": "ผสม",
+    "examples": ["Mix the ingredients well.", "Don’t mix hot and cold water."]
+  },
+  {
+    "id": 47,
+    "word": "reserve",
+    "meaningThai": "จอง",
+    "examples": ["I reserved a table at 6.", "Please reserve a seat for him."]
+  },
+  {
+    "id": 48,
+    "word": "unlock",
+    "meaningThai": "ปลดล็อก",
+    "examples": ["Unlock the door please.", "I forgot to unlock my phone."]
+  },
+  {
+    "id": 49,
+    "word": "serve",
+    "meaningThai": "เสิร์ฟ, ให้บริการ",
+    "examples": ["They serve breakfast until 11.", "She served us coffee."]
+  },
+  {
+    "id": 50,
+    "word": "remove",
+    "meaningThai": "เอาออก",
+    "examples": ["Remove the sticker carefully.", "I removed all the dust."]
+  },
+  {
+    "id": 51,
+    "word": "heat",
+    "meaningThai": "อุ่น, ทำให้ร้อน",
+    "examples": ["Heat the pan first.", "I’ll heat the soup."]
+  },
+  {
+    "id": 52,
+    "word": "cool",
+    "meaningThai": "ทำให้เย็น",
+    "examples": ["Let the cake cool.", "The drink cooled down quickly."]
+  },
+  {
+    "id": 53,
+    "word": "rush",
+    "meaningThai": "เร่งรีบ",
+    "examples": ["No need to rush.", "I rushed to the bus stop."]
+  },
+  {
+    "id": 54,
+    "word": "delay",
+    "meaningThai": "ล่าช้า",
+    "examples": ["There was a delay with my order.", "Sorry for the delay."]
+  },
+  {
+    "id": 55,
+    "word": "book",
+    "meaningThai": "จอง",
+    "examples": ["I booked a room already.", "You should book early."]
+  },
+
+  {
+    "id": 56,
+    "word": "advertise",
+    "meaningThai": "โฆษณา",
+    "examples": [
+      "They advertised the product online.",
+      "It’s difficult to advertise well."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "connect",
+    "meaningThai": "เชื่อมต่อ",
+    "examples": [
+      "Connect your phone to the Wi-Fi.",
+      "The device failed to connect."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "confirm",
+    "meaningThai": "ยืนยัน",
+    "examples": ["Please confirm the time.", "She confirmed the address."]
+  },
+  {
+    "id": 59,
+    "word": "notify",
+    "meaningThai": "แจ้งเตือน",
+    "examples": [
+      "The app will notify you.",
+      "Please notify me when you arrive."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "adjust",
+    "meaningThai": "ปรับ",
+    "examples": ["Adjust the volume.", "I adjusted the chair height."]
+  },
+
+  {
+    "id": 61,
+    "word": "pretend",
+    "meaningThai": "แกล้งทำเป็น",
+    "examples": ["Don’t pretend you didn’t know.", "He pretended to be asleep."]
+  },
+  {
+    "id": 62,
+    "word": "switch",
+    "meaningThai": "สลับ",
+    "examples": [
+      "Switch seats with me.",
+      "She switched her phone to silent mode."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "warn",
+    "meaningThai": "เตือนล่วงหน้า",
+    "examples": ["I warned you earlier.", "Please warn me next time."]
+  },
+  {
+    "id": 64,
+    "word": "compare",
+    "meaningThai": "เปรียบเทียบ",
+    "examples": ["Don’t compare yourself to others.", "I compared the prices."]
+  },
+  {
+    "id": 65,
+    "word": "encourage",
+    "meaningThai": "ให้กำลังใจ",
+    "examples": [
+      "She encouraged me to keep trying.",
+      "I encourage you to apply."
+    ]
+  },
+
+  {
+    "id": 66,
+    "word": "reduce",
+    "meaningThai": "ลด",
+    "examples": ["Try to reduce sugar.", "I reduced my screen time."]
+  },
+  {
+    "id": 67,
+    "word": "avoid",
+    "meaningThai": "หลีกเลี่ยง",
+    "examples": ["I avoid driving at night.", "Try to avoid arguments."]
+  },
+  {
+    "id": 68,
+    "word": "save",
+    "meaningThai": "เก็บ, ประหยัด",
+    "examples": ["Save your money.", "I saved the file."]
+  },
+  {
+    "id": 69,
+    "word": "charge",
+    "meaningThai": "คิดเงิน, ชาร์จ",
+    "examples": ["They charged extra for delivery.", "Charge your phone now."]
+  },
+  {
+    "id": 70,
+    "word": "stretch",
+    "meaningThai": "ยืด",
+    "examples": ["Stretch before exercising.", "I stretched my back."]
+  },
+
+  {
+    "id": 71,
+    "word": "wrap",
+    "meaningThai": "ห่อ",
+    "examples": ["Wrap the sandwich neatly.", "She wrapped the gift."]
+  },
+  {
+    "id": 72,
+    "word": "earn",
+    "meaningThai": "หาเงิน",
+    "examples": [
+      "I earn enough to live comfortably.",
+      "He earns extra on weekends."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "drop",
+    "meaningThai": "ทำตก, ฝากไว้",
+    "examples": ["I dropped my phone.", "Can I drop this off later?"]
+  },
+  {
+    "id": 74,
+    "word": "lift",
+    "meaningThai": "ยกขึ้น",
+    "examples": ["Lift carefully.", "He lifted the box easily."]
+  },
+  {
+    "id": 75,
+    "word": "fold",
+    "meaningThai": "พับ",
+    "examples": ["Fold your clothes.", "She folded the paper neatly."]
+  },
+
+  {
+    "id": 76,
+    "word": "pour",
+    "meaningThai": "เท",
+    "examples": ["Pour the milk slowly.", "He poured too much sauce."]
+  },
+  {
+    "id": 77,
+    "word": "heat up",
+    "meaningThai": "อุ่นอาหาร",
+    "examples": ["Heat up the leftovers.", "I heated up the soup."]
+  },
+  {
+    "id": 78,
+    "word": "dry",
+    "meaningThai": "ทำให้แห้ง",
+    "examples": ["Let the clothes dry.", "I dried my hair."]
+  },
+  {
+    "id": 79,
+    "word": "freeze",
+    "meaningThai": "แช่แข็ง",
+    "examples": ["Freeze the chicken for later.", "The computer froze again."]
+  },
+  {
+    "id": 80,
+    "word": "track",
+    "meaningThai": "ตาม, ติดตามสถานะ",
+    "examples": ["Track your order online.", "I’m tracking my spending."]
+  },
+
+  {
+    "id": 81,
+    "word": "notify",
+    "meaningThai": "แจ้งเตือน",
+    "examples": [
+      "The system will notify you soon.",
+      "Notify me if anything changes."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "deliver",
+    "meaningThai": "ส่งมอบ",
+    "examples": [
+      "They delivered the package.",
+      "It was delivered this morning."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "manage",
+    "meaningThai": "จัดการ",
+    "examples": [
+      "Can you manage this alone?",
+      "I managed to finish everything."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "order",
+    "meaningThai": "สั่งของ",
+    "examples": ["I ordered pizza.", "She ordered a new phone."]
+  },
+  {
+    "id": 85,
+    "word": "refund",
+    "meaningThai": "คืนเงิน",
+    "examples": ["I asked for a refund.", "They approved my refund."]
+  },
+
+  {
+    "id": 86,
+    "word": "replace",
+    "meaningThai": "แทนที่, เปลี่ยนใหม่",
+    "examples": ["I replaced the old battery.", "This part needs replacing."]
+  },
+  {
+    "id": 87,
+    "word": "return",
+    "meaningThai": "คืนสินค้า",
+    "examples": ["I returned the item yesterday.", "They don’t accept returns."]
+  },
+  {
+    "id": 88,
+    "word": "boil",
+    "meaningThai": "ต้ม",
+    "examples": ["Boil water first.", "I boiled the noodles."]
+  },
+  {
+    "id": 89,
+    "word": "mix up",
+    "meaningThai": "สับสน, ปะปน",
+    "examples": ["I mixed up the dates.", "Don’t mix up these files."]
+  },
+  {
+    "id": 90,
+    "word": "arrange",
+    "meaningThai": "จัดเตรียม, จัดเรียง",
+    "examples": ["Arrange the chairs.", "I arranged the meeting."]
+  },
+
+  {
+    "id": 91,
+    "word": "print",
+    "meaningThai": "พิมพ์",
+    "examples": ["Print the document.", "I printed the form earlier."]
+  },
+  {
+    "id": 92,
+    "word": "sign",
+    "meaningThai": "เซ็นชื่อ",
+    "examples": ["Sign here please.", "She signed the contract."]
+  },
+  {
+    "id": 93,
+    "word": "reset",
+    "meaningThai": "รีเซ็ต",
+    "examples": ["Reset your password.", "The router needs resetting."]
+  },
+  {
+    "id": 94,
+    "word": "confirm",
+    "meaningThai": "ยืนยัน",
+    "examples": ["Confirm your email.", "I confirmed the order."]
+  },
+  {
+    "id": 95,
+    "word": "replace",
+    "meaningThai": "เปลี่ยนใหม่",
+    "examples": ["I replaced the broken part.", "Replace the filter monthly."]
+  },
+
+  {
+    "id": 96,
+    "word": "load",
+    "meaningThai": "ใส่เข้าไป, โหลด",
+    "examples": [
+      "Load the dishes into the dishwasher.",
+      "The page took too long to load."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "unlock",
+    "meaningThai": "ปลดล็อก",
+    "examples": ["Unlock the door for me.", "My phone won’t unlock."]
+  },
+  {
+    "id": 98,
+    "word": "charge up",
+    "meaningThai": "ชาร์จจนเต็ม",
+    "examples": [
+      "Charge up your phone before leaving.",
+      "My power bank is charged up."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "avoid",
+    "meaningThai": "หลีกเลี่ยง",
+    "examples": ["Avoid heavy traffic.", "I avoid crowded places."]
+  },
+  {
+    "id": 100,
+    "word": "catch",
+    "meaningThai": "จับ, เก็บทัน",
+    "examples": ["Catch the bus on time.", "I couldn’t catch what he said."]
+  },
+  {
+    "id": 101,
+    "word": "grab onto",
+    "meaningThai": "จับให้มั่น",
+    "examples": ["Grab onto the handle.", "He grabbed onto my arm."]
+  },
+  {
+    "id": 102,
+    "word": "avoidance",
+    "meaningThai": "การหลีกเลี่ยง",
+    "examples": [
+      "Avoidance won’t fix the problem.",
+      "His avoidance made things worse."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "delay on purpose",
+    "meaningThai": "จงใจทำให้ล่าช้า",
+    "examples": ["He delayed on purpose.", "Don’t delay on purpose next time."]
+  },
+  {
+    "id": 104,
+    "word": "freeze up",
+    "meaningThai": "ค้าง, ทำอะไรไม่ออก",
+    "examples": [
+      "I froze up during the meeting.",
+      "She freezes up when nervous."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "misplace",
+    "meaningThai": "วางของผิดที่",
+    "examples": ["I misplaced my keys again.", "She misplaces things easily."]
+  },
+
+  {
+    "id": 106,
+    "word": "refuse",
+    "meaningThai": "ปฏิเสธ",
+    "examples": ["I refuse to argue.", "He refused the offer politely."]
+  },
+  {
+    "id": 107,
+    "word": "approve",
+    "meaningThai": "อนุมัติ",
+    "examples": ["The request was approved.", "They approved my application."]
+  },
+  {
+    "id": 108,
+    "word": "deny",
+    "meaningThai": "ปฏิเสธข้อกล่าวหา",
+    "examples": ["He denied everything.", "She denied losing the file."]
+  },
+  {
+    "id": 109,
+    "word": "postpone",
+    "meaningThai": "เลื่อนออกไป",
+    "examples": ["Let’s postpone the event.", "They postponed the meeting."]
+  },
+  {
+    "id": 110,
+    "word": "sort",
+    "meaningThai": "คัดแยก, จัดประเภท",
+    "examples": ["Sort your clothes by color.", "I sorted the documents."]
+  },
+
+  {
+    "id": 111,
+    "word": "highlight",
+    "meaningThai": "เน้น",
+    "examples": ["Highlight the important parts.", "I highlighted the dates."]
+  },
+  {
+    "id": 112,
+    "word": "drag",
+    "meaningThai": "ลาก",
+    "examples": ["Drag the file to the folder.", "He dragged the chair closer."]
+  },
+  {
+    "id": 113,
+    "word": "fold up",
+    "meaningThai": "พับเก็บ",
+    "examples": ["Fold up the blanket.", "She folded up the stroller."]
+  },
+  {
+    "id": 114,
+    "word": "heat up quickly",
+    "meaningThai": "ร้อนขึ้นเร็ว",
+    "examples": ["The pan heats up quickly.", "The room heated up quickly."]
+  },
+  {
+    "id": 115,
+    "word": "cool down",
+    "meaningThai": "เย็นลง",
+    "examples": ["Let the engine cool down.", "I need time to cool down."]
+  },
+
+  {
+    "id": 116,
+    "word": "sip",
+    "meaningThai": "จิบ",
+    "examples": ["He sipped his tea slowly.", "I took a small sip."]
+  },
+  {
+    "id": 117,
+    "word": "spill over",
+    "meaningThai": "ล้นออกมา",
+    "examples": ["The water spilled over.", "Her emotions spilled over."]
+  },
+  {
+    "id": 118,
+    "word": "hang",
+    "meaningThai": "แขวน",
+    "examples": ["Hang your coat here.", "I hung the picture myself."]
+  },
+  {
+    "id": 119,
+    "word": "hang out",
+    "meaningThai": "ออกไปเล่น, ใช้เวลา",
+    "examples": ["Let’s hang out tomorrow.", "They’re hanging out at the mall."]
+  },
+  {
+    "id": 120,
+    "word": "look after",
+    "meaningThai": "ดูแล",
+    "examples": ["I’ll look after your cat.", "Who’s looking after the kids?"]
+  },
+
+  {
+    "id": 121,
+    "word": "look into",
+    "meaningThai": "ตรวจสอบ, หาข้อมูล",
+    "examples": ["I’ll look into the issue.", "She’s looking into new options."]
+  },
+  {
+    "id": 122,
+    "word": "look for",
+    "meaningThai": "มองหา",
+    "examples": ["I’m looking for my phone.", "She’s looking for a new job."]
+  },
+  {
+    "id": 123,
+    "word": "fill out",
+    "meaningThai": "กรอกข้อมูล",
+    "examples": ["Fill out the form.", "I filled out everything already."]
+  },
+  {
+    "id": 124,
+    "word": "fill up",
+    "meaningThai": "เติมให้เต็ม",
+    "examples": ["Fill up the tank.", "I filled up my bottle."]
+  },
+  {
+    "id": 125,
+    "word": "plug in",
+    "meaningThai": "เสียบปลั๊ก",
+    "examples": ["Plug in the charger.", "The keyboard isn’t plugged in."]
+  },
+
+  {
+    "id": 126,
+    "word": "unplug",
+    "meaningThai": "ถอดปลั๊ก",
+    "examples": ["Unplug the TV first.", "I forgot to unplug my iron."]
+  },
+  {
+    "id": 127,
+    "word": "dust",
+    "meaningThai": "ปัดฝุ่น",
+    "examples": ["I need to dust the shelves.", "She dusted the table quickly."]
+  },
+  {
+    "id": 128,
+    "word": "vacuum",
+    "meaningThai": "ดูดฝุ่น",
+    "examples": ["Vacuum the carpet.", "I vacuum every weekend."]
+  },
+  {
+    "id": 129,
+    "word": "organize",
+    "meaningThai": "จัดเป็นระเบียบ",
+    "examples": ["Organize your notes.", "I organized my files yesterday."]
+  },
+  {
+    "id": 130,
+    "word": "jot down",
+    "meaningThai": "จดอย่างเร็ว",
+    "examples": ["Jot down the idea.", "I jotted down his number."]
+  },
+
+  {
+    "id": 131,
+    "word": "zone out",
+    "meaningThai": "เหม่อ",
+    "examples": ["I zoned out in the meeting.", "She zones out when tired."]
+  },
+  {
+    "id": 132,
+    "word": "speed up",
+    "meaningThai": "เร่งความเร็ว",
+    "examples": ["Speed up a little.", "The process needs to speed up."]
+  },
+  {
+    "id": 133,
+    "word": "slow down",
+    "meaningThai": "ช้าลง",
+    "examples": ["Slow down when driving.", "I need to slow down sometimes."]
+  },
+  {
+    "id": 134,
+    "word": "stay up",
+    "meaningThai": "นอนดึก, ไม่หลับ",
+    "examples": ["I stayed up studying.", "Don’t stay up too late."]
+  },
+  {
+    "id": 135,
+    "word": "oversleep",
+    "meaningThai": "นอนเกินเวลา",
+    "examples": ["I overslept again.", "She overslept and missed the bus."]
+  },
+
+  {
+    "id": 136,
+    "word": "charge extra",
+    "meaningThai": "คิดเงินเพิ่ม",
+    "examples": [
+      "They charged extra for sauce.",
+      "The shop charges extra after midnight."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "double-check",
+    "meaningThai": "ตรวจซ้ำ",
+    "examples": ["Double-check your work.", "I double-checked the address."]
+  },
+  {
+    "id": 138,
+    "word": "mishear",
+    "meaningThai": "ได้ยินผิด",
+    "examples": ["I misheard what he said.", "She often mishears people."]
+  },
+  {
+    "id": 139,
+    "word": "misread",
+    "meaningThai": "อ่านผิด",
+    "examples": ["I misread the date.", "He misread the instructions."]
+  },
+  {
+    "id": 140,
+    "word": "interrupt",
+    "meaningThai": "ขัดจังหวะ",
+    "examples": ["Sorry to interrupt.", "He interrupted the meeting."]
+  },
+
+  {
+    "id": 141,
+    "word": "promise",
+    "meaningThai": "สัญญา",
+    "examples": ["I promise I’ll be there.", "She promised to help."]
+  },
+  {
+    "id": 142,
+    "word": "apologize",
+    "meaningThai": "ขอโทษ",
+    "examples": ["I apologize for the mistake.", "He apologized yesterday."]
+  },
+  {
+    "id": 143,
+    "word": "guess",
+    "meaningThai": "เดา",
+    "examples": ["Take a guess.", "I guessed the answer."]
+  },
+  {
+    "id": 144,
+    "word": "trust",
+    "meaningThai": "เชื่อใจ",
+    "examples": ["I trust you.", "She trusts him completely."]
+  },
+  {
+    "id": 145,
+    "word": "ignore",
+    "meaningThai": "เมิน, ไม่สนใจ",
+    "examples": ["Don’t ignore the warning.", "He ignored my message."]
+  },
+
+  {
+    "id": 146,
+    "word": "interrupt politely",
+    "meaningThai": "ขัดจังหวะแบบสุภาพ",
+    "examples": ["I interrupted politely.", "She tried to interrupt politely."]
+  },
+  {
+    "id": 147,
+    "word": "remind again",
+    "meaningThai": "เตือนอีกครั้ง",
+    "examples": [
+      "Please remind me again.",
+      "He reminded me again this morning."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "hand in",
+    "meaningThai": "ส่งงาน",
+    "examples": ["Hand in your form today.", "She handed in the report."]
+  },
+  {
+    "id": 149,
+    "word": "hand over",
+    "meaningThai": "ส่งต่อ",
+    "examples": ["Hand over the keys.", "He handed over the documents."]
+  },
+  {
+    "id": 150,
+    "word": "run out",
+    "meaningThai": "หมด, ใช้จนหมด",
+    "examples": ["We ran out of milk.", "My patience is running out."]
+  },
+  {
+    "id": 151,
+    "word": "run into",
+    "meaningThai": "เจอโดยบังเอิญ",
+    "examples": [
+      "I ran into my friend at the mall.",
+      "She ran into her teacher yesterday."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "run over",
+    "meaningThai": "ทับ, เลยเวลา",
+    "examples": [
+      "The meeting ran over time.",
+      "Be careful not to run over the curb."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "break down",
+    "meaningThai": "พัง, เสีย",
+    "examples": ["My car broke down.", "The machine broke down again."]
+  },
+  {
+    "id": 154,
+    "word": "break up",
+    "meaningThai": "เลิกกัน",
+    "examples": ["They broke up last month.", "I heard they broke up recently."]
+  },
+  {
+    "id": 155,
+    "word": "calm down",
+    "meaningThai": "ใจเย็นลง",
+    "examples": ["Calm down, everything’s fine.", "He told me to calm down."]
+  },
+
+  {
+    "id": 156,
+    "word": "check on",
+    "meaningThai": "ไปดู, ดูแล",
+    "examples": [
+      "Can you check on the baby?",
+      "I checked on the food in the oven."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "check out",
+    "meaningThai": "ลองดู, เช็กเอาต์",
+    "examples": ["Check out this video.", "We checked out at noon."]
+  },
+  {
+    "id": 158,
+    "word": "calm myself",
+    "meaningThai": "ตั้งสติ",
+    "examples": [
+      "I need a moment to calm myself.",
+      "She calmed herself before speaking."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "catch up",
+    "meaningThai": "ตามให้ทัน, พูดคุยอัปเดต",
+    "examples": ["Let’s catch up soon.", "I need to catch up on work."]
+  },
+  {
+    "id": 160,
+    "word": "clean up",
+    "meaningThai": "เก็บกวาด",
+    "examples": ["Clean up your room.", "We cleaned up after the party."]
+  },
+
+  {
+    "id": 161,
+    "word": "drop off",
+    "meaningThai": "ส่ง, ฝากไว้",
+    "examples": [
+      "Can you drop me off at the station?",
+      "I dropped off the package."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "pick up",
+    "meaningThai": "รับ, เก็บขึ้น",
+    "examples": ["I’ll pick you up at 7.", "Pick up the phone."]
+  },
+  {
+    "id": 163,
+    "word": "wake up",
+    "meaningThai": "ตื่น",
+    "examples": ["I woke up late.", "Wake up early tomorrow."]
+  },
+  {
+    "id": 164,
+    "word": "get ready",
+    "meaningThai": "เตรียมตัว",
+    "examples": ["Get ready to leave.", "I’m getting ready now."]
+  },
+  {
+    "id": 165,
+    "word": "figure out",
+    "meaningThai": "หาคำตอบ, คิดออก",
+    "examples": ["I can’t figure this out.", "We’ll figure it out together."]
+  },
+
+  {
+    "id": 166,
+    "word": "throw away",
+    "meaningThai": "ทิ้ง",
+    "examples": ["Throw it away.", "I threw away the old papers."]
+  },
+  {
+    "id": 167,
+    "word": "put away",
+    "meaningThai": "เก็บเข้าที่",
+    "examples": ["Put your shoes away.", "I put away the dishes."]
+  },
+  {
+    "id": 168,
+    "word": "put on",
+    "meaningThai": "สวม",
+    "examples": ["Put on your shoes.", "She put on some makeup."]
+  },
+  {
+    "id": 169,
+    "word": "take off",
+    "meaningThai": "ถอด",
+    "examples": ["Take off your jacket.", "He took off his hat."]
+  },
+  {
+    "id": 170,
+    "word": "turn on",
+    "meaningThai": "เปิด",
+    "examples": ["Turn on the lights.", "She turned on the heater."]
+  },
+
+  {
+    "id": 171,
+    "word": "turn off",
+    "meaningThai": "ปิด",
+    "examples": ["Turn off the TV.", "I turned off my phone."]
+  },
+  {
+    "id": 172,
+    "word": "log in",
+    "meaningThai": "เข้าสู่ระบบ",
+    "examples": ["Log in to your account.", "I forgot how to log in."]
+  },
+  {
+    "id": 173,
+    "word": "log out",
+    "meaningThai": "ออกจากระบบ",
+    "examples": ["Don’t forget to log out.", "She logged out accidentally."]
+  },
+  {
+    "id": 174,
+    "word": "back up",
+    "meaningThai": "สำรองข้อมูล",
+    "examples": ["Back up your files.", "I backed everything up."]
+  },
+  {
+    "id": 175,
+    "word": "set up",
+    "meaningThai": "ตั้งค่า, จัดเตรียม",
+    "examples": ["Set up the table.", "I set up my new laptop."]
+  },
+
+  {
+    "id": 176,
+    "word": "stay in",
+    "meaningThai": "อยู่บ้าน",
+    "examples": ["I’ll stay in tonight.", "We stayed in all weekend."]
+  },
+  {
+    "id": 177,
+    "word": "go out",
+    "meaningThai": "ออกไปข้างนอก",
+    "examples": ["Let’s go out tonight.", "He goes out every weekend."]
+  },
+  {
+    "id": 178,
+    "word": "calm myself down",
+    "meaningThai": "ทำให้ใจเย็นลง",
+    "examples": [
+      "I tried to calm myself down.",
+      "She calmed herself down slowly."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "stress out",
+    "meaningThai": "เครียดจัด",
+    "examples": ["Don’t stress out.", "I’m stressed out about work."]
+  },
+  {
+    "id": 180,
+    "word": "cool off",
+    "meaningThai": "เย็นลง, สงบอารมณ์",
+    "examples": ["Take a walk to cool off.", "He needed time to cool off."]
+  },
+
+  {
+    "id": 181,
+    "word": "mess around",
+    "meaningThai": "เล่นไร้สาระ, ทำเล่น ๆ",
+    "examples": ["Stop messing around.", "They messed around all afternoon."]
+  },
+  {
+    "id": 182,
+    "word": "show up",
+    "meaningThai": "โผล่มา, มาถึง",
+    "examples": ["He finally showed up.", "You don’t have to show up early."]
+  },
+  {
+    "id": 183,
+    "word": "stand by",
+    "meaningThai": "รออยู่, พร้อมเสมอ",
+    "examples": ["Please stand by.", "I’ll stand by you."]
+  },
+  {
+    "id": 184,
+    "word": "run late",
+    "meaningThai": "มาสาย",
+    "examples": ["I’m running late.", "She ran late for work."]
+  },
+  {
+    "id": 185,
+    "word": "sort out",
+    "meaningThai": "จัดการ, แก้ไข",
+    "examples": ["I’ll sort it out.", "We need to sort this out."]
+  },
+
+  {
+    "id": 186,
+    "word": "drop by",
+    "meaningThai": "แวะไป",
+    "examples": ["I’ll drop by later.", "She dropped by unexpectedly."]
+  },
+  {
+    "id": 187,
+    "word": "head out",
+    "meaningThai": "ออกเดินทาง",
+    "examples": ["I’m heading out now.", "Let’s head out early."]
+  },
+  {
+    "id": 188,
+    "word": "head back",
+    "meaningThai": "กลับ",
+    "examples": ["I’m heading back home.", "We should head back soon."]
+  },
+  {
+    "id": 189,
+    "word": "cut off",
+    "meaningThai": "ตัด, ขาด",
+    "examples": [
+      "The power was cut off.",
+      "Don’t cut me off when I’m speaking."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "bring up",
+    "meaningThai": "ยกประเด็นขึ้นมา",
+    "examples": [
+      "Don’t bring that up now.",
+      "He brought up an interesting point."
+    ]
+  },
+
+  {
+    "id": 191,
+    "word": "work out",
+    "meaningThai": "ออกกำลังกาย, แก้ปัญหาได้",
+    "examples": ["I worked out this morning.", "Everything will work out."]
+  },
+  {
+    "id": 192,
+    "word": "look into it",
+    "meaningThai": "ตรวจสอบให้ละเอียด",
+    "examples": ["I’ll look into it.", "She’s looking into the issue."]
+  },
+  {
+    "id": 193,
+    "word": "put up with",
+    "meaningThai": "ทน",
+    "examples": ["I can’t put up with this.", "She put up with it for years."]
+  },
+  {
+    "id": 194,
+    "word": "run away",
+    "meaningThai": "หนี",
+    "examples": ["Don’t run away from your problems.", "The dog ran away."]
+  },
+  {
+    "id": 195,
+    "word": "hang on",
+    "meaningThai": "รอแป๊บ, อดทน",
+    "examples": ["Hang on a second.", "Just hang on, things will get better."]
+  },
+
+  {
+    "id": 196,
+    "word": "hang up",
+    "meaningThai": "วางสาย",
+    "examples": ["He hung up on me.", "Don’t hang up yet."]
+  },
+  {
+    "id": 197,
+    "word": "speak up",
+    "meaningThai": "พูดให้ดังขึ้น, พูดอย่างกล้าหาญ",
+    "examples": ["Please speak up.", "She finally spoke up about it."]
+  },
+  {
+    "id": 198,
+    "word": "back out",
+    "meaningThai": "ยกเลิก, ถอนตัว",
+    "examples": ["Don’t back out now.", "He backed out at the last minute."]
+  },
+  {
+    "id": 199,
+    "word": "show off",
+    "meaningThai": "อวด",
+    "examples": ["He loves to show off.", "Stop showing off your new car."]
+  },
+  {
+    "id": 200,
+    "word": "chill out",
+    "meaningThai": "พักผ่อน, ชิล ๆ",
+    "examples": ["Let’s just chill out today.", "I chilled out after work."]
+  },
+  {
+    "id": 201,
+    "word": "wrap up",
+    "meaningThai": "สรุป, ห่อ",
+    "examples": ["Let’s wrap up the meeting.", "Wrap it up nicely."]
+  },
+  {
+    "id": 202,
+    "word": "finish up",
+    "meaningThai": "ทำให้เสร็จสิ้น",
+    "examples": ["Finish up your work.", "I finished up early today."]
+  },
+  {
+    "id": 203,
+    "word": "touch up",
+    "meaningThai": "เติม, แต่งเพิ่มเล็กน้อย",
+    "examples": ["I touched up my makeup.", "They touched up the paint."]
+  },
+  {
+    "id": 204,
+    "word": "move on",
+    "meaningThai": "ก้าวต่อไป",
+    "examples": ["It’s time to move on.", "He finally moved on."]
+  },
+  {
+    "id": 205,
+    "word": "look back",
+    "meaningThai": "หวนคิดถึง",
+    "examples": ["Don’t look back too much.", "I looked back at old photos."]
+  },
+
+  {
+    "id": 206,
+    "word": "figure out later",
+    "meaningThai": "ค่อยหาทางทีหลัง",
+    "examples": ["We’ll figure it out later.", "I can figure it out later."]
+  },
+  {
+    "id": 207,
+    "word": "move forward",
+    "meaningThai": "เดินหน้าต่อ",
+    "examples": ["Let’s move forward.", "The project finally moved forward."]
+  },
+  {
+    "id": 208,
+    "word": "reach out",
+    "meaningThai": "ติดต่อ, ยื่นมือช่วย",
+    "examples": [
+      "Feel free to reach out anytime.",
+      "She reached out to him for help."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "speak clearly",
+    "meaningThai": "พูดให้ชัด",
+    "examples": ["Please speak clearly.", "He didn’t speak clearly at all."]
+  },
+  {
+    "id": 210,
+    "word": "clean off",
+    "meaningThai": "เช็ดออก",
+    "examples": ["Clean off the dust.", "I cleaned off the table."]
+  },
+
+  {
+    "id": 211,
+    "word": "wipe down",
+    "meaningThai": "เช็ดให้สะอาด",
+    "examples": ["Wipe down the counter.", "I wiped down the shelves."]
+  },
+  {
+    "id": 212,
+    "word": "empty out",
+    "meaningThai": "เทออกให้หมด",
+    "examples": ["Empty out the trash.", "She emptied out her bag."]
+  },
+  {
+    "id": 213,
+    "word": "fill in",
+    "meaningThai": "กรอกข้อมูลแทน",
+    "examples": ["Can you fill in for me?", "I filled in the details."]
+  },
+  {
+    "id": 214,
+    "word": "swap",
+    "meaningThai": "สลับ, แลก",
+    "examples": ["Let’s swap seats.", "She swapped her shift."]
+  },
+  {
+    "id": 215,
+    "word": "trim",
+    "meaningThai": "ตัดเล็ม",
+    "examples": ["Trim the plants.", "He trimmed his hair."]
+  },
+
+  {
+    "id": 216,
+    "word": "heat slowly",
+    "meaningThai": "อุ่นช้า ๆ",
+    "examples": ["Heat slowly to avoid burning.", "I heated the sauce slowly."]
+  },
+  {
+    "id": 217,
+    "word": "cool quickly",
+    "meaningThai": "ทำให้เย็นลงไว",
+    "examples": ["Let it cool quickly.", "The drink cooled quickly."]
+  },
+  {
+    "id": 218,
+    "word": "pour out",
+    "meaningThai": "เทออกทั้งหมด",
+    "examples": ["Pour out the water.", "She poured out her worries."]
+  },
+  {
+    "id": 219,
+    "word": "stack",
+    "meaningThai": "วางซ้อน",
+    "examples": ["Stack the boxes neatly.", "I stacked the books."]
+  },
+  {
+    "id": 220,
+    "word": "sort through",
+    "meaningThai": "คัดแยกทีละชิ้น",
+    "examples": ["Sort through the papers.", "I sorted through my inbox."]
+  },
+
+  {
+    "id": 221,
+    "word": "wipe off",
+    "meaningThai": "เช็ดออก",
+    "examples": ["Wipe off the marker.", "I wiped off the stain."]
+  },
+  {
+    "id": 222,
+    "word": "look over",
+    "meaningThai": "ตรวจดูคร่าว ๆ",
+    "examples": ["Look over the notes.", "He looked over the report."]
+  },
+  {
+    "id": 223,
+    "word": "count on",
+    "meaningThai": "พึ่งพา, ไว้ใจ",
+    "examples": ["You can count on me.", "I count on her a lot."]
+  },
+  {
+    "id": 224,
+    "word": "stay calm",
+    "meaningThai": "ใจเย็น",
+    "examples": ["Stay calm, breathe slowly.", "He stayed calm the whole time."]
+  },
+  {
+    "id": 225,
+    "word": "stay focused",
+    "meaningThai": "มีสมาธิ",
+    "examples": ["Stay focused on the task.", "I’m trying to stay focused."]
+  },
+
+  {
+    "id": 226,
+    "word": "switch off",
+    "meaningThai": "ปิด, หยุดคิด",
+    "examples": [
+      "Switch off the lights.",
+      "I switched off my mind for a moment."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "charge fully",
+    "meaningThai": "ชาร์จให้เต็ม",
+    "examples": ["Charge your phone fully.", "I charged it fully last night."]
+  },
+  {
+    "id": 228,
+    "word": "rinse",
+    "meaningThai": "ล้างเบา ๆ",
+    "examples": ["Rinse the vegetables.", "I rinsed my hands quickly."]
+  },
+  {
+    "id": 229,
+    "word": "soak",
+    "meaningThai": "แช่ให้นิ่ม",
+    "examples": ["Soak the beans overnight.", "She soaked the cloth."]
+  },
+  {
+    "id": 230,
+    "word": "peel",
+    "meaningThai": "ปอกเปลือก",
+    "examples": ["Peel the orange.", "I peeled the potatoes."]
+  },
+
+  {
+    "id": 231,
+    "word": "stir",
+    "meaningThai": "คน, กวน",
+    "examples": ["Stir the soup.", "She stirred the sauce slowly."]
+  },
+  {
+    "id": 232,
+    "word": "slice",
+    "meaningThai": "หั่นเป็นแผ่น",
+    "examples": ["Slice the bread.", "He sliced the tomato evenly."]
+  },
+  {
+    "id": 233,
+    "word": "grab quickly",
+    "meaningThai": "หยิบอย่างเร็ว",
+    "examples": ["Grab it quickly.", "I grabbed my bag and ran."]
+  },
+  {
+    "id": 234,
+    "word": "heat again",
+    "meaningThai": "อุ่นซ้ำ",
+    "examples": ["Heat it again if needed.", "I heated the rice again."]
+  },
+  {
+    "id": 235,
+    "word": "scrub",
+    "meaningThai": "ขัดแรง ๆ",
+    "examples": ["Scrub the pan well.", "I scrubbed the floor."]
+  },
+
+  {
+    "id": 236,
+    "word": "shake off",
+    "meaningThai": "สลัดออก",
+    "examples": ["Shake off the dust.", "I shook off the feeling."]
+  },
+  {
+    "id": 237,
+    "word": "cool off quickly",
+    "meaningThai": "ทำให้เย็นทันที",
+    "examples": ["Let it cool off quickly.", "The drink cooled off quickly."]
+  },
+  {
+    "id": 238,
+    "word": "brush off",
+    "meaningThai": "ปัดทิ้ง, ไม่สนใจ",
+    "examples": ["Brush off the crumbs.", "He brushed off the comment."]
+  },
+  {
+    "id": 239,
+    "word": "wrap tightly",
+    "meaningThai": "ห่อให้แน่น",
+    "examples": ["Wrap it tightly.", "She wrapped the package tightly."]
+  },
+  {
+    "id": 240,
+    "word": "press down",
+    "meaningThai": "กดลงแรง ๆ",
+    "examples": ["Press down to seal it.", "He pressed down the lid."]
+  },
+
+  {
+    "id": 241,
+    "word": "note down",
+    "meaningThai": "จดลงไว้",
+    "examples": ["Note down the number.", "I noted everything down."]
+  },
+  {
+    "id": 242,
+    "word": "look forward to",
+    "meaningThai": "ตั้งตารอ",
+    "examples": [
+      "I look forward to seeing you.",
+      "She looks forward to the weekend."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "wait up",
+    "meaningThai": "รอจนดึก",
+    "examples": ["Don’t wait up for me.", "She waited up all night."]
+  },
+  {
+    "id": 244,
+    "word": "check in",
+    "meaningThai": "เช็กอิน",
+    "examples": ["We checked in at 3 p.m.", "Check in at the front desk."]
+  },
+  {
+    "id": 245,
+    "word": "check over",
+    "meaningThai": "ตรวจละเอียด",
+    "examples": ["Check over the details.", "I checked everything over twice."]
+  },
+
+  {
+    "id": 246,
+    "word": "sweep",
+    "meaningThai": "กวาดพื้น",
+    "examples": ["Sweep the floor.", "I swept the balcony."]
+  },
+  {
+    "id": 247,
+    "word": "mop",
+    "meaningThai": "ถูพื้น",
+    "examples": ["Mop the kitchen floor.", "She mopped the hallway."]
+  },
+  {
+    "id": 248,
+    "word": "iron",
+    "meaningThai": "รีดผ้า",
+    "examples": ["I need to iron my shirt.", "He ironed his pants."]
+  },
+  {
+    "id": 249,
+    "word": "wipe gently",
+    "meaningThai": "เช็ดอย่างเบามือ",
+    "examples": [
+      "Wipe gently around the screen.",
+      "She wiped the glass gently."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "put aside",
+    "meaningThai": "เก็บไว้ก่อน, กันไว้",
+    "examples": ["Put some money aside.", "I put the documents aside."]
+  }
+]

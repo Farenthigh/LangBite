@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "word": "therefore",
+    "meaningThai": "ดังนั้น",
+    "examples": [
+      "The data was incomplete; therefore, the conclusion is uncertain.",
+      "The results were consistent, therefore supporting the hypothesis."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "moreover",
+    "meaningThai": "ยิ่งไปกว่านั้น",
+    "examples": [
+      "Moreover, this study highlights the gaps in previous research.",
+      "The method is efficient; moreover, it reduces cost."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "in contrast",
+    "meaningThai": "ตรงกันข้าม",
+    "examples": [
+      "In contrast, younger participants preferred a different approach.",
+      "This finding is, in contrast, much weaker than expected."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "significant",
+    "meaningThai": "มีนัยสำคัญ",
+    "examples": [
+      "The study shows significant improvement.",
+      "There is no significant difference between groups."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "emphasize",
+    "meaningThai": "เน้นย้ำ",
+    "examples": [
+      "The author emphasizes the importance of critical thinking.",
+      "This section emphasizes key challenges."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "demonstrate",
+    "meaningThai": "แสดงให้เห็น",
+    "examples": [
+      "The results demonstrate a clear pattern.",
+      "This example demonstrates how the model works."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "indicate",
+    "meaningThai": "ชี้ให้เห็น",
+    "examples": [
+      "The findings indicate a positive trend.",
+      "This indicates the system's reliability."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "suggest",
+    "meaningThai": "ชี้แนะ/บ่งบอก",
+    "examples": [
+      "The data suggests a possible correlation.",
+      "Several studies suggest similar outcomes."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "highlight",
+    "meaningThai": "เน้น/เน้นให้เห็น",
+    "examples": [
+      "This report highlights major issues.",
+      "The study highlights key differences."
+    ]
+  },
+  {
+    "id": 10,
+    "word": "illustrate",
+    "meaningThai": "ยกตัวอย่างประกอบ/อธิบายให้เห็นภาพ",
+    "examples": [
+      "Figure 2 illustrates the process.",
+      "These cases illustrate the main argument."
+    ]
+  },
+  {
+    "id": 11,
+    "word": "as a result",
+    "meaningThai": "ผลลัพธ์คือ/ดังนั้น",
+    "examples": [
+      "As a result, the system failed.",
+      "The team worked faster; as a result, the project finished early."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "due to",
+    "meaningThai": "เนื่องจาก",
+    "examples": [
+      "The project was delayed due to limited resources.",
+      "Performance dropped due to technical issues."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "for instance",
+    "meaningThai": "ตัวอย่างเช่น",
+    "examples": [
+      "For instance, students learn better with visuals.",
+      "Many factors contribute, for instance motivation."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "on the other hand",
+    "meaningThai": "ในอีกด้านหนึ่ง",
+    "examples": [
+      "On the other hand, some disagree with this method.",
+      "The approach is simple; on the other hand, it's less accurate."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "in addition",
+    "meaningThai": "นอกจากนี้",
+    "examples": [
+      "In addition, the system requires no maintenance.",
+      "The method is efficient; in addition, it is cost-effective."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "overall",
+    "meaningThai": "โดยรวม",
+    "examples": [
+      "Overall, the study supports the main theory.",
+      "Overall performance improved significantly."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "primarily",
+    "meaningThai": "ส่วนใหญ่แล้ว",
+    "examples": [
+      "The model is used primarily for prediction.",
+      "This issue occurs primarily in large datasets."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "fundamental",
+    "meaningThai": "พื้นฐาน/พื้นฐานสำคัญ",
+    "examples": [
+      "Critical thinking is fundamental in academic research.",
+      "This theory forms a fundamental concept."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "subsequently",
+    "meaningThai": "ต่อมา/ภายหลัง",
+    "examples": [
+      "The samples were subsequently analyzed.",
+      "The team subsequently revised the method."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "consequently",
+    "meaningThai": "เป็นผลให้",
+    "examples": [
+      "The system crashed; consequently, the data was lost.",
+      "Consequently, further research is needed."
+    ]
+  },
+  {
+    "id": 21,
+    "word": "notably",
+    "meaningThai": "อย่างโดดเด่น/อย่างเห็นได้ชัด",
+    "examples": [
+      "Notably, the results differed from expectations.",
+      "The study focuses on notably rare cases."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "initially",
+    "meaningThai": "ในช่วงแรก",
+    "examples": [
+      "The experiment initially showed no change.",
+      "The system initially performed well."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "ultimately",
+    "meaningThai": "ท้ายที่สุด",
+    "examples": [
+      "Ultimately, the theory was proven valid.",
+      "The team ultimately reached a consensus."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "regardless",
+    "meaningThai": "ไม่ว่าจะอย่างไรก็ตาม",
+    "examples": [
+      "The method works regardless of dataset size.",
+      "They continued regardless of challenges."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "evaluate",
+    "meaningThai": "ประเมินผล",
+    "examples": [
+      "We need to evaluate the model's accuracy.",
+      "The study evaluates multiple factors."
+    ]
+  },
+  {
+    "id": 26,
+    "word": "assess",
+    "meaningThai": "ประเมิน",
+    "examples": [
+      "The test assesses student ability.",
+      "We must assess the potential risks."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "interpret",
+    "meaningThai": "ตีความ",
+    "examples": [
+      "The results are difficult to interpret.",
+      "Researchers interpret the data cautiously."
+    ]
+  },
+  {
+    "id": 28,
+    "word": "justify",
+    "meaningThai": "ให้เหตุผลสนับสนุน",
+    "examples": [
+      "The author justifies the chosen method.",
+      "We need evidence to justify the claim."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "supporting evidence",
+    "meaningThai": "หลักฐานสนับสนุน",
+    "examples": [
+      "Provide supporting evidence in your argument.",
+      "The paper lacks supporting evidence."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "valid argument",
+    "meaningThai": "เหตุผลที่มีน้ำหนัก",
+    "examples": [
+      "This is a valid argument based on data.",
+      "A valid argument requires evidence."
+    ]
+  },
+  {
+    "id": 31,
+    "word": "in summary",
+    "meaningThai": "สรุปคือ",
+    "examples": [
+      "In summary, the findings support the theory.",
+      "In summary, the model is effective."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "in conclusion",
+    "meaningThai": "โดยสรุป",
+    "examples": [
+      "In conclusion, further research is needed.",
+      "In conclusion, the results are promising."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "overall perspective",
+    "meaningThai": "มุมมองโดยรวม",
+    "examples": [
+      "This section gives an overall perspective.",
+      "An overall perspective helps clarify the issue."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "according to",
+    "meaningThai": "ตามที่...กล่าว",
+    "examples": [
+      "According to recent studies, the trend is rising.",
+      "According to the data, the model is unstable."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "despite",
+    "meaningThai": "แม้ว่า",
+    "examples": [
+      "Despite challenges, the project succeeded.",
+      "Despite limited data, the results were useful."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "although",
+    "meaningThai": "แม้ว่า",
+    "examples": [
+      "Although the sample size is small, the data is reliable.",
+      "Although challenging, the task is achievable."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "establish",
+    "meaningThai": "กำหนด/สร้างขึ้น",
+    "examples": [
+      "The study establishes a new framework.",
+      "We aim to establish clear guidelines."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "acknowledge",
+    "meaningThai": "ยอมรับ/รับรู้",
+    "examples": [
+      "The author acknowledges limitations.",
+      "We should acknowledge both strengths and weaknesses."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "demonstration",
+    "meaningThai": "การแสดงให้เห็น/การพิสูจน์",
+    "examples": [
+      "This experiment serves as a demonstration.",
+      "A clear demonstration is needed."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "academic context",
+    "meaningThai": "บริบททางวิชาการ",
+    "examples": [
+      "This term is used in an academic context.",
+      "Academic context requires precise language."
+    ]
+  },
+  {
+    "id": 41,
+    "word": "perspective",
+    "meaningThai": "มุมมอง",
+    "examples": [
+      "We examine the issue from different perspectives.",
+      "The perspective changes the interpretation."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "critically",
+    "meaningThai": "อย่างมีวิจารณญาณ",
+    "examples": [
+      "Critically evaluate the evidence.",
+      "Students should read critically."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "plausible",
+    "meaningThai": "เป็นไปได้/สมเหตุสมผล",
+    "examples": [
+      "This is a plausible explanation.",
+      "The hypothesis seems plausible."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "complexity",
+    "meaningThai": "ความซับซ้อน",
+    "examples": [
+      "The complexity of the issue requires deeper study.",
+      "We must reduce unnecessary complexity."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "contradict",
+    "meaningThai": "ขัดแย้ง",
+    "examples": [
+      "The results contradict previous studies.",
+      "These findings contradict expectations."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "reinforce",
+    "meaningThai": "เสริม/ทำให้แข็งแรงขึ้น",
+    "examples": [
+      "The evidence reinforces the claim.",
+      "This example reinforces the argument."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "commonly used",
+    "meaningThai": "ใช้กันทั่วไป",
+    "examples": [
+      "This term is commonly used in research.",
+      "A commonly used method is regression analysis."
+    ]
+  },
+  {
+    "id": 48,
+    "word": "widely accepted",
+    "meaningThai": "เป็นที่ยอมรับอย่างกว้างขวาง",
+    "examples": [
+      "This theory is widely accepted.",
+      "The method is widely accepted across fields."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "the purpose of this paper",
+    "meaningThai": "วัตถุประสงค์ของบทความนี้",
+    "examples": [
+      "The purpose of this paper is to examine the data.",
+      "The purpose of this paper is to propose improvements."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "it is evident that",
+    "meaningThai": "เห็นได้ชัดว่า",
+    "examples": [
+      "It is evident that the model is unstable.",
+      "It is evident that further analysis is needed."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "play a crucial role",
+    "meaningThai": "มีบทบาทสำคัญ",
+    "examples": [
+      "Technology plays a crucial role in modern education.",
+      "Data quality plays a crucial role in accurate analysis."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "frequently used",
+    "meaningThai": "ถูกใช้บ่อย",
+    "examples": [
+      "This term is frequently used in academic journals.",
+      "Frequently used methods include regression models."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "considerable",
+    "meaningThai": "มาก/จำนวนมาก",
+    "examples": [
+      "There is considerable evidence supporting this claim.",
+      "The project requires considerable resources."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "in terms of",
+    "meaningThai": "ในด้านของ",
+    "examples": [
+      "In terms of efficiency, this method is superior.",
+      "The results differ in terms of accuracy."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "a wide range of",
+    "meaningThai": "หลากหลาย/ครอบคลุมกว้าง",
+    "examples": [
+      "The study covers a wide range of topics.",
+      "A wide range of data sources was used."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "not necessarily",
+    "meaningThai": "ไม่จำเป็นต้อง",
+    "examples": [
+      "Higher cost does not necessarily mean higher quality.",
+      "A large dataset is not necessarily better."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "play an essential part",
+    "meaningThai": "มีส่วนสำคัญ",
+    "examples": [
+      "Critical thinking plays an essential part in research.",
+      "Collaboration plays an essential part in success."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "not only ... but also",
+    "meaningThai": "ไม่เพียงแต่...แต่ยัง...",
+    "examples": [
+      "The study not only identifies issues but also proposes solutions.",
+      "This method is not only faster but also more accurate."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "commonly associated with",
+    "meaningThai": "มักเกี่ยวข้องกับ",
+    "examples": [
+      "This issue is commonly associated with human error.",
+      "Stress is commonly associated with lower performance."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "essentially",
+    "meaningThai": "โดยพื้นฐานแล้ว",
+    "examples": [
+      "The two systems are essentially the same.",
+      "The concept essentially means the same thing."
+    ]
+  },
+  {
+    "id": 61,
+    "word": "ultimately leading to",
+    "meaningThai": "สุดท้ายก็นำไปสู่",
+    "examples": [
+      "The errors spread across the system, ultimately leading to failure.",
+      "Lack of planning can ultimately lead to delays."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "widely recognized",
+    "meaningThai": "ได้รับการยอมรับอย่างกว้างขวาง",
+    "examples": [
+      "This model is widely recognized in the field.",
+      "The method is widely recognized as effective."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "valuable insight",
+    "meaningThai": "ข้อมูลเชิงลึกที่มีคุณค่า",
+    "examples": [
+      "The study provides valuable insights.",
+      "Interviews offer valuable insights into behavior."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "address an issue",
+    "meaningThai": "แก้ไขปัญหา",
+    "examples": [
+      "We must address this issue immediately.",
+      "The report addresses key issues in the system."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "a major challenge",
+    "meaningThai": "ความท้าทายสำคัญ",
+    "examples": [
+      "A major challenge is data inconsistency.",
+      "Funding is a major challenge for many researchers."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "from this perspective",
+    "meaningThai": "จากมุมมองนี้",
+    "examples": [
+      "From this perspective, the solution seems reasonable.",
+      "The problem looks different from this perspective."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "raise questions",
+    "meaningThai": "ทำให้สงสัย/ตั้งคำถาม",
+    "examples": [
+      "The results raise questions about validity.",
+      "This issue raises questions regarding accuracy."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "draw a conclusion",
+    "meaningThai": "สรุปผล",
+    "examples": [
+      "The study draws a conclusion based on data.",
+      "It is too early to draw conclusions."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "potential impact",
+    "meaningThai": "ผลกระทบที่อาจเกิดขึ้น",
+    "examples": [
+      "We must consider the potential impact.",
+      "The policy has potential impacts on education."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "demonstrated by",
+    "meaningThai": "แสดงให้เห็นโดย",
+    "examples": [
+      "This is demonstrated by the results.",
+      "The trend is demonstrated by the data."
+    ]
+  },
+  {
+    "id": 71,
+    "word": "to some extent",
+    "meaningThai": "ในบางระดับ",
+    "examples": [
+      "The method works to some extent.",
+      "The claim is true to some extent."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "arguably",
+    "meaningThai": "อาจกล่าวได้ว่า",
+    "examples": [
+      "This is arguably the best method.",
+      "It is arguably more efficient."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "primarily focused on",
+    "meaningThai": "มุ่งเน้นหลักไปที่",
+    "examples": [
+      "The research is primarily focused on behavior.",
+      "This section is primarily focused on results."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "particularly",
+    "meaningThai": "โดยเฉพาะอย่างยิ่ง",
+    "examples": [
+      "The effect is particularly noticeable.",
+      "This topic is particularly important."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "ultimately aims to",
+    "meaningThai": "มีเป้าหมายในท้ายที่สุดเพื่อ",
+    "examples": [
+      "The study ultimately aims to improve accuracy.",
+      "The system ultimately aims to reduce errors."
+    ]
+  },
+  {
+    "id": 76,
+    "word": "predominantly",
+    "meaningThai": "ส่วนใหญ่แล้ว",
+    "examples": [
+      "The participants were predominantly teenagers.",
+      "Previous studies predominantly focus on adults."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "an important factor",
+    "meaningThai": "ปัจจัยสำคัญ",
+    "examples": [
+      "Cost is an important factor.",
+      "Time is an important factor to consider."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "establish a connection",
+    "meaningThai": "สร้างความเชื่อมโยง",
+    "examples": [
+      "The study establishes a connection between A and B.",
+      "We aim to establish a connection across variables."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "it is worth noting that",
+    "meaningThai": "ควรสังเกตว่า",
+    "examples": [
+      "It is worth noting that results vary widely.",
+      "It is worth noting that not all data is reliable."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "analyze",
+    "meaningThai": "วิเคราะห์",
+    "examples": [
+      "The study analyzes user behavior.",
+      "We analyze the data to identify patterns."
+    ]
+  },
+  {
+    "id": 81,
+    "word": "examine",
+    "meaningThai": "ตรวจสอบ/พิจารณา",
+    "examples": [
+      "This paper examines social trends.",
+      "The study examines three key variables."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "deep understanding",
+    "meaningThai": "ความเข้าใจลึกซึ้ง",
+    "examples": [
+      "The research provides deep understanding of the issue.",
+      "A deep understanding is essential."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "linguistic features",
+    "meaningThai": "ลักษณะทางภาษา",
+    "examples": [
+      "The paper analyzes linguistic features of the text.",
+      "Linguistic features vary by region."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "logical reasoning",
+    "meaningThai": "เหตุผลเชิงตรรกะ",
+    "examples": [
+      "Logical reasoning strengthens arguments.",
+      "The essay lacks logical reasoning."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "nevertheless",
+    "meaningThai": "อย่างไรก็ตาม",
+    "examples": [
+      "The method is simple; nevertheless, it is effective.",
+      "Data was limited; nevertheless, results were useful."
+    ]
+  },
+  {
+    "id": 86,
+    "word": "despite this",
+    "meaningThai": "แม้จะเป็นเช่นนั้น",
+    "examples": [
+      "Despite this, the conclusions remain valid.",
+      "Despite this, accuracy improved."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "pose a risk",
+    "meaningThai": "ก่อให้เกิดความเสี่ยง",
+    "examples": [
+      "This issue may pose a risk to reliability.",
+      "Data loss poses a risk to the project."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "in other words",
+    "meaningThai": "พูดอีกอย่างคือ",
+    "examples": [
+      "In other words, the system failed.",
+      "In other words, the model is unstable."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "for this reason",
+    "meaningThai": "ด้วยเหตุผลนี้",
+    "examples": [
+      "For this reason, the theory must be revised.",
+      "For this reason, more data is required."
+    ]
+  },
+  {
+    "id": 90,
+    "word": "provide an overview",
+    "meaningThai": "ให้ภาพรวม",
+    "examples": [
+      "This chapter provides an overview of the model.",
+      "The introduction provides an overview of the problem."
+    ]
+  },
+  {
+    "id": 91,
+    "word": "significantly",
+    "meaningThai": "อย่างมีนัยสำคัญ",
+    "examples": [
+      "Accuracy improved significantly.",
+      "This factor significantly affects performance."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "analyze in depth",
+    "meaningThai": "วิเคราะห์เชิงลึก",
+    "examples": [
+      "The study analyzes the issue in depth.",
+      "We analyze this topic in depth."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "reliable data",
+    "meaningThai": "ข้อมูลที่เชื่อถือได้",
+    "examples": [
+      "Reliable data is necessary for valid results.",
+      "The dataset lacks reliable data."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "empirical evidence",
+    "meaningThai": "หลักฐานเชิงประจักษ์",
+    "examples": [
+      "The paper relies on empirical evidence.",
+      "Empirical evidence supports this claim."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "consistent pattern",
+    "meaningThai": "รูปแบบที่สอดคล้องกัน",
+    "examples": [
+      "A consistent pattern appears across samples.",
+      "The trend shows a consistent pattern."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "it can be argued that",
+    "meaningThai": "อาจโต้แย้งได้ว่า",
+    "examples": [
+      "It can be argued that the model is outdated.",
+      "It can be argued that results are inconclusive."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "for the purpose of",
+    "meaningThai": "เพื่อวัตถุประสงค์ของ",
+    "examples": [
+      "For the purpose of clarity, examples are provided.",
+      "For the purpose of comparison, two groups were used."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "prior research",
+    "meaningThai": "งานวิจัยก่อนหน้า",
+    "examples": [
+      "Prior research supports this idea.",
+      "Prior research shows similar patterns."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "research methodology",
+    "meaningThai": "ระเบียบวิธีวิจัย",
+    "examples": [
+      "The research methodology is clearly described.",
+      "We propose a new research methodology."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "in line with",
+    "meaningThai": "สอดคล้องกับ",
+    "examples": [
+      "The results are in line with expectations.",
+      "This finding is in line with earlier research."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "commonly observed",
+    "meaningThai": "พบเห็นได้บ่อย",
+    "examples": [
+      "This behavior is commonly observed in young learners.",
+      "Such patterns are commonly observed in previous studies."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "with respect to",
+    "meaningThai": "เกี่ยวกับ/ในด้านของ",
+    "examples": [
+      "The study shows improvement with respect to accuracy.",
+      "There are challenges with respect to data quality."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "draw attention to",
+    "meaningThai": "ชี้ให้สังเกต/ดึงความสนใจไปที่",
+    "examples": [
+      "The paper draws attention to the lack of transparency.",
+      "This issue draws attention to system limitations."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "shed light on",
+    "meaningThai": "ทำให้เข้าใจมากขึ้น/ให้ข้อมูลเพิ่ม",
+    "examples": [
+      "This study sheds light on user behavior.",
+      "The results shed light on hidden challenges."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "compelling evidence",
+    "meaningThai": "หลักฐานที่น่าเชื่อถือมาก",
+    "examples": [
+      "There is compelling evidence supporting this model.",
+      "The argument lacks compelling evidence."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "theoretical framework",
+    "meaningThai": "กรอบแนวคิดทางทฤษฎี",
+    "examples": [
+      "The theoretical framework guides the analysis.",
+      "A clear theoretical framework is essential."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "practical implication",
+    "meaningThai": "ผลกระทบเชิงปฏิบัติ",
+    "examples": [
+      "The research offers practical implications for education.",
+      "There are practical implications for policy makers."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "from a broader perspective",
+    "meaningThai": "จากมุมมองที่กว้างขึ้น",
+    "examples": [
+      "From a broader perspective, the issue is complex.",
+      "It becomes clearer from a broader perspective."
+    ]
+  },
+  {
+    "id": 109,
+    "word": "limited scope",
+    "meaningThai": "ขอบเขตจำกัด",
+    "examples": [
+      "The study has a limited scope.",
+      "Limited scope affects the generalizability."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "generalizable",
+    "meaningThai": "สามารถนำไปใช้กับกรณีทั่วไปได้",
+    "examples": [
+      "The findings are not fully generalizable.",
+      "Large samples make results more generalizable."
+    ]
+  },
+  {
+    "id": 111,
+    "word": "a notable feature",
+    "meaningThai": "ลักษณะที่โดดเด่น",
+    "examples": [
+      "A notable feature of the model is simplicity.",
+      "The method's accuracy is a notable feature."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "methodological issue",
+    "meaningThai": "ปัญหาเชิงวิธีวิจัย",
+    "examples": [
+      "The study faces several methodological issues.",
+      "This limitation is a major methodological issue."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "undoubtedly",
+    "meaningThai": "อย่างไม่ต้องสงสัย",
+    "examples": [
+      "This is undoubtedly a major improvement.",
+      "His contribution is undoubtedly important."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "take into account",
+    "meaningThai": "นำมาพิจารณา",
+    "examples": [
+      "We must take into account environmental factors.",
+      "The model does not take all variables into account."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "quantitative data",
+    "meaningThai": "ข้อมูลเชิงปริมาณ",
+    "examples": [
+      "The study relies on quantitative data.",
+      "Quantitative data offers measurable insights."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "qualitative data",
+    "meaningThai": "ข้อมูลเชิงคุณภาพ",
+    "examples": [
+      "Interviews provide qualitative data.",
+      "Qualitative data captures deeper meaning."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "notably different",
+    "meaningThai": "แตกต่างอย่างเห็นได้ชัด",
+    "examples": [
+      "The two groups are notably different.",
+      "Results are notably different after adjustment."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "provide clarification",
+    "meaningThai": "ให้ความชัดเจน",
+    "examples": [
+      "The author provides clarification in the next section.",
+      "We need clarification on this point."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "derive from",
+    "meaningThai": "ได้มาจาก",
+    "examples": [
+      "The concept derives from earlier theories.",
+      "The data derives from multiple sources."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "substantial",
+    "meaningThai": "มาก/จำนวนมาก/มีนัยสำคัญ",
+    "examples": [
+      "The study shows substantial improvement.",
+      "There is substantial evidence supporting this idea."
+    ]
+  },
+  {
+    "id": 121,
+    "word": "feasible",
+    "meaningThai": "เป็นไปได้/สามารถทำได้",
+    "examples": [
+      "This solution is feasible.",
+      "It is not feasible within the time frame."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "prerequisite",
+    "meaningThai": "ข้อกำหนดเบื้องต้น",
+    "examples": [
+      "Basic knowledge is a prerequisite.",
+      "This course has no prerequisites."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "hypothetical",
+    "meaningThai": "สมมติขึ้น/ตามสมมติฐาน",
+    "examples": [
+      "This is a hypothetical scenario.",
+      "The model uses hypothetical examples."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "subsequent",
+    "meaningThai": "ภายหลัง/ต่อมา",
+    "examples": [
+      "Subsequent analysis confirmed the trend.",
+      "The subsequent results were unexpected."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "contribute to",
+    "meaningThai": "มีส่วนทำให้เกิด",
+    "examples": [
+      "Many factors contribute to the outcome.",
+      "Training contributes to performance."
+    ]
+  },
+  {
+    "id": 126,
+    "word": "yields results",
+    "meaningThai": "ก่อให้เกิดผลลัพธ์",
+    "examples": [
+      "This method yields reliable results.",
+      "The process yields inconsistent results."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "the core idea",
+    "meaningThai": "แนวคิดหลัก",
+    "examples": [
+      "The core idea is simple.",
+      "This paragraph explains the core idea."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "establish reliability",
+    "meaningThai": "สร้างความน่าเชื่อถือ",
+    "examples": [
+      "The study aims to establish reliability.",
+      "More trials are needed to establish reliability."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "highly effective",
+    "meaningThai": "มีประสิทธิภาพสูง",
+    "examples": [
+      "The method is highly effective.",
+      "This approach is highly effective for large datasets."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "the main objective",
+    "meaningThai": "วัตถุประสงค์หลัก",
+    "examples": [
+      "The main objective is to improve accuracy.",
+      "This chapter discusses the main objective."
+    ]
+  },
+  {
+    "id": 131,
+    "word": "empirical study",
+    "meaningThai": "งานวิจัยเชิงประจักษ์",
+    "examples": [
+      "This is an empirical study based on real data.",
+      "Empirical studies show similar results."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "conceptual model",
+    "meaningThai": "แบบจำลองเชิงแนวคิด",
+    "examples": [
+      "The conceptual model illustrates relationships.",
+      "We propose a new conceptual model."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "conduct an experiment",
+    "meaningThai": "ทำการทดลอง",
+    "examples": [
+      "They conducted an experiment to verify the theory.",
+      "We will conduct experiments next week."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "secondary data",
+    "meaningThai": "ข้อมูลทุติยภูมิ",
+    "examples": [
+      "The research uses secondary data.",
+      "Secondary data may contain bias."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "primary data",
+    "meaningThai": "ข้อมูลปฐมภูมิ",
+    "examples": [
+      "Primary data was collected through interviews.",
+      "Primary data is more precise."
+    ]
+  },
+  {
+    "id": 136,
+    "word": "inadequate",
+    "meaningThai": "ไม่เพียงพอ",
+    "examples": [
+      "The evidence is inadequate.",
+      "The dataset is inadequate for analysis."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "derive meaning",
+    "meaningThai": "ตีความ/หาความหมาย",
+    "examples": [
+      "Students derive meaning from context.",
+      "Meaning is derived from usage."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "substantially",
+    "meaningThai": "อย่างมาก",
+    "examples": [
+      "Performance improved substantially.",
+      "Results differ substantially across groups."
+    ]
+  },
+  {
+    "id": 139,
+    "word": "in practice",
+    "meaningThai": "เมื่อใช้งานจริง",
+    "examples": [
+      "In practice, the model performs differently.",
+      "The theory is simple, but in practice it's complex."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "research gap",
+    "meaningThai": "ช่องว่างทางงานวิจัย",
+    "examples": [
+      "This paper identifies a research gap.",
+      "There is a major research gap in this area."
+    ]
+  },
+  {
+    "id": 141,
+    "word": "key findings",
+    "meaningThai": "ผลการค้นพบสำคัญ",
+    "examples": [
+      "These are the key findings of the study.",
+      "The key findings align with past research."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "robust evidence",
+    "meaningThai": "หลักฐานที่แข็งแรง/น่าเชื่อถือมาก",
+    "examples": [
+      "We need robust evidence to support this claim.",
+      "The study provides robust evidence."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "adopt a method",
+    "meaningThai": "เลือกใช้วิธี",
+    "examples": [
+      "We adopted a mixed-method approach.",
+      "Many researchers adopt similar methods."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "a growing body of research",
+    "meaningThai": "งานวิจัยจำนวนมากขึ้นเรื่อย ๆ",
+    "examples": [
+      "A growing body of research supports this theory.",
+      "There is a growing body of research on AI ethics."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "comparative analysis",
+    "meaningThai": "การวิเคราะห์เชิงเปรียบเทียบ",
+    "examples": [
+      "This study performs a comparative analysis.",
+      "Comparative analysis reveals key differences."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "this suggests that",
+    "meaningThai": "สิ่งนี้บ่งบอกว่า",
+    "examples": [
+      "This suggests that the model is unstable.",
+      "This suggests that user behavior changes over time."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "underlying issue",
+    "meaningThai": "ปัญหาที่ซ่อนอยู่",
+    "examples": [
+      "There is an underlying issue in the system.",
+      "We must identify the underlying issue."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "observe a trend",
+    "meaningThai": "สังเกตเห็นแนวโน้ม",
+    "examples": [
+      "We observe a trend of improvement.",
+      "A downward trend was observed."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "address a gap",
+    "meaningThai": "เติมเต็มช่องว่าง (ในงานวิจัย)",
+    "examples": [
+      "The paper aims to address a research gap.",
+      "More studies are needed to address this gap."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "core argument",
+    "meaningThai": "ข้อโต้แย้งหลัก/ประเด็นหลัก",
+    "examples": [
+      "The core argument is well supported.",
+      "This paragraph explains the core argument."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "the evidence suggests",
+    "meaningThai": "หลักฐานบ่งชี้ว่า",
+    "examples": [
+      "The evidence suggests that the model is unstable.",
+      "The evidence suggests a strong correlation."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "well-established",
+    "meaningThai": "เป็นที่ยอมรับอย่างกว้างขวาง",
+    "examples": [
+      "This theory is well-established in psychology.",
+      "A well-established framework already exists."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "in the context of",
+    "meaningThai": "ในบริบทของ",
+    "examples": [
+      "The term is used in the context of academic writing.",
+      "In the context of AI, accuracy is crucial."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "to a large extent",
+    "meaningThai": "ส่วนใหญ่แล้ว",
+    "examples": [
+      "The method works to a large extent.",
+      "The claim is true to a large extent."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "strongly associated with",
+    "meaningThai": "เกี่ยวข้องอย่างมากกับ",
+    "examples": [
+      "This behavior is strongly associated with stress.",
+      "High performance is strongly associated with practice."
+    ]
+  },
+  {
+    "id": 156,
+    "word": "in comparison to",
+    "meaningThai": "เมื่อเทียบกับ",
+    "examples": [
+      "Accuracy improved in comparison to last year.",
+      "This group performs better in comparison to others."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "based on the findings",
+    "meaningThai": "จากผลการค้นพบ",
+    "examples": [
+      "Based on the findings, the model needs refinement.",
+      "Based on the findings, further research is suggested."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "consistently",
+    "meaningThai": "อย่างสม่ำเสมอ",
+    "examples": [
+      "The results consistently support the hypothesis.",
+      "She consistently achieved high scores."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "indispensable",
+    "meaningThai": "ขาดไม่ได้",
+    "examples": [
+      "Data is indispensable for scientific research.",
+      "Critical thinking is indispensable in analysis."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "corresponding results",
+    "meaningThai": "ผลลัพธ์ที่สอดคล้อง",
+    "examples": [
+      "The experiment produced corresponding results.",
+      "The corresponding results confirm the trend."
+    ]
+  },
+  {
+    "id": 161,
+    "word": "commonly believed",
+    "meaningThai": "เป็นที่เชื่อโดยทั่วไป",
+    "examples": [
+      "It is commonly believed that sleep improves memory.",
+      "This idea is commonly believed but not proven."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "the broader implication",
+    "meaningThai": "ผลกระทบโดยรวม/ในวงกว้าง",
+    "examples": [
+      "The broader implication affects education.",
+      "The broader implication is significant."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "comprehensive review",
+    "meaningThai": "การทบทวนอย่างครอบคลุม",
+    "examples": [
+      "This paper provides a comprehensive review.",
+      "A comprehensive review is needed."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "argue that",
+    "meaningThai": "โต้แย้งว่า",
+    "examples": [
+      "Researchers argue that the model is outdated.",
+      "Some argue that this is ineffective."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "widely debated",
+    "meaningThai": "ถูกถกเถียงอย่างกว้างขวาง",
+    "examples": [
+      "This topic is widely debated.",
+      "The concept remains widely debated."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "in favor of",
+    "meaningThai": "สนับสนุน/เห็นด้วยกับ",
+    "examples": [
+      "The results are in favor of the proposed theory.",
+      "She argued in favor of the alternative method."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "challenge the assumption",
+    "meaningThai": "ตั้งคำถาม/ท้าทายข้อสมมติ",
+    "examples": [
+      "The data challenges the assumption.",
+      "We challenge the assumption that results are stable."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "provide justification",
+    "meaningThai": "ให้เหตุผลสนับสนุน",
+    "examples": [
+      "The author provides justification for the method.",
+      "Justification is needed for this conclusion."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "numerous studies",
+    "meaningThai": "งานวิจัยมากมาย",
+    "examples": [
+      "Numerous studies support this view.",
+      "Numerous studies show similar outcomes."
+    ]
+  },
+  {
+    "id": 170,
+    "word": "pose a challenge",
+    "meaningThai": "เป็นอุปสรรค/ท้าทาย",
+    "examples": [
+      "Data quality poses a challenge.",
+      "Limited time poses a challenge."
+    ]
+  },
+  {
+    "id": 171,
+    "word": "academic consensus",
+    "meaningThai": "ความเห็นตรงกันในแวดวงวิชาการ",
+    "examples": [
+      "There is no academic consensus on this topic.",
+      "The academic consensus supports the theory."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "account for",
+    "meaningThai": "อธิบายสาเหตุ/คิดรวมถึง",
+    "examples": [
+      "This factor accounts for the variation.",
+      "We must account for measurement error."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "this leads to",
+    "meaningThai": "สิ่งนี้นำไปสู่",
+    "examples": [
+      "This leads to inconsistent results.",
+      "This leads to improved accuracy."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "supported by data",
+    "meaningThai": "ได้รับการสนับสนุนจากข้อมูล",
+    "examples": [
+      "The argument is supported by data.",
+      "This claim is not supported by sufficient data."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "a plausible explanation",
+    "meaningThai": "คำอธิบายที่สมเหตุสมผล",
+    "examples": [
+      "This is a plausible explanation.",
+      "There are multiple plausible explanations."
+    ]
+  },
+  {
+    "id": 176,
+    "word": "contribute significantly",
+    "meaningThai": "มีส่วนสำคัญอย่างมาก",
+    "examples": [
+      "These factors contribute significantly to success.",
+      "Knowledge contributes significantly to performance."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "draw upon",
+    "meaningThai": "อ้างอิง/ใช้ประสบการณ์หรือข้อมูล",
+    "examples": [
+      "The study draws upon multiple sources.",
+      "Researchers draw upon existing theories."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "empirical approach",
+    "meaningThai": "แนวทางเชิงประจักษ์",
+    "examples": [
+      "We adopt an empirical approach.",
+      "An empirical approach provides stronger evidence."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "conceptual clarity",
+    "meaningThai": "ความชัดเจนของแนวคิด",
+    "examples": [
+      "The paper lacks conceptual clarity.",
+      "Conceptual clarity is essential."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "the existing literature",
+    "meaningThai": "วรรณกรรม/ผลงานที่มีอยู่ก่อน",
+    "examples": [
+      "The existing literature supports the view.",
+      "We reviewed the existing literature."
+    ]
+  },
+  {
+    "id": 181,
+    "word": "identify patterns",
+    "meaningThai": "ระบุรูปแบบ",
+    "examples": [
+      "We identify patterns in user behavior.",
+      "Patterns were identified in all samples."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "highlight the need for",
+    "meaningThai": "ชี้ให้เห็นความจำเป็นของ",
+    "examples": [
+      "The findings highlight the need for more research.",
+      "This highlights the need for higher accuracy."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "consider the implications",
+    "meaningThai": "พิจารณาผลกระทบ",
+    "examples": [
+      "We must consider the implications of this policy.",
+      "The implications must be carefully considered."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "explanatory power",
+    "meaningThai": "ความสามารถในการอธิบาย",
+    "examples": [
+      "The theory has strong explanatory power.",
+      "This model lacks explanatory power."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "offer a new perspective",
+    "meaningThai": "นำเสนอแนวคิดใหม่",
+    "examples": [
+      "The study offers a new perspective.",
+      "This chapter offers a new perspective on the issue."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "empirically supported",
+    "meaningThai": "ได้รับการสนับสนุนด้วยข้อมูลจริง",
+    "examples": [
+      "The claim is empirically supported.",
+      "This theory is not empirically supported."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "clearly demonstrates",
+    "meaningThai": "แสดงให้เห็นอย่างชัดเจน",
+    "examples": [
+      "The data clearly demonstrates the trend.",
+      "This clearly demonstrates the need for adjustment."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "key contribution",
+    "meaningThai": "สิ่งที่นำเสนอสำคัญ",
+    "examples": [
+      "The key contribution is a new method.",
+      "This paper's key contribution is clarity."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "underpin",
+    "meaningThai": "สนับสนุน/เป็นพื้นฐานให้",
+    "examples": [
+      "The data underpins our argument.",
+      "This theory underpins modern research."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "draw heavily on",
+    "meaningThai": "อิงจาก/ใช้ข้อมูลหรือหลักฐานอย่างมาก",
+    "examples": [
+      "The study draws heavily on previous research.",
+      "Their argument draws heavily on statistics."
+    ]
+  },
+  {
+    "id": 191,
+    "word": "preliminary results",
+    "meaningThai": "ผลลัพธ์เบื้องต้น",
+    "examples": [
+      "Preliminary results are promising.",
+      "Preliminary results show minor changes."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "tentative conclusion",
+    "meaningThai": "ข้อสรุปชั่วคราว",
+    "examples": [
+      "This is only a tentative conclusion.",
+      "Tentative conclusions require more evidence."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "robust methodology",
+    "meaningThai": "วิธีวิจัยที่แข็งแรง/น่าเชื่อถือ",
+    "examples": [
+      "The study uses a robust methodology.",
+      "A robust methodology improves accuracy."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "theoretical contribution",
+    "meaningThai": "การมีส่วนร่วมเชิงทฤษฎี",
+    "examples": [
+      "This paper offers a theoretical contribution.",
+      "There is limited theoretical contribution."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "holistic approach",
+    "meaningThai": "แนวทางแบบองค์รวม",
+    "examples": [
+      "A holistic approach provides better insight.",
+      "We propose a holistic approach."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "framework development",
+    "meaningThai": "การพัฒนาโครงร่างแนวคิด",
+    "examples": [
+      "The study focuses on framework development.",
+      "Framework development requires clarity."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "warrant further investigation",
+    "meaningThai": "ควรได้รับการศึกษาเพิ่มเติม",
+    "examples": [
+      "The results warrant further investigation.",
+      "This phenomenon warrants further investigation."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "interpretation of results",
+    "meaningThai": "การตีความผลลัพธ์",
+    "examples": [
+      "The interpretation of results requires caution.",
+      "Interpretation of results varies by context."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "practical application",
+    "meaningThai": "การประยุกต์ใช้ในทางปฏิบัติ",
+    "examples": [
+      "The method has practical applications.",
+      "We discuss practical applications in the final section."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "key limitation",
+    "meaningThai": "ข้อจำกัดสำคัญ",
+    "examples": [
+      "A key limitation is sample size.",
+      "This section discusses key limitations."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "the central question",
+    "meaningThai": "คำถามหลัก/โจทย์หลัก",
+    "examples": [
+      "The central question is whether the model is reliable.",
+      "This study addresses the central question in the field."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "provide a foundation",
+    "meaningThai": "ให้พื้นฐาน/เป็นรากฐานให้",
+    "examples": [
+      "These theories provide a foundation for future research.",
+      "The results provide a foundation for new models."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "form the basis of",
+    "meaningThai": "เป็นพื้นฐานของ",
+    "examples": [
+      "These findings form the basis of our argument.",
+      "This concept forms the basis of the theory."
+    ]
+  },
+  {
+    "id": 204,
+    "word": "in summary of",
+    "meaningThai": "โดยสรุปของ",
+    "examples": [
+      "In summary of the findings, adjustments are needed.",
+      "In summary of the data, performance improved."
+    ]
+  },
+  {
+    "id": 205,
+    "word": "raise concerns",
+    "meaningThai": "ทำให้กังวล/ตั้งข้อกังวล",
+    "examples": [
+      "The results raise concerns about reliability.",
+      "This issue raises concerns for future use."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "empirical validation",
+    "meaningThai": "การตรวจสอบด้วยข้อมูลจริง",
+    "examples": [
+      "Empirical validation confirms the prediction.",
+      "The method needs empirical validation."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "conceptual understanding",
+    "meaningThai": "ความเข้าใจเชิงแนวคิด",
+    "examples": [
+      "The class builds conceptual understanding.",
+      "Students need conceptual understanding before practice."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "considerable attention",
+    "meaningThai": "ความสนใจอย่างมาก",
+    "examples": [
+      "The topic has gained considerable attention.",
+      "This issue requires considerable attention."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "provide insight into",
+    "meaningThai": "ให้ข้อมูลเชิงลึกเกี่ยวกับ",
+    "examples": [
+      "The study provides insight into user behavior.",
+      "Interviews provide insight into motivation."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "academic discourse",
+    "meaningThai": "การสนทนา/โต้แย้งในเชิงวิชาการ",
+    "examples": [
+      "Academic discourse values clarity.",
+      "This term is common in academic discourse."
+    ]
+  },
+  {
+    "id": 211,
+    "word": "the overarching theme",
+    "meaningThai": "ธีมหลัก/ประเด็นใหญ่ที่ครอบคลุม",
+    "examples": [
+      "The overarching theme is equality.",
+      "This chapter introduces the overarching theme."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "evaluate effectiveness",
+    "meaningThai": "ประเมินประสิทธิภาพ",
+    "examples": [
+      "We evaluate the effectiveness of this method.",
+      "Effectiveness was evaluated using multiple metrics."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "offer a clear explanation",
+    "meaningThai": "ให้คำอธิบายที่ชัดเจน",
+    "examples": [
+      "The professor offered a clear explanation.",
+      "This paragraph offers a clear explanation."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "in line with expectations",
+    "meaningThai": "ตรงตามที่คาดหวัง",
+    "examples": [
+      "The results are in line with expectations.",
+      "Performance is in line with expectations."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "support the claim",
+    "meaningThai": "สนับสนุนข้ออ้าง/คำกล่าวอ้าง",
+    "examples": [
+      "The data supports the claim.",
+      "There is little evidence to support the claim."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "establish a link",
+    "meaningThai": "สร้างความเชื่อมโยง",
+    "examples": [
+      "The study establishes a link between diet and health.",
+      "We aim to establish a link across factors."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "assumption",
+    "meaningThai": "สมมติฐาน/ข้อสมมติ",
+    "examples": [
+      "This assumption is widely accepted.",
+      "The assumption needs verification."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "it is essential to note that",
+    "meaningThai": "สำคัญมากที่จะต้องสังเกตว่า",
+    "examples": [
+      "It is essential to note that results vary.",
+      "It is essential to note that data may be biased."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "empirical findings",
+    "meaningThai": "ผลการวิจัยจากข้อมูลจริง",
+    "examples": [
+      "Empirical findings support the theory.",
+      "The empirical findings are consistent."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "address limitations",
+    "meaningThai": "จัดการ/แก้ปัญหาจุดจำกัด",
+    "examples": [
+      "Future work should address limitations.",
+      "We addressed limitations in the discussion."
+    ]
+  },
+  {
+    "id": 221,
+    "word": "noteworthy",
+    "meaningThai": "โดดเด่น/ควรสังเกต",
+    "examples": [
+      "A noteworthy finding is the rapid improvement.",
+      "This point is particularly noteworthy."
+    ]
+  },
+  {
+    "id": 222,
+    "word": "heightened awareness",
+    "meaningThai": "ความตระหนักที่มากขึ้น",
+    "examples": [
+      "There is heightened awareness of climate issues.",
+      "Awareness has heightened in recent years."
+    ]
+  },
+  {
+    "id": 223,
+    "word": "synthesize information",
+    "meaningThai": "สังเคราะห์ข้อมูล",
+    "examples": [
+      "Students must synthesize information from sources.",
+      "This section synthesizes key points."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "logical progression",
+    "meaningThai": "การดำเนินเหตุผลอย่างเป็นลำดับ",
+    "examples": [
+      "The essay has a clear logical progression.",
+      "Logical progression helps readers understand."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "reliable measure",
+    "meaningThai": "ตัวชี้วัดที่เชื่อถือได้",
+    "examples": [
+      "Accuracy is a reliable measure.",
+      "We need a more reliable measure."
+    ]
+  },
+  {
+    "id": 226,
+    "word": "draw a parallel",
+    "meaningThai": "เปรียบเทียบให้เห็นความคล้าย",
+    "examples": [
+      "The study draws a parallel between A and B.",
+      "We can draw parallels with past research."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "conceptual gap",
+    "meaningThai": "ช่องว่างเชิงแนวคิด",
+    "examples": [
+      "There is a conceptual gap in the literature.",
+      "This paper fills a conceptual gap."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "the findings imply",
+    "meaningThai": "ผลการวิจัยบ่งบอกว่า",
+    "examples": [
+      "The findings imply a need for change.",
+      "The findings imply deeper issues."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "provide recommendations",
+    "meaningThai": "ให้คำแนะนำ",
+    "examples": [
+      "The report provides recommendations.",
+      "We provide recommendations for improvement."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "analytical approach",
+    "meaningThai": "แนวทางเชิงวิเคราะห์",
+    "examples": [
+      "The study uses an analytical approach.",
+      "An analytical approach clarifies patterns."
+    ]
+  },
+  {
+    "id": 231,
+    "word": "conceptual analysis",
+    "meaningThai": "การวิเคราะห์เชิงแนวคิด",
+    "examples": [
+      "Conceptual analysis reveals key themes.",
+      "This requires deeper conceptual analysis."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "support the hypothesis",
+    "meaningThai": "สนับสนุนสมมติฐาน",
+    "examples": [
+      "The results support the hypothesis.",
+      "There is insufficient data to support the hypothesis."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "establish credibility",
+    "meaningThai": "สร้างความน่าเชื่อถือ",
+    "examples": [
+      "Clear evidence establishes credibility.",
+      "Credibility must be established early."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "propose a framework",
+    "meaningThai": "เสนอกรอบแนวคิด",
+    "examples": [
+      "We propose a new framework.",
+      "The paper proposes a framework for evaluation."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "draw insights",
+    "meaningThai": "สกัด/ดึงข้อมูลเชิงลึกออกมา",
+    "examples": [
+      "Interviews help draw insights.",
+      "We drew insights from the dataset."
+    ]
+  },
+  {
+    "id": 236,
+    "word": "a critical issue",
+    "meaningThai": "ประเด็นสำคัญ",
+    "examples": [
+      "Cost is a critical issue.",
+      "This is a critical issue in the field."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "apparent",
+    "meaningThai": "เห็นได้ชัด",
+    "examples": [
+      "It is apparent that the system needs work.",
+      "The difference is apparent in Figure 3."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "call for action",
+    "meaningThai": "เรียกร้องให้ลงมือทำ",
+    "examples": [
+      "The findings call for action.",
+      "This issue calls for immediate action."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "notably higher",
+    "meaningThai": "สูงกว่าสังเกตได้ชัด",
+    "examples": [
+      "Scores are notably higher this year.",
+      "The error rate is notably higher in Group B."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "conceptual consistency",
+    "meaningThai": "ความสอดคล้องของแนวคิด",
+    "examples": [
+      "The theory lacks conceptual consistency.",
+      "We improved conceptual consistency."
+    ]
+  },
+  {
+    "id": 241,
+    "word": "the key takeaway",
+    "meaningThai": "ข้อสรุปสำคัญ",
+    "examples": [
+      "The key takeaway is the improvement in accuracy.",
+      "This chapter's key takeaway is clarity."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "further clarification",
+    "meaningThai": "ความชัดเจนเพิ่มเติม",
+    "examples": [
+      "The author provides further clarification.",
+      "Further clarification is needed."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "inconsistent outcomes",
+    "meaningThai": "ผลลัพธ์ไม่คงที่",
+    "examples": [
+      "The method produces inconsistent outcomes.",
+      "Inconsistent outcomes weaken the argument."
+    ]
+  },
+  {
+    "id": 244,
+    "word": "the overall aim",
+    "meaningThai": "เป้าหมายโดยรวม",
+    "examples": [
+      "The overall aim is to improve reliability.",
+      "This section explains the overall aim."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "broaden understanding",
+    "meaningThai": "ขยายความเข้าใจ",
+    "examples": [
+      "The study broadens understanding of the issue.",
+      "We aim to broaden understanding through analysis."
+    ]
+  },
+  {
+    "id": 246,
+    "word": "identify limitations",
+    "meaningThai": "ระบุข้อจำกัด",
+    "examples": [
+      "We identify limitations of the model.",
+      "Several limitations were identified."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "central argument",
+    "meaningThai": "ข้อโต้แย้งหลัก/ประเด็นหลัก",
+    "examples": [
+      "The central argument is strong.",
+      "This paragraph explains the central argument."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "consistent with",
+    "meaningThai": "สอดคล้องกับ",
+    "examples": [
+      "The findings are consistent with previous research.",
+      "This is consistent with predictions."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "critical evaluation",
+    "meaningThai": "การประเมินเชิงวิจารณ์",
+    "examples": [
+      "Critical evaluation improves analysis.",
+      "We provide a critical evaluation of the method."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "address the research question",
+    "meaningThai": "ตอบคำถามวิจัย",
+    "examples": [
+      "This study addresses the research question directly.",
+      "More data is needed to fully address the research question."
+    ]
+  }
+]

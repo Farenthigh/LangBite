@@ -1,0 +1,2034 @@
+[
+  {
+    "id": 1,
+    "word": "lit",
+    "meaningThai": "เจ๋งมาก, สนุกสุดเหวี่ยง",
+    "examples": [
+      "The party last night was lit.",
+      "This song is so lit—add it to the playlist!"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "chill",
+    "meaningThai": "สบาย ๆ, ผ่อนคลาย",
+    "examples": [
+      "Let’s just chill at home today.",
+      "He’s such a chill person to hang out with."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "vibe",
+    "meaningThai": "บรรยากาศ, ความรู้สึก",
+    "examples": [
+      "I love the vibe of this café.",
+      "Their new song has a relaxing vibe."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "sus",
+    "meaningThai": "น่าสงสัย",
+    "examples": ["The deal sounds kinda sus.", "Why are you acting sus today?"]
+  },
+  {
+    "id": 5,
+    "word": "no cap",
+    "meaningThai": "จริง ๆ ไม่โม้",
+    "examples": [
+      "Your design skills are amazing, no cap.",
+      "That exam was hard, no cap."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "low-key",
+    "meaningThai": "แอบ ๆ, ลับ ๆ, นิดหน่อย",
+    "examples": [
+      "I’m low-key nervous about the interview.",
+      "She low-key likes him."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "high-key",
+    "meaningThai": "ชัดเจนมาก, ไม่ปิดบัง",
+    "examples": ["I high-key want a vacation.", "He high-key loves attention."]
+  },
+  {
+    "id": 8,
+    "word": "salty",
+    "meaningThai": "หงุดหงิด, ขี้น้อยใจ",
+    "examples": [
+      "He’s salty because he lost the game.",
+      "Don’t be salty—try again!"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "flex",
+    "meaningThai": "อวดโชว์",
+    "examples": [
+      "He loves to flex his new shoes.",
+      "This is not a flex, but I finally finished the project!"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "tea",
+    "meaningThai": "เรื่องเมาท์, ข่าวลับ",
+    "examples": ["Spill the tea! What happened?", "The tea today is wild."]
+  },
+
+  {
+    "id": 11,
+    "word": "slay",
+    "meaningThai": "ทำได้ดีมาก, ปังสุด",
+    "examples": [
+      "You slayed that presentation.",
+      "Her outfit today is slaying."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "ghost",
+    "meaningThai": "หายไปเฉย ๆ ไม่ตอบ",
+    "examples": [
+      "He ghosted me after one date.",
+      "Don’t ghost your group project team."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "cringe",
+    "meaningThai": "น่าอาย, ขัดใจ",
+    "examples": ["That ad was kind of cringe.", "I cringe at my old photos."]
+  },
+  {
+    "id": 14,
+    "word": "stan",
+    "meaningThai": "แฟนคลั่งรัก, ชื่นชอบมาก",
+    "examples": [
+      "I totally stan this singer.",
+      "They’ve been stanning that band for years."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "big yikes",
+    "meaningThai": "แย่หนักมาก, น่าอึดอัดสุด ๆ",
+    "examples": [
+      "He forgot his own birthday—big yikes.",
+      "That comment was a big yikes."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "extra",
+    "meaningThai": "เว่อร์ไป, ทำเกินเหตุ",
+    "examples": [
+      "She’s being extra about the whole situation.",
+      "No need to be extra—just relax."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "mood",
+    "meaningThai": "ใช่เลย, โดนใจ",
+    "examples": ["Sleeping all day is a mood.", "That meme is such a mood."]
+  },
+  {
+    "id": 18,
+    "word": "dead",
+    "meaningThai": "ขำมาก",
+    "examples": ["That joke—I'm dead.", "Your reaction got me dead."]
+  },
+  {
+    "id": 19,
+    "word": "snatched",
+    "meaningThai": "ดูดีมาก, เป๊ะเว่อร์",
+    "examples": ["Your makeup is snatched today.", "Her outfit looks snatched."]
+  },
+  {
+    "id": 20,
+    "word": "ships",
+    "meaningThai": "เชียร์ให้คนสองคนเป็นคู่กัน",
+    "examples": ["I ship them so hard.", "Everyone ships that pairing."]
+  },
+
+  {
+    "id": 21,
+    "word": "vibe check",
+    "meaningThai": "ตรวจอารมณ์/บรรยากาศว่าโอเคไหม",
+    "examples": [
+      "This room failed the vibe check.",
+      "Before we start, vibe check!"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "boomer",
+    "meaningThai": "คนรุ่นเก่า ๆ คิดแบบเก่า",
+    "examples": [
+      "That comment is such a boomer move.",
+      "He’s young but his mindset is boomer."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "simp",
+    "meaningThai": "ทุ่มเทมากเกินไปเพื่อคนที่ชอบ",
+    "examples": [
+      "He bought her lunch every day—such a simp.",
+      "Don’t simp too hard, bro."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "glow up",
+    "meaningThai": "พัฒนาขึ้นมาก ดูดีขึ้น",
+    "examples": [
+      "She had a major glow up.",
+      "Your coding skills really glowed up."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "cancel",
+    "meaningThai": "เลิกสนับสนุน, ไม่เอาแล้ว",
+    "examples": [
+      "People tried to cancel the influencer.",
+      "He’s canceled in my book."
+    ]
+  },
+  {
+    "id": 26,
+    "word": "fit",
+    "meaningThai": "ชุดที่ใส่",
+    "examples": ["Nice fit today!", "Your fit is clean."]
+  },
+  {
+    "id": 27,
+    "word": "fire",
+    "meaningThai": "ดีมาก, เท่มาก",
+    "examples": ["This playlist is fire.", "Your design looks fire."]
+  },
+  {
+    "id": 28,
+    "word": "main character",
+    "meaningThai": "คนนำเรื่อง, คนที่โดดเด่นสุดในกลุ่ม",
+    "examples": [
+      "She’s giving main character energy.",
+      "Today, I feel like the main character."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "down bad",
+    "meaningThai": "หลงหนักมาก หรืออยู่ในสภาพแย่เพราะความรัก",
+    "examples": ["He’s down bad for her.", "You’re so down bad it’s obvious."]
+  },
+  {
+    "id": 30,
+    "word": "mid",
+    "meaningThai": "ธรรมดามาก, ก็งั้น ๆ",
+    "examples": [
+      "The movie was kinda mid.",
+      "The food looked good but tasted mid."
+    ]
+  },
+
+  {
+    "id": 31,
+    "word": "AF",
+    "meaningThai": "มาก ๆ (ใช้เน้น)",
+    "examples": ["I’m tired AF.", "This room is cold AF."]
+  },
+  {
+    "id": 32,
+    "word": "period",
+    "meaningThai": "จบเรื่อง, ไม่เถียงอีก",
+    "examples": [
+      "You deserve better, period.",
+      "That’s the best song ever, period."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "ick",
+    "meaningThai": "ความรู้สึกยี้ทันทีเพราะพฤติกรรมบางอย่าง",
+    "examples": [
+      "He gave me the ick when he bragged too much.",
+      "Once you get the ick, it’s over."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "rizz",
+    "meaningThai": "เสน่ห์, ความสามารถในการจีบ",
+    "examples": ["He’s got no rizz at all.", "Your rizz is low-key impressive."]
+  },
+  {
+    "id": 35,
+    "word": "bet",
+    "meaningThai": "โอเค, ได้เลย",
+    "examples": [
+      "You want to meet at 6? Bet.",
+      "Bet. I’ll send the file later."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "ate",
+    "meaningThai": "ทำดีมาก, ทำออกมาอย่างปัง",
+    "examples": [
+      "You ate that presentation up!",
+      "Her outfit ate and left no crumbs."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "spill",
+    "meaningThai": "บอกมา, เล่าเลย",
+    "examples": [
+      "Spill—what happened yesterday?",
+      "I’m ready, spill the story."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "pressed",
+    "meaningThai": "เครียด, หงุดหงิด",
+    "examples": [
+      "Why are you so pressed about it?",
+      "He gets pressed over small things."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "shook",
+    "meaningThai": "ช็อก, ไม่คาดคิด",
+    "examples": [
+      "I was shook after hearing the news.",
+      "That plot twist had me shook."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "valid",
+    "meaningThai": "มีเหตุผลจริง, ใช้ได้",
+    "examples": ["Your opinion is valid.", "That’s a valid point."]
+  },
+
+  {
+    "id": 41,
+    "word": "glitchy",
+    "meaningThai": "งง ๆ, แปลก ๆ แบบเครื่องรวน",
+    "examples": ["My brain is glitchy today.", "That app feels glitchy now."]
+  },
+  {
+    "id": 42,
+    "word": "soft launch",
+    "meaningThai": "เปิดตัวเบา ๆ (มักใช้กับแฟน)",
+    "examples": [
+      "She soft-launched her boyfriend on IG.",
+      "Soft launch = only show the hand."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "hard launch",
+    "meaningThai": "เปิดตัวแบบเต็ม ๆ",
+    "examples": [
+      "He hard-launched their relationship yesterday.",
+      "Hard launch with a full couple photo."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "unalive",
+    "meaningThai": "ตาย (พูดแบบเบา ๆ ในอินเทอร์เน็ต)",
+    "examples": [
+      "That horror movie almost made me unalive.",
+      "I laughed so hard I almost went unalive."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "ratio",
+    "meaningThai": "โดนตอบกลับเยอะกว่าโพสต์ต้นฉบับ",
+    "examples": [
+      "Your tweet got ratioed.",
+      "If you say that online, you’ll get ratioed."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "touch grass",
+    "meaningThai": "ออกไปใช้ชีวิตจริงบ้าง",
+    "examples": [
+      "You’ve been gaming all day—go touch grass.",
+      "After that comment, you need to touch grass."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "say less",
+    "meaningThai": "ไม่ต้องพูดต่อ ฉันเข้าใจแล้ว",
+    "examples": ["You want snacks? Say less.", "Say less—I’m on my way."]
+  },
+  {
+    "id": 48,
+    "word": "go off",
+    "meaningThai": "ทำดีมาก หรือพูดแบบมั่นใจมาก",
+    "examples": ["Go off, queen!", "He went off during the debate."]
+  },
+  {
+    "id": 49,
+    "word": "brainrot",
+    "meaningThai": "หมกมุ่นมาก ๆ กับอะไรสักอย่าง",
+    "examples": [
+      "This song is my brainrot right now.",
+      "Your brainrot is that game, I swear."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "vibe shift",
+    "meaningThai": "การเปลี่ยนบรรยากาศ/ความรู้สึกอย่างกะทันหัน",
+    "examples": [
+      "There was a vibe shift when he walked in.",
+      "Music change caused a whole vibe shift."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "yikes",
+    "meaningThai": "โอ้โห…แย่ละ, อึดอัด",
+    "examples": [
+      "Yikes, that was awkward.",
+      "Yikes… I hope he didn’t see that message."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "AFK",
+    "meaningThai": "หายจากจอไปแป๊บ (มาจาก Away From Keyboard)",
+    "examples": [
+      "BRB, AFK for 5 mins.",
+      "He died in the game because he went AFK."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "big mood",
+    "meaningThai": "เข้าใจมาก ๆ, ใช่เลย",
+    "examples": [
+      "Wanting a nap all day? Big mood.",
+      "That meme is a big mood today."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "say no more",
+    "meaningThai": "ไม่ต้องพูดละ เข้าใจเลย",
+    "examples": [
+      "Ice cream? Say no more.",
+      "Say no more—I know exactly what you want."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "main character energy",
+    "meaningThai": "ออร่าพระเอก/นางเอก",
+    "examples": [
+      "She walked in with main character energy.",
+      "Your outfit is giving main character energy."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "goated",
+    "meaningThai": "สุดยอดมาก (มาจาก G.O.A.T.)",
+    "examples": [
+      "This playlist is goated.",
+      "Her performance was actually goated."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "chef's kiss",
+    "meaningThai": "ดีเลิศมาก ๆ",
+    "examples": [
+      "That design? Chef’s kiss.",
+      "Your handwriting is chef’s kiss."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "spoiler",
+    "meaningThai": "การสปอยล์เรื่อง",
+    "examples": ["No spoilers please!", "He accidentally gave a huge spoiler."]
+  },
+  {
+    "id": 59,
+    "word": "bop",
+    "meaningThai": "เพลงดีมาก ฟังแล้วติดหู",
+    "examples": ["This new song is a bop.", "Your playlist is full of bops."]
+  },
+  {
+    "id": 60,
+    "word": "clap back",
+    "meaningThai": "ตอบโต้แบบแซ่บ ๆ",
+    "examples": [
+      "She clapped back at the rude comment.",
+      "His clapback was legendary."
+    ]
+  },
+
+  {
+    "id": 61,
+    "word": "drag",
+    "meaningThai": "ด่าแบบโหด, จับผิดแรง",
+    "examples": [
+      "She dragged him for being late again.",
+      "The comments section dragged that brand."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "leave them on read",
+    "meaningThai": "อ่านแล้วไม่ตอบ",
+    "examples": ["Why did you leave me on read?", "He leaves everyone on read."]
+  },
+  {
+    "id": 63,
+    "word": "big brain",
+    "meaningThai": "ฉลาดมาก",
+    "examples": [
+      "Using AI to do homework? Big brain.",
+      "That solution was big brain energy."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "small brain",
+    "meaningThai": "คิดน้อยไป, งง ๆ",
+    "examples": [
+      "I forgot my password again—small brain.",
+      "That was such a small-brain moment."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "wholesome",
+    "meaningThai": "อบอุ่นใจ, ดีต่อใจ",
+    "examples": [
+      "That video was so wholesome.",
+      "We need more wholesome moments like this."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "go crazy",
+    "meaningThai": "สุดยอดมาก, ลุยเต็มที่",
+    "examples": ["Your editing is going crazy!", "This beat goes crazy."]
+  },
+  {
+    "id": 67,
+    "word": "clown",
+    "meaningThai": "ทำตัวเป็นตัวตลก/โดนหลอก",
+    "examples": [
+      "I waited for his message like a clown.",
+      "We both got clowned today."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "catch feelings",
+    "meaningThai": "เริ่มมีความรู้สึกให้ใครสักคน",
+    "examples": [
+      "Don't catch feelings too fast.",
+      "He caught feelings after one date."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "big flex",
+    "meaningThai": "อวดแบบแรงมาก",
+    "examples": [
+      "Owning a Tesla is a big flex.",
+      "Her vacation photos were a big flex."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "spill the beans",
+    "meaningThai": "เฉลย บอกความลับ",
+    "examples": [
+      "Come on—spill the beans.",
+      "He spilled the beans about the surprise party."
+    ]
+  },
+
+  {
+    "id": 71,
+    "word": "legit",
+    "meaningThai": "จริง ๆ, ของแท้, เชื่อถือได้",
+    "examples": ["This store is legit.", "That was legit impressive."]
+  },
+  {
+    "id": 72,
+    "word": "same energy",
+    "meaningThai": "ให้ความรู้สึกคล้ายกัน",
+    "examples": [
+      "Those two photos have the same energy.",
+      "Your chaos and his chaos? Same energy."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "deep down",
+    "meaningThai": "ลึก ๆ ในใจ",
+    "examples": [
+      "Deep down, you know I’m right.",
+      "He’s confident, but deep down he's nervous."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "take an L",
+    "meaningThai": "พลาด, แพ้, เสียหน้า",
+    "examples": ["I really took an L today.", "We took an L on that test."]
+  },
+  {
+    "id": 75,
+    "word": "win",
+    "meaningThai": "ดีมาก, เป็นชัยชนะ",
+    "examples": ["This food is a win.", "Your outfit today is a huge win."]
+  },
+  {
+    "id": 76,
+    "word": "soft",
+    "meaningThai": "อ่อนโยน, ใจดีเกินไป",
+    "examples": ["You’re so soft for her.", "That was such a soft moment."]
+  },
+  {
+    "id": 77,
+    "word": "hard",
+    "meaningThai": "เท่มาก, เด็ดมาก",
+    "examples": ["That transition hits hard.", "He went hard in the game."]
+  },
+  {
+    "id": 78,
+    "word": "big time",
+    "meaningThai": "มาก ๆ, ใหญ่หลวง",
+    "examples": ["You messed up big time.", "He improved big time this year."]
+  },
+  {
+    "id": 79,
+    "word": "catch up",
+    "meaningThai": "คุยอัปเดตกัน",
+    "examples": ["We need to catch up soon!", "Let’s grab coffee and catch up."]
+  },
+  {
+    "id": 80,
+    "word": "ICYMI",
+    "meaningThai": "เผื่อคุณพลาดไป (In Case You Missed It)",
+    "examples": [
+      "ICYMI, we have no class tomorrow.",
+      "ICYMI: new update released!"
+    ]
+  },
+
+  {
+    "id": 81,
+    "word": "based",
+    "meaningThai": "ยืนหยัดในความคิดตัวเอง, มีเหตุผลดี",
+    "examples": ["Your comment was actually based.", "Based take, honestly."]
+  },
+  {
+    "id": 82,
+    "word": "vibes immaculate",
+    "meaningThai": "บรรยากาศดีมาก, เป๊ะสุด ๆ",
+    "examples": [
+      "This room? Vibes immaculate.",
+      "Your playlist is immaculate vibes."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "built different",
+    "meaningThai": "ทำได้เหนือกว่าคนทั่วไป",
+    "examples": [
+      "You solved that problem so fast—you’re built different.",
+      "Athletes like that are built different."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "cap",
+    "meaningThai": "โกหก, ไม่จริง",
+    "examples": ["That’s cap. I don’t believe you.", "No cap? Really?"]
+  },
+  {
+    "id": 85,
+    "word": "touch up",
+    "meaningThai": "แตะนิด ๆ แก้เล็กน้อย",
+    "examples": [
+      "I just need to touch up my makeup.",
+      "Let me touch up this slide real quick."
+    ]
+  },
+  {
+    "id": 86,
+    "word": "hit different",
+    "meaningThai": "ให้ความรู้สึกดีเป็นพิเศษ",
+    "examples": [
+      "Cold water hits different at 3 AM.",
+      "This song hits different with headphones."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "tight",
+    "meaningThai": "ดีมาก, เจ๋ง",
+    "examples": ["That edit is tight.", "Your timing is tight today!"]
+  },
+  {
+    "id": 88,
+    "word": "big fan",
+    "meaningThai": "ชอบมาก, ติดตามตลอด",
+    "examples": [
+      "I’m a big fan of your work.",
+      "Not a big fan of spicy food, though."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "clean",
+    "meaningThai": "ดูดี, เรียบร้อย, เนี๊ยบ",
+    "examples": ["Your code looks clean.", "That transition was so clean."]
+  },
+  {
+    "id": 90,
+    "word": "for real",
+    "meaningThai": "จริงจังนะ, ไม่ล้อเล่น",
+    "examples": ["I’m tired, for real.", "Are you for real right now?"]
+  },
+
+  {
+    "id": 91,
+    "word": "go off king",
+    "meaningThai": "ทำดีมากนะพ่อหนุ่ม!",
+    "examples": ["Go off king! That’s amazing.", "You really went off, king."]
+  },
+  {
+    "id": 92,
+    "word": "go off queen",
+    "meaningThai": "ปังมากค่ะตัวแม่!",
+    "examples": [
+      "Go off queen, that outfit slays.",
+      "She went off in her performance."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "fit check",
+    "meaningThai": "เช็กชุดวันนี้",
+    "examples": [
+      "Fit check! Show me your outfit.",
+      "His fit check videos are iconic."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "meme-worthy",
+    "meaningThai": "น่าทำเป็นมีม",
+    "examples": [
+      "That photo is meme-worthy.",
+      "Your reaction is absolutely meme-worthy."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "in my feels",
+    "meaningThai": "อ่อนไหว/อินมาก",
+    "examples": ["This song has me in my feels.", "I’m in my feels tonight."]
+  },
+  {
+    "id": 96,
+    "word": "deadass",
+    "meaningThai": "จริงจังมาก ๆ",
+    "examples": ["Are you deadass?", "I’m deadass serious."]
+  },
+  {
+    "id": 97,
+    "word": "level up",
+    "meaningThai": "พัฒนาขึ้น, เก่งขึ้น",
+    "examples": [
+      "You really leveled up your design.",
+      "Time to level up your skills."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "no thoughts head empty",
+    "meaningThai": "ว่างเปล่า ไม่คิดอะไรเลย",
+    "examples": [
+      "After the exam, no thoughts head empty.",
+      "Me on Monday mornings: no thoughts head empty."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "pop off",
+    "meaningThai": "ดังขึ้น, พุ่งขึ้น, ไปได้ดี",
+    "examples": [
+      "Her video popped off overnight.",
+      "Those shoes are popping off this season."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "big deal",
+    "meaningThai": "เรื่องใหญ่, สำคัญมาก",
+    "examples": [
+      "Getting that internship is a big deal.",
+      "It’s not a big deal—don’t stress."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "try-hard",
+    "meaningThai": "พยายามเกินไปจนดูฝืน",
+    "examples": [
+      "Don’t be a try-hard, just be yourself.",
+      "He’s trying too hard to be funny—such a try-hard."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "mainstream",
+    "meaningThai": "เป็นกระแส, ทั่วไป",
+    "examples": [
+      "That song became mainstream so fast.",
+      "I liked this show before it went mainstream."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "underrated",
+    "meaningThai": "ดีแต่ไม่ดัง, ถูกมองข้าม",
+    "examples": [
+      "This movie is so underrated.",
+      "Your cooking skills are underrated."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "overrated",
+    "meaningThai": "ดังเกินจริง, ไม่ได้ดีขนาดนั้น",
+    "examples": [
+      "Honestly, that game is overrated.",
+      "Some trends are really overrated."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "vibes off",
+    "meaningThai": "บรรยากาศแปลก ๆ, ดูไม่โอเค",
+    "examples": [
+      "The vibes are off in this room.",
+      "I don’t know why, but the vibes are off today."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "spill the tea",
+    "meaningThai": "เมาท์มา เล่ามา",
+    "examples": [
+      "Spill the tea—what did she say?",
+      "I’ve been waiting, spill the tea already."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "pass the vibe check",
+    "meaningThai": "ผ่านเกณฑ์ความรู้สึกดี ๆ",
+    "examples": [
+      "Your playlist passes the vibe check.",
+      "He didn’t pass the vibe check at all."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "slaps",
+    "meaningThai": "ดีมาก (มักใช้กับเพลง/อาหาร)",
+    "examples": ["This beat slaps!", "Your cooking slaps today."]
+  },
+  {
+    "id": 109,
+    "word": "hits different",
+    "meaningThai": "ให้ความรู้สึกดีเป็นพิเศษ",
+    "examples": [
+      "Cold noodles hit different at midnight.",
+      "Listening with headphones hits different."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "bussin",
+    "meaningThai": "อร่อยมาก, ดีมาก (ใช้กับอาหารบ่อย)",
+    "examples": ["This ramen is bussin.", "Your mom’s cooking is bussin fr."]
+  },
+
+  {
+    "id": 111,
+    "word": "extra af",
+    "meaningThai": "เว่อร์มาก",
+    "examples": [
+      "She decorated her room extra af.",
+      "You’re being extra af about this."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "snack",
+    "meaningThai": "คนน่ารัก/ดูดีมาก",
+    "examples": [
+      "You look like a whole snack today.",
+      "He’s such a snack in that outfit."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "we move",
+    "meaningThai": "ช่างมัน ลุยต่อไป",
+    "examples": ["Bad exam? We move.", "It didn’t work out, but we move."]
+  },
+  {
+    "id": 114,
+    "word": "it be like that",
+    "meaningThai": "มันก็เป็นแบบนี้แหละ ชีวิตแหละนะ",
+    "examples": [
+      "Sometimes you fail—it be like that.",
+      "No sleep tonight? It really be like that."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "ratioed",
+    "meaningThai": "โดนตอบกลับเยอะกว่าไลก์",
+    "examples": [
+      "Your tweet got ratioed hard.",
+      "Careful, you’re gonna get ratioed."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "main",
+    "meaningThai": "ชอบที่สุด, ใช้หลัก",
+    "examples": [
+      "What character do you main?",
+      "She mains support in every game."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "brain lag",
+    "meaningThai": "สมองช้า งง ๆ",
+    "examples": [
+      "Sorry, brain lag—I didn’t get that.",
+      "I’m experiencing brain lag today."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "irl",
+    "meaningThai": "ในชีวิตจริง (In Real Life)",
+    "examples": ["He’s even funnier irl.", "Let’s meet irl someday."]
+  },
+  {
+    "id": 119,
+    "word": "glitched",
+    "meaningThai": "งงเหมือนระบบรวน",
+    "examples": [
+      "My brain glitched for a sec.",
+      "He glitched during the presentation."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "manifest",
+    "meaningThai": "ดึงดูดให้เกิดขึ้น, ตั้งใจมาก ๆ ให้สำเร็จ",
+    "examples": [
+      "I’m manifesting good grades this semester.",
+      "She manifested her dream job."
+    ]
+  },
+
+  {
+    "id": 121,
+    "word": "vibe with",
+    "meaningThai": "เข้ากันได้, ถูกจริต",
+    "examples": [
+      "I really vibe with this group.",
+      "We vibe with the same music."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "savage",
+    "meaningThai": "แรงมาก, เด็ดมาก (แต่ไม่หยาบ)",
+    "examples": ["Your comeback was savage.", "She has savage humor."]
+  },
+  {
+    "id": 123,
+    "word": "bandwagon",
+    "meaningThai": "ตามกระแส",
+    "examples": [
+      "Everyone jumped on the bandwagon.",
+      "Don’t just follow the bandwagon—think first."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "bounce",
+    "meaningThai": "ไปละ ลุกละ",
+    "examples": [
+      "I gotta bounce, see you later.",
+      "Let’s bounce before it rains."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "woke",
+    "meaningThai": "ตระหนักรู้เรื่องสังคม (ในเชิงบวก)",
+    "examples": [
+      "She’s very woke about social issues.",
+      "Stay woke and stay aware."
+    ]
+  },
+  {
+    "id": 126,
+    "word": "brain food",
+    "meaningThai": "สิ่งกระตุ้นให้ฉลาดขึ้น",
+    "examples": [
+      "This book is brain food.",
+      "Studying with snacks is my brain food."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "no chill",
+    "meaningThai": "เอาจริงเกินไป, ไม่ผ่อนเลย",
+    "examples": ["Bro has no chill.", "She roasted him with no chill."]
+  },
+  {
+    "id": 128,
+    "word": "respectfully",
+    "meaningThai": "พูดแบบสุภาพ แต่เอาจริงนะ",
+    "examples": ["Respectfully, that idea won’t work.", "Respectfully… no."]
+  },
+  {
+    "id": 129,
+    "word": "slaps hard",
+    "meaningThai": "ดีมาก ๆ (เน้นกว่า slaps)",
+    "examples": ["This bass slaps hard.", "Your video edit slaps hard."]
+  },
+  {
+    "id": 130,
+    "word": "on point",
+    "meaningThai": "เป๊ะมาก, ตรงมาก",
+    "examples": [
+      "Your handwriting is on point.",
+      "Her presentation was on point."
+    ]
+  },
+
+  {
+    "id": 131,
+    "word": "facts",
+    "meaningThai": "จริงแท้แน่นอน, เห็นด้วยสุด ๆ",
+    "examples": ["Facts. You’re absolutely right.", "Facts—sleep is essential."]
+  },
+  {
+    "id": 132,
+    "word": "for the plot",
+    "meaningThai": "ทำเพื่อให้ชีวิตมีสีสัน",
+    "examples": [
+      "I joined the event for the plot.",
+      "Sometimes you need chaos for the plot."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "type beat",
+    "meaningThai": "สไตล์แบบนี้เลย",
+    "examples": [
+      "Your outfit gives cozy type beat.",
+      "This vibe is soft-girl type beat."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "go touch water",
+    "meaningThai": "ใจเย็น ๆ หน่อย",
+    "examples": ["You’re too mad—go touch water.", "Chill bro, go touch water."]
+  },
+  {
+    "id": 135,
+    "word": "bet bet",
+    "meaningThai": "โอเคมาก ๆ, ตกลงแน่นอน",
+    "examples": ["Dinner at 7? Bet bet.", "Bet bet, I’ll send the file."]
+  },
+  {
+    "id": 136,
+    "word": "sketchy",
+    "meaningThai": "ดูไม่น่าไว้ใจ",
+    "examples": ["That website looks sketchy.", "The deal feels sketchy to me."]
+  },
+  {
+    "id": 137,
+    "word": "mid-tier",
+    "meaningThai": "ระดับกลาง ๆ",
+    "examples": [
+      "That café is kinda mid-tier.",
+      "His jokes are mid-tier today."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "all good",
+    "meaningThai": "โอเคหมด, ไม่เป็นไร",
+    "examples": ["All good! No worries.", "It's all good—we got this."]
+  },
+  {
+    "id": 139,
+    "word": "living rent-free",
+    "meaningThai": "คิดถึงตลอดเวลา แม้ไม่อยากคิด",
+    "examples": [
+      "That song lives in my head rent-free.",
+      "Her smile lives in his mind rent-free."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "in my bag",
+    "meaningThai": "โฟกัสมาก ๆ กำลังทำงานดีมาก",
+    "examples": [
+      "I’m in my bag today—finished all tasks.",
+      "She’s in her bag this semester."
+    ]
+  },
+
+  {
+    "id": 141,
+    "word": "glow",
+    "meaningThai": "ความสดใส/เปล่งประกาย",
+    "examples": ["Her skin is glowing.", "He’s been glowing lately."]
+  },
+  {
+    "id": 142,
+    "word": "spill mode",
+    "meaningThai": "โหมดเมาท์ไม่หยุด",
+    "examples": [
+      "I’m in spill mode today.",
+      "Tell me everything—you’re in spill mode."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "offline vibes",
+    "meaningThai": "บรรยากาศสบาย ๆ แบบไม่ยุ่งโซเชียล",
+    "examples": [
+      "This café gives offline vibes.",
+      "We need an offline vibes day."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "sus behavior",
+    "meaningThai": "พฤติกรรมไม่น่าไว้วางใจ",
+    "examples": [
+      "What was that sus behavior?",
+      "He’s acting in full sus behavior mode."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "the audacity",
+    "meaningThai": "กล้าได้ไงนะ (มักใช้ติดตลก หรือด่าแบบเบา)",
+    "examples": [
+      "The audacity to text me at 3 AM.",
+      "She really had the audacity to say that."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "big comfy",
+    "meaningThai": "สบายมาก ๆ",
+    "examples": [
+      "This hoodie is big comfy.",
+      "Your room gives big comfy energy."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "no notes",
+    "meaningThai": "ดีมาก จนไม่มีอะไรติ",
+    "examples": ["Your presentation? No notes.", "That edit: no notes at all."]
+  },
+  {
+    "id": 148,
+    "word": "eat that up",
+    "meaningThai": "ทำดีมาก คนชอบมาก",
+    "examples": ["The audience ate that up.", "You ate that speech up!"]
+  },
+  {
+    "id": 149,
+    "word": "on god",
+    "meaningThai": "จริงแน่นอน, พูดจริง",
+    "examples": ["This is the best pizza, on god.", "I didn’t lie, on god."]
+  },
+  {
+    "id": 150,
+    "word": "soft life",
+    "meaningThai": "ชีวิตแบบสบาย ๆ ไม่เครียด",
+    "examples": [
+      "I want a soft life someday.",
+      "Her routine is giving soft life energy."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "hard carry",
+    "meaningThai": "เป็นคนที่ช่วยทีมหลัก ๆ, แบกทั้งทีม",
+    "examples": [
+      "She hard carried the whole project.",
+      "He’s the hard carry in every match."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "snoozefest",
+    "meaningThai": "น่าเบื่อมาก, ง่วงสุด ๆ",
+    "examples": [
+      "That lecture was a snoozefest.",
+      "The meeting turned into a snoozefest quickly."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "glazed",
+    "meaningThai": "เหม่อ, เบลอ เหมือนไม่ได้ยินอะไร",
+    "examples": [
+      "Sorry, I glazed over for a second.",
+      "Her eyes glazed when the topic changed."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "cook",
+    "meaningThai": "ทำผลงานดีมาก, เล่นดีจัด ๆ",
+    "examples": ["He cooked that last round.", "You’re cooking in this match!"]
+  },
+  {
+    "id": 155,
+    "word": "my bad",
+    "meaningThai": "ขอโทษ ฉันผิดเอง",
+    "examples": ["Oops, my bad!", "My bad—I sent the wrong file."]
+  },
+  {
+    "id": 156,
+    "word": "low effort",
+    "meaningThai": "ทำแบบไม่ตั้งใจ, พยายามน้อย",
+    "examples": [
+      "This meme is low effort but funny.",
+      "His apology felt low effort."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "high effort",
+    "meaningThai": "ทำอย่างตั้งใจ ลงแรงเยอะ",
+    "examples": [
+      "Your project is high effort, I love it.",
+      "That was a high-effort edit."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "chill vibes",
+    "meaningThai": "บรรยากาศชิลมาก",
+    "examples": [
+      "This playlist gives chill vibes.",
+      "The café has chill vibes all day."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "goofy",
+    "meaningThai": "ตลกโปกฮา, งี่เง่านิด ๆ แต่เอ็นดู",
+    "examples": [
+      "He’s so goofy but fun to be around.",
+      "Your laugh is goofy and adorable."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "slowed + reverb",
+    "meaningThai": "ช้า ๆ เคลิ้ม ๆ (มักใช้กับเพลง)",
+    "examples": [
+      "This song slowed + reverb hits hard.",
+      "Try listening to it slowed + reverb—trust me."
+    ]
+  },
+  {
+    "id": 161,
+    "word": "side-eye",
+    "meaningThai": "มองแรงแบบสงสัย/ไม่โอเค",
+    "examples": ["I gave him a side-eye when he lied.", "Side-eye activated."]
+  },
+  {
+    "id": 162,
+    "word": "girl math",
+    "meaningThai": "ตรรกะแบบขำ ๆ ในการช้อปปิ้ง",
+    "examples": [
+      "It’s free if I pay with cash—girl math.",
+      "Girl math says this doesn’t count as spending."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "delulu",
+    "meaningThai": "คิดเข้าข้างตัวเองแบบมโน",
+    "examples": [
+      "My delulu is controlling me today.",
+      "He’s delulu if he thinks she likes him."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "solulu",
+    "meaningThai": "ความจริงที่ยอมรับยากของ delulu",
+    "examples": [
+      "The solulu hurts sometimes.",
+      "Delulu without solulu is dangerous."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "serving",
+    "meaningThai": "ให้ลุค/พลังแบบจัดเต็ม",
+    "examples": [
+      "She’s serving today with that outfit.",
+      "He served main character energy."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "ate and left no crumbs",
+    "meaningThai": "ทำดีแบบสมบูรณ์สุด ๆ",
+    "examples": [
+      "You ate and left no crumbs on that project!",
+      "Her performance ate and left no crumbs."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "digital footprint",
+    "meaningThai": "ร่องรอยออนไลน์ของคุณ",
+    "examples": [
+      "Be careful what you post—digital footprints last.",
+      "Your digital footprint follows you everywhere."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "heating up",
+    "meaningThai": "เริ่มเก่งขึ้นมากเรื่อย ๆ",
+    "examples": [
+      "You’re heating up in this match.",
+      "The team is heating up this season."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "clutch",
+    "meaningThai": "ทำสำเร็จในเวลาสำคัญสุด ๆ",
+    "examples": ["That final shot was clutch.", "She clutched the whole match!"]
+  },
+  {
+    "id": 170,
+    "word": "AF vibes",
+    "meaningThai": "โคตรให้ฟีลแบบนั้น",
+    "examples": ["This room is cozy AF vibes.", "Summer vibes AF today."]
+  },
+
+  {
+    "id": 171,
+    "word": "day one",
+    "meaningThai": "เพื่อนสนิทตั้งแต่แรก, คนที่อยู่ด้วยเสมอ",
+    "examples": ["She’s my day one.", "We’ve been close since day one."]
+  },
+  {
+    "id": 172,
+    "word": "out of pocket",
+    "meaningThai": "พูดหรือทำเกินเหตุ แรงเกินไป",
+    "examples": [
+      "That joke was out of pocket.",
+      "You’re acting out of pocket today."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "soft launch energy",
+    "meaningThai": "เปิดตัวแบบแอบ ๆ, พอให้รู้ว่ามีอะไรใหม่",
+    "examples": [
+      "New shoes? That’s soft launch energy.",
+      "He posted a hand pic—soft launch energy."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "real one",
+    "meaningThai": "คนจริงใจ, คนที่เชื่อถือได้",
+    "examples": [
+      "Thanks for helping—you’re a real one.",
+      "She’s a real one for staying by my side."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "glowin’",
+    "meaningThai": "ดูดีขึ้น สดใสขึ้นมาก",
+    "examples": ["You’re glowin’, bestie!", "Why are you glowin’ lately?"]
+  },
+  {
+    "id": 176,
+    "word": "doing the most",
+    "meaningThai": "ทำมากเกินไป, ทุ่มเกินเหตุ",
+    "examples": ["She’s doing the most again.", "Stop doing the most—relax!"]
+  },
+  {
+    "id": 177,
+    "word": "low-effort meme",
+    "meaningThai": "มีมง่าย ๆ แต่ตลก",
+    "examples": [
+      "Low-effort memes are actually the funniest.",
+      "This meme is so low-effort yet perfect."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "touch grass moment",
+    "meaningThai": "ทำตัวควรออกไปสูดอากาศบ้าง",
+    "examples": [
+      "That comment was a touch grass moment.",
+      "You need a break, touch grass moment for sure."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "caught in 4K",
+    "meaningThai": "โดนจับได้แบบเต็ม ๆ",
+    "examples": [
+      "He lied but got caught in 4K.",
+      "Caught in 4K texting his ex."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "brain empty",
+    "meaningThai": "ไม่คิดอะไรเลย",
+    "examples": [
+      "I stared at the question—brain empty.",
+      "Brain empty, no thoughts."
+    ]
+  },
+
+  {
+    "id": 181,
+    "word": "bombastic side-eye",
+    "meaningThai": "มองแรงแบบสุดขีด",
+    "examples": [
+      "Bombastic side-eye to that behavior.",
+      "She gave him a bombastic side-eye."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "social battery",
+    "meaningThai": "พลัง社交ที่ใช้คุยกับคนอื่น",
+    "examples": [
+      "My social battery is dead.",
+      "I need time to recharge my social battery."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "eat vibes",
+    "meaningThai": "ลุคที่ปังจนกินเรียบ",
+    "examples": [
+      "That dress? Eat vibes.",
+      "Your confidence is giving eat vibes."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "silly goofy mood",
+    "meaningThai": "อารมณ์อยากทำอะไรตลก ๆ",
+    "examples": [
+      "I’m in a silly goofy mood today.",
+      "We got into a silly goofy mood at 2AM."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "built like that",
+    "meaningThai": "สุดยอดโดยธรรมชาติ",
+    "examples": [
+      "He’s built like that academically.",
+      "You’re built like that—own it."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "real talk",
+    "meaningThai": "พูดจริง ๆ นะ",
+    "examples": ["Real talk, you need rest.", "Real talk—you deserve better."]
+  },
+  {
+    "id": 187,
+    "word": "whiplash moment",
+    "meaningThai": "งงแบบหักมุมเร็วมาก",
+    "examples": [
+      "That twist was a whiplash moment.",
+      "Your mood change gave me whiplash."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "camera eats first",
+    "meaningThai": "ต้องถ่ายก่อนกิน",
+    "examples": [
+      "Wait—the camera eats first!",
+      "She never lets us eat, camera eats first always."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "clean aesthetic",
+    "meaningThai": "สไตล์เนี๊ยบ ๆ มินิมอล",
+    "examples": [
+      "Her room has such a clean aesthetic.",
+      "That UI is clean aesthetic."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "no lies detected",
+    "meaningThai": "พูดจริงหมด ไม่มีเท็จ",
+    "examples": [
+      "No lies detected in that statement.",
+      "You’re right—no lies detected."
+    ]
+  },
+
+  {
+    "id": 191,
+    "word": "soft era",
+    "meaningThai": "ช่วงชีวิตแบบเบา ๆ ชิล ๆ",
+    "examples": ["I’m entering my soft era.", "Her soft era looks peaceful."]
+  },
+  {
+    "id": 192,
+    "word": "chaotic good",
+    "meaningThai": "สับสนวุ่นวายแต่เจตนาดี",
+    "examples": [
+      "He’s chaotic good—messy but kind.",
+      "Your ideas are always chaotic good."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "energy shift",
+    "meaningThai": "บรรยากาศเปลี่ยนทันที",
+    "examples": [
+      "There was an energy shift when he arrived.",
+      "Music change caused an energy shift."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "fumbled",
+    "meaningThai": "ทำพลาด, ทำโอกาสหลุดมือ",
+    "examples": ["He fumbled the bag.", "You had one job and you fumbled!"]
+  },
+  {
+    "id": 195,
+    "word": "slowed era",
+    "meaningThai": "ช่วงที่อยากช้าลง พักผ่อน",
+    "examples": [
+      "I’m in my slowed era this month.",
+      "Slowed era weekends are the best."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "done for",
+    "meaningThai": "แย่แล้ว, จบแล้ว",
+    "examples": [
+      "If we fail this, we’re done for.",
+      "I’m done for if I don’t finish this tonight."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "low-key obsessed",
+    "meaningThai": "ชอบแบบแอบ ๆ แต่ชอบมาก",
+    "examples": [
+      "I’m low-key obsessed with this show.",
+      "She’s low-key obsessed with matcha."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "on brand",
+    "meaningThai": "ตรงคาแรกเตอร์, เข้ากับสไตล์",
+    "examples": [
+      "Wearing black again? So on brand.",
+      "Her reaction is totally on brand."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "petty",
+    "meaningThai": "จุกจิกเกินเหตุ, แกล้งแบบขำ ๆ",
+    "examples": ["Stop being petty.", "She did that out of petty revenge."]
+  },
+  {
+    "id": 200,
+    "word": "canon event",
+    "meaningThai": "เหตุการณ์สำคัญที่ต้องเกิด เพื่อการเติบโต",
+    "examples": [
+      "Failing that exam was my canon event.",
+      "Everyone has their own canon events."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "level 100",
+    "meaningThai": "ขั้นสุด, เก่งมาก",
+    "examples": [
+      "Your editing skills are level 100.",
+      "She’s level 100 in confidence."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "soft spot",
+    "meaningThai": "ชอบเป็นพิเศษ, แพ้ทาง",
+    "examples": [
+      "I have a soft spot for chocolate.",
+      "He’s my soft spot, honestly."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "main quest",
+    "meaningThai": "ภารกิจหลักของชีวิตตอนนี้",
+    "examples": [
+      "Studying is my main quest right now.",
+      "What’s your main quest this week?"
+    ]
+  },
+  {
+    "id": 204,
+    "word": "side quest",
+    "meaningThai": "งานเสริม, สิ่งยิบย่อย",
+    "examples": [
+      "Cleaning my room was a side quest.",
+      "I finished all my side quests today."
+    ]
+  },
+  {
+    "id": 205,
+    "word": "NPC moment",
+    "meaningThai": "โมเมนต์ที่ทำตัวนิ่ง ๆ เหมือนตัวประกอบ",
+    "examples": [
+      "I zoned out—total NPC moment.",
+      "He stood there awkwardly like an NPC."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "main character moment",
+    "meaningThai": "ช่วงเวลาที่โดดเด่น เหมือนตัวเอก",
+    "examples": [
+      "Walking in the rain felt like a main character moment.",
+      "She had a main character moment on stage."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "boosted",
+    "meaningThai": "ดีขึ้นมาก ๆ แบบทันที",
+    "examples": [
+      "That compliment boosted my mood.",
+      "Coffee boosted my energy big time."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "no spoilers",
+    "meaningThai": "ห้ามสปอยล์",
+    "examples": [
+      "No spoilers, I haven't watched it.",
+      "Don’t give spoilers in the chat."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "spin",
+    "meaningThai": "อธิบายเหตุผลแบบสร้างภาพให้ดีขึ้น",
+    "examples": [
+      "He tried to spin the story.",
+      "Nice spin, but we know the truth."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "soft-hearted",
+    "meaningThai": "หัวอ่อน ใจดีมาก",
+    "examples": [
+      "He’s soft-hearted even if he acts tough.",
+      "I’m soft-hearted when it comes to animals."
+    ]
+  },
+
+  {
+    "id": 211,
+    "word": "low-key funny",
+    "meaningThai": "ขำแบบไม่ตั้งใจ",
+    "examples": [
+      "Your comment was low-key funny.",
+      "He’s low-key funny when he’s tired."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "hard launch era",
+    "meaningThai": "ยุคที่เปิดตัวทุกอย่างแบบเต็มที่",
+    "examples": [
+      "New haircut? Hard launch era.",
+      "She’s entering her hard launch era."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "mismatch vibes",
+    "meaningThai": "ไม่เข้ากัน, ขัดกัน",
+    "examples": [
+      "Their outfits have mismatch vibes.",
+      "These colors give mismatch vibes."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "chill pill",
+    "meaningThai": "ใจเย็นลงหน่อย",
+    "examples": [
+      "Take a chill pill, it’s not that serious.",
+      "You need a chill pill after that rant."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "no shade",
+    "meaningThai": "ไม่ได้ว่าอะไรนะ แต่…",
+    "examples": [
+      "No shade, but that outfit is not it.",
+      "No shade, your cooking improved a lot."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "shade",
+    "meaningThai": "แซะเบา ๆ",
+    "examples": ["Was that shade?", "She threw shade during the meeting."]
+  },
+  {
+    "id": 217,
+    "word": "low tolerance",
+    "meaningThai": "ทนไม่ได้ง่าย ๆ",
+    "examples": [
+      "I have low tolerance for noisy places.",
+      "He has low tolerance for drama."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "the moment",
+    "meaningThai": "เป็นจุดเด่นที่สุด ณ ตอนนี้",
+    "examples": [
+      "Your outfit is the moment.",
+      "She’s really the moment right now."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "slump era",
+    "meaningThai": "ช่วงหมดไฟ, ยุคดรอป",
+    "examples": [
+      "I’m low-key in my slump era.",
+      "His slump era is lasting too long."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "revived",
+    "meaningThai": "กลับมามีพลังอีกครั้ง",
+    "examples": ["Matcha revived me.", "Her mood revived after the nap."]
+  },
+
+  {
+    "id": 221,
+    "word": "no energy",
+    "meaningThai": "ไม่มีแรง ไม่มีไฟ",
+    "examples": [
+      "I have no energy today.",
+      "Studying with no energy hits different."
+    ]
+  },
+  {
+    "id": 222,
+    "word": "cozy",
+    "meaningThai": "อบอุ่น สบาย",
+    "examples": ["Your room looks so cozy.", "This vibe is cozy as heck."]
+  },
+  {
+    "id": 223,
+    "word": "low-key cute",
+    "meaningThai": "น่ารักแบบเบา ๆ",
+    "examples": [
+      "Your handwriting is low-key cute.",
+      "That idea is low-key cute."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "boost",
+    "meaningThai": "ทำให้ดีขึ้น เพิ่มพลัง",
+    "examples": ["Music boosts my focus.", "Your message boosted my mood."]
+  },
+  {
+    "id": 225,
+    "word": "over it",
+    "meaningThai": "พอแล้ว เบื่อแล้ว",
+    "examples": ["I’m so over it.", "He seemed over it from the start."]
+  },
+  {
+    "id": 226,
+    "word": "no offense",
+    "meaningThai": "ไม่ได้ว่ากันนะ แต่…",
+    "examples": [
+      "No offense, but that’s not working.",
+      "No offense, your idea needs adjustments."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "touch up vibes",
+    "meaningThai": "แบบเกลานิด ๆ ปรับเบา ๆ",
+    "examples": [
+      "This photo needs touch-up vibes.",
+      "Your room just needs some touch-up vibes."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "in my zone",
+    "meaningThai": "กำลังโฟกัสมาก ๆ",
+    "examples": [
+      "Don’t disturb me—I’m in my zone.",
+      "She’s in her zone when designing."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "lock-in mode",
+    "meaningThai": "โหมดโฟกัสสุดพลัง",
+    "examples": ["I’m in lock-in mode tonight.", "Time to enter lock-in mode."]
+  },
+  {
+    "id": 230,
+    "word": "no context",
+    "meaningThai": "ไม่มีคำอธิบาย แต่เข้าใจได้",
+    "examples": ["No context, just this picture.", "He sent a no-context meme."]
+  },
+
+  {
+    "id": 231,
+    "word": "fresh start",
+    "meaningThai": "เริ่มใหม่ สดชื่นกว่าเดิม",
+    "examples": [
+      "New semester, fresh start.",
+      "Every Monday feels like a fresh start."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "unreal",
+    "meaningThai": "ดีมากจนเหมือนไม่จริง",
+    "examples": ["This view is unreal.", "Your improvement is unreal."]
+  },
+  {
+    "id": 233,
+    "word": "bestie vibes",
+    "meaningThai": "ฟีลเพื่อนสนิท",
+    "examples": [
+      "We got bestie vibes instantly.",
+      "Your energy is giving bestie vibes."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "social reset",
+    "meaningThai": "พักสังคม รีเซ็ตพลัง",
+    "examples": ["I need a social reset.", "Weekend is my social reset time."]
+  },
+  {
+    "id": 235,
+    "word": "plot twist",
+    "meaningThai": "หักมุม",
+    "examples": [
+      "That was a plot twist I didn’t expect.",
+      "You becoming productive? Plot twist!"
+    ]
+  },
+  {
+    "id": 236,
+    "word": "quiet flex",
+    "meaningThai": "อวดแบบสุภาพ ไม่โจ่งแจ้ง",
+    "examples": ["Her room is a quiet flex.", "This setup is a quiet flex."]
+  },
+  {
+    "id": 237,
+    "word": "no pressure",
+    "meaningThai": "ไม่ต้องกดดันนะ",
+    "examples": [
+      "Take your time—no pressure.",
+      "No pressure, but the deadline is tonight."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "peaked",
+    "meaningThai": "ถึงจุดสูงสุดแล้ว",
+    "examples": [
+      "He peaked in high school.",
+      "My productivity peaked this morning."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "vibe lock",
+    "meaningThai": "ล็อกฟีลนี้ไว้เลย ไม่อยากเสีย",
+    "examples": ["This sunset—vibe lock.", "I want to vibe lock this moment."]
+  },
+  {
+    "id": 240,
+    "word": "tiny win",
+    "meaningThai": "ชัยชนะเล็ก ๆ แต่ดีใจมาก",
+    "examples": [
+      "Woke up early today—a tiny win.",
+      "Finished one task, tiny win."
+    ]
+  },
+
+  {
+    "id": 241,
+    "word": "full send",
+    "meaningThai": "ทุ่มสุดตัว ไม่ลังเล",
+    "examples": [
+      "Let’s go full send on this idea.",
+      "He full-sent that presentation."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "brain melting",
+    "meaningThai": "ยากมากจนสมองละลาย",
+    "examples": [
+      "This math problem is brain melting.",
+      "My brain is melting from studying."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "vibe heal",
+    "meaningThai": "ฟีลที่ช่วยเยียวยาจิตใจ",
+    "examples": ["Music is vibe heal today.", "Your message was vibe heal."]
+  },
+  {
+    "id": 244,
+    "word": "spark joy",
+    "meaningThai": "ทำให้มีความสุข",
+    "examples": ["This desk setup sparks joy.", "Her smile sparks joy."]
+  },
+  {
+    "id": 245,
+    "word": "did numbers",
+    "meaningThai": "โคตรดัง, ตัวเลขพุ่ง",
+    "examples": [
+      "Her video did numbers overnight.",
+      "Your post is doing numbers!"
+    ]
+  },
+  {
+    "id": 246,
+    "word": "golden hour",
+    "meaningThai": "ช่วงเวลาสวยที่สุด เหมาะกับรูป",
+    "examples": [
+      "It’s golden hour—take a photo!",
+      "Her skin glows at golden hour."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "photo dump",
+    "meaningThai": "ลงรูปรวม ๆ แบบไม่เรียงลำดับ",
+    "examples": [
+      "Posting a photo dump tonight.",
+      "Her photo dump is aesthetic."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "instant regret",
+    "meaningThai": "เสียดายทันทีที่ทำไป",
+    "examples": [
+      "I ate too much—instant regret.",
+      "He sent the message—instant regret."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "energy check",
+    "meaningThai": "เช็คระดับพลังวันนี้",
+    "examples": ["Energy check: low.", "What’s your energy check today?"]
+  },
+  {
+    "id": 250,
+    "word": "soft glow",
+    "meaningThai": "ฟีลอบอุ่น สดใสแบบเบา ๆ",
+    "examples": [
+      "Your new room has a soft glow.",
+      "The morning light gives a soft glow."
+    ]
+  }
+]

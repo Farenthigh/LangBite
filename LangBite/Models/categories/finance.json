@@ -1,0 +1,2272 @@
+[
+  {
+    "id": 1,
+    "word": "asset",
+    "meaningThai": "สินทรัพย์",
+    "examples": [
+      "A home is considered a long-term asset.",
+      "Investors often diversify their assets to reduce risk."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "liability",
+    "meaningThai": "หนี้สิน ภาระผูกพัน",
+    "examples": [
+      "Her student loan is her biggest liability.",
+      "Companies must report their liabilities on balance sheets."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "equity",
+    "meaningThai": "ส่วนของผู้ถือหุ้น, ทุน",
+    "examples": [
+      "She owns 40% equity in the startup.",
+      "Home equity increases as you pay off your mortgage."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "dividend",
+    "meaningThai": "เงินปันผล",
+    "examples": [
+      "This company pays dividends quarterly.",
+      "Investors love consistent dividend growth."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "inflation",
+    "meaningThai": "เงินเฟ้อ",
+    "examples": [
+      "Inflation reduces the purchasing power of money.",
+      "High inflation often leads to increased living costs."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "deflation",
+    "meaningThai": "เงินฝืด",
+    "examples": [
+      "Deflation can signal a weak economy.",
+      "Prices dropped due to prolonged deflation."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "liquidity",
+    "meaningThai": "สภาพคล่อง",
+    "examples": [
+      "Cash is the most liquid asset.",
+      "Liquidity issues can cause a company to collapse."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "interest rate",
+    "meaningThai": "อัตราดอกเบี้ย",
+    "examples": [
+      "The central bank increased interest rates.",
+      "High interest rates discourage borrowing."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "principal",
+    "meaningThai": "เงินต้น",
+    "examples": [
+      "She paid off the loan principal early.",
+      "Interest is calculated based on the remaining principal."
+    ]
+  },
+  {
+    "id": 10,
+    "word": "credit score",
+    "meaningThai": "คะแนนเครดิต",
+    "examples": [
+      "Your credit score affects your loan approval.",
+      "A higher credit score offers better interest rates."
+    ]
+  },
+
+  {
+    "id": 11,
+    "word": "budget",
+    "meaningThai": "งบประมาณ",
+    "examples": [
+      "Creating a budget helps manage expenses.",
+      "He revised his monthly budget."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "expense",
+    "meaningThai": "ค่าใช้จ่าย",
+    "examples": [
+      "Rent is her highest monthly expense.",
+      "Track your expenses to avoid overspending."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "revenue",
+    "meaningThai": "รายได้",
+    "examples": [
+      "The company's revenue doubled last year.",
+      "Ad revenue is a major income source for creators."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "profit",
+    "meaningThai": "กำไร",
+    "examples": [
+      "The store finally made a profit.",
+      "They reinvested the profit into expansion."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "loss",
+    "meaningThai": "ขาดทุน",
+    "examples": [
+      "The restaurant suffered heavy losses during the pandemic.",
+      "He sold the stock at a loss."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "portfolio",
+    "meaningThai": "พอร์ตการลงทุน",
+    "examples": [
+      "Her portfolio contains stocks and bonds.",
+      "A diversified portfolio reduces risk."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "risk tolerance",
+    "meaningThai": "ระดับความเสี่ยงที่ยอมรับได้",
+    "examples": [
+      "Your risk tolerance determines your investment choices.",
+      "Young investors usually have higher risk tolerance."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "capital gain",
+    "meaningThai": "กำไรจากการขายสินทรัพย์",
+    "examples": [
+      "He paid tax on his capital gains.",
+      "Selling stocks at a higher price generates capital gains."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "capital loss",
+    "meaningThai": "ขาดทุนจากการขายสินทรัพย์",
+    "examples": [
+      "They reported capital losses last year.",
+      "Capital losses can offset taxable gains."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "volatility",
+    "meaningThai": "ความผันผวน",
+    "examples": [
+      "Crypto markets are known for high volatility.",
+      "Volatility increased due to economic uncertainty."
+    ]
+  },
+
+  {
+    "id": 21,
+    "word": "cash flow",
+    "meaningThai": "กระแสเงินสด",
+    "examples": [
+      "Positive cash flow is essential for business survival.",
+      "They struggled with cash flow issues."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "bond",
+    "meaningThai": "พันธบัตร",
+    "examples": [
+      "Government bonds are considered safer investments.",
+      "Bonds provide steady interest income."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "stock",
+    "meaningThai": "หุ้น",
+    "examples": [
+      "She invested in tech stocks.",
+      "Stock prices rose significantly today."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "mutual fund",
+    "meaningThai": "กองทุนรวม",
+    "examples": [
+      "Mutual funds are suitable for beginners.",
+      "They invested in a low-risk mutual fund."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "index fund",
+    "meaningThai": "กองทุนดัชนี",
+    "examples": [
+      "Index funds often have lower fees.",
+      "He prefers index funds for long-term investing."
+    ]
+  },
+  {
+    "id": 26,
+    "word": "exchange rate",
+    "meaningThai": "อัตราแลกเปลี่ยน",
+    "examples": [
+      "The exchange rate fluctuates daily.",
+      "A weak currency affects import prices."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "liquidate",
+    "meaningThai": "แปลงสินทรัพย์เป็นเงินสด",
+    "examples": [
+      "The company liquidated unused equipment.",
+      "He liquidated his stocks during the crisis."
+    ]
+  },
+  {
+    "id": 28,
+    "word": "diversification",
+    "meaningThai": "การกระจายการลงทุน",
+    "examples": [
+      "Diversification reduces risk.",
+      "Most investors diversify across multiple sectors."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "hedge",
+    "meaningThai": "ป้องกันความเสี่ยง",
+    "examples": [
+      "They hedged against currency risk.",
+      "Gold is often used as a hedge against inflation."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "depreciation",
+    "meaningThai": "ค่าเสื่อมราคา",
+    "examples": [
+      "Cars experience fast depreciation.",
+      "Depreciation reduces the asset’s book value."
+    ]
+  },
+
+  {
+    "id": 31,
+    "word": "appreciation",
+    "meaningThai": "มูลค่าเพิ่มขึ้น",
+    "examples": [
+      "Her house saw rapid appreciation.",
+      "Currency appreciation can affect exporters."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "yield",
+    "meaningThai": "ผลตอบแทน",
+    "examples": [
+      "This bond offers a 5% yield.",
+      "Investors compare yields across assets."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "net worth",
+    "meaningThai": "มูลค่าสุทธิ",
+    "examples": [
+      "Her net worth increased significantly.",
+      "Assets minus liabilities equals net worth."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "credit limit",
+    "meaningThai": "วงเงินเครดิต",
+    "examples": [
+      "She reached her credit limit.",
+      "Banks adjust credit limits based on income."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "overdraft",
+    "meaningThai": "เงินเบิกเกินบัญชี",
+    "examples": [
+      "He paid fees for overdraft protection.",
+      "The account went into overdraft."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "installment",
+    "meaningThai": "ผ่อนชำระ",
+    "examples": [
+      "She paid for the laptop in installments.",
+      "Installment plans make large purchases easier."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "bankrupt",
+    "meaningThai": "ล้มละลาย",
+    "examples": [
+      "The company went bankrupt after heavy losses.",
+      "Poor planning can lead to bankruptcy."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "audit",
+    "meaningThai": "ตรวจสอบบัญชี",
+    "examples": [
+      "The firm conducts annual audits.",
+      "They hired an auditor to review the books."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "forecast",
+    "meaningThai": "คาดการณ์",
+    "examples": [
+      "Analysts forecast steady growth.",
+      "They forecast a decline in revenues."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "insolvency",
+    "meaningThai": "ภาวะไม่สามารถชำระหนี้ได้",
+    "examples": [
+      "The company faced insolvency last year.",
+      "Insolvency occurs when liabilities exceed assets."
+    ]
+  },
+
+  {
+    "id": 41,
+    "word": "leverage",
+    "meaningThai": "การใช้หนี้เพื่อเพิ่มผลตอบแทน",
+    "examples": [
+      "High leverage increases risk.",
+      "Businesses use leverage to expand operations."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "liquid asset",
+    "meaningThai": "สินทรัพย์ที่เปลี่ยนเป็นเงินสดได้ง่าย",
+    "examples": [
+      "Cash is the most liquid asset.",
+      "Real estate is less liquid."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "amortization",
+    "meaningThai": "การตัดค่าใช้จ่ายตามอายุของสินทรัพย์",
+    "examples": [
+      "They calculated amortization for their loan.",
+      "Amortization spreads cost over time."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "underwriting",
+    "meaningThai": "การรับประกันความเสี่ยง",
+    "examples": [
+      "Banks profit from underwriting fees.",
+      "Underwriting determines loan approval."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "liquidation",
+    "meaningThai": "การชำระบัญชี/ขายสินทรัพย์",
+    "examples": [
+      "The store held a liquidation sale.",
+      "Liquidation occurs during bankruptcy."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "bear market",
+    "meaningThai": "ตลาดขาลง",
+    "examples": [
+      "Investors fear a bear market.",
+      "Bear markets test emotional discipline."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "bull market",
+    "meaningThai": "ตลาดขาขึ้น",
+    "examples": [
+      "A bull market attracts new investors.",
+      "Stock prices soared during the bull market."
+    ]
+  },
+  {
+    "id": 48,
+    "word": "blue chip",
+    "meaningThai": "หุ้นขนาดใหญ่ที่มั่นคง",
+    "examples": [
+      "Blue chip stocks are considered safer.",
+      "Many portfolios include blue chip companies."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "blockchain",
+    "meaningThai": "เทคโนโลยีบล็อกเชน",
+    "examples": [
+      "Blockchain enables secure transactions.",
+      "Crypto relies heavily on blockchain technology."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "cryptocurrency",
+    "meaningThai": "สกุลเงินดิจิทัล",
+    "examples": [
+      "Bitcoin is the most well-known cryptocurrency.",
+      "Cryptocurrency prices fluctuate rapidly."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "debt",
+    "meaningThai": "หนี้สิน",
+    "examples": [
+      "He is trying to pay off his debt.",
+      "Too much debt can hurt your credit score."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "credit",
+    "meaningThai": "เครดิต, สินเชื่อ",
+    "examples": [
+      "Good credit helps you get better loan rates.",
+      "She applied for a new line of credit."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "mortgage",
+    "meaningThai": "เงินกู้ซื้อบ้าน",
+    "examples": [
+      "Their mortgage rate is fixed for 30 years.",
+      "She pays her mortgage every month."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "interest",
+    "meaningThai": "ดอกเบี้ย",
+    "examples": [
+      "Your loan interest is calculated daily.",
+      "High interest can make loans more expensive."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "debit",
+    "meaningThai": "เดบิต (การถอนเงิน)",
+    "examples": [
+      "The store accepts both debit and credit cards.",
+      "A debit card pulls money directly from your account."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "withdrawal",
+    "meaningThai": "การถอนเงิน",
+    "examples": [
+      "ATM withdrawals have daily limits.",
+      "He made a withdrawal from his savings account."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "deposit",
+    "meaningThai": "ฝากเงิน",
+    "examples": [
+      "She deposited her paycheck today.",
+      "A security deposit is required for rental."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "savings",
+    "meaningThai": "เงินออม",
+    "examples": [
+      "It's smart to build emergency savings.",
+      "They keep their savings in a high-yield account."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "balance",
+    "meaningThai": "ยอดคงเหลือ",
+    "examples": [
+      "Your account balance is low.",
+      "She checked her card balance online."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "transaction",
+    "meaningThai": "ธุรกรรม",
+    "examples": [
+      "Online transactions are convenient.",
+      "The bank flagged a suspicious transaction."
+    ]
+  },
+
+  {
+    "id": 61,
+    "word": "statement",
+    "meaningThai": "ใบแจ้งยอด",
+    "examples": [
+      "Your monthly statement is ready to download.",
+      "He reviewed his credit card statement."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "fee",
+    "meaningThai": "ค่าธรรมเนียม",
+    "examples": [
+      "The bank charges a service fee.",
+      "ATM fees can add up quickly."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "transfer",
+    "meaningThai": "โอนเงิน",
+    "examples": [
+      "She transferred money to her mother.",
+      "Bank transfers may take a few days."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "fund",
+    "meaningThai": "กองทุน, เงินทุน",
+    "examples": [
+      "He invested in a retirement fund.",
+      "The fund aims for steady long-term growth."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "income",
+    "meaningThai": "รายได้",
+    "examples": [
+      "Her monthly income increased.",
+      "Passive income can come from investments."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "expenditure",
+    "meaningThai": "รายจ่าย",
+    "examples": [
+      "Government expenditure is rising.",
+      "Track your expenditure to manage money well."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "invoice",
+    "meaningThai": "ใบแจ้งหนี้",
+    "examples": [
+      "He sent an invoice for the project.",
+      "Please pay the invoice within 30 days."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "gross",
+    "meaningThai": "รวมทั้งหมด (ก่อนหักค่าใช้จ่าย)",
+    "examples": [
+      "Her gross salary is $4,000 per month.",
+      "Gross income doesn’t include taxes."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "net",
+    "meaningThai": "สุทธิ (หลังหักค่าใช้จ่าย)",
+    "examples": [
+      "Her net salary is $3,200.",
+      "Net profit is revenue minus expenses."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "asset allocation",
+    "meaningThai": "การจัดสรรสินทรัพย์",
+    "examples": [
+      "Asset allocation depends on risk tolerance.",
+      "A good portfolio requires proper asset allocation."
+    ]
+  },
+
+  {
+    "id": 71,
+    "word": "return",
+    "meaningThai": "ผลตอบแทน",
+    "examples": [
+      "This investment gives a 7% annual return.",
+      "Returns vary depending on market conditions."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "ROI",
+    "meaningThai": "ผลตอบแทนการลงทุน",
+    "examples": [
+      "They calculated the ROI before investing.",
+      "A high ROI indicates a good investment."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "liquidation value",
+    "meaningThai": "มูลค่าหลังชำระบัญชี",
+    "examples": [
+      "Liquidation value is usually lower than market value.",
+      "Banks consider liquidation value for collateral."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "collateral",
+    "meaningThai": "หลักประกัน (เงินกู้)",
+    "examples": [
+      "He used his car as collateral for the loan.",
+      "Banks require collateral for large loans."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "leverage ratio",
+    "meaningThai": "อัตราส่วนหนี้ต่อทุน",
+    "examples": [
+      "A high leverage ratio indicates high risk.",
+      "Investors analyze leverage ratios before buying stocks."
+    ]
+  },
+  {
+    "id": 76,
+    "word": "asset bubble",
+    "meaningThai": "ฟองสบู่สินทรัพย์",
+    "examples": [
+      "Housing markets may form asset bubbles.",
+      "Asset bubbles burst when prices drop sharply."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "market capitalization",
+    "meaningThai": "มูลค่าตลาดรวมของบริษัท",
+    "examples": [
+      "Apple has one of the highest market capitalizations.",
+      "Market cap helps classify company size."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "derivative",
+    "meaningThai": "ตราสารอนุพันธ์",
+    "examples": [
+      "Derivatives are used to hedge risks.",
+      "Options and futures are common derivatives."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "option",
+    "meaningThai": "ออปชั่น (สิทธิในการซื้อขาย)",
+    "examples": [
+      "He bought call options on Tesla.",
+      "Options trading requires knowledge and caution."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "futures",
+    "meaningThai": "สัญญาซื้อขายล่วงหน้า",
+    "examples": [
+      "Oil futures fell sharply today.",
+      "Futures allow traders to speculate on prices."
+    ]
+  },
+
+  {
+    "id": 81,
+    "word": "liquid staking",
+    "meaningThai": "การสเตคเหรียญแบบถอนสภาพคล่องได้",
+    "examples": [
+      "Liquid staking offers more flexibility.",
+      "He earned passive income through liquid staking."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "decentralized finance",
+    "meaningThai": "การเงินแบบกระจายศูนย์ (DeFi)",
+    "examples": [
+      "DeFi allows peer-to-peer transactions.",
+      "Many crypto users prefer decentralized finance."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "smart contract",
+    "meaningThai": "สัญญาอัจฉริยะ",
+    "examples": [
+      "Smart contracts automate financial agreements.",
+      "Ethereum popularized smart contracts."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "stablecoin",
+    "meaningThai": "เหรียญคริปโตที่ตรึงมูลค่า",
+    "examples": [
+      "Stablecoins reduce volatility for traders.",
+      "USDT is the most widely used stablecoin."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "staking",
+    "meaningThai": "การล็อกเหรียญเพื่อรับผลตอบแทน",
+    "examples": [
+      "He earns passive income by staking crypto.",
+      "Staking rewards vary by network."
+    ]
+  },
+  {
+    "id": 86,
+    "word": "gas fee",
+    "meaningThai": "ค่าธรรมเนียมธุรกรรมในบล็อกเชน",
+    "examples": [
+      "Gas fees are high during network congestion.",
+      "Ethereum users pay gas fees for transactions."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "bearish",
+    "meaningThai": "มุมมองว่าราคาจะลง",
+    "examples": [
+      "Investors turned bearish after the news.",
+      "A bearish trend continued for weeks."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "bullish",
+    "meaningThai": "มุมมองว่าราคาจะขึ้น",
+    "examples": [
+      "Analysts are bullish on tech stocks.",
+      "A bullish market attracts new investors."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "tokenomics",
+    "meaningThai": "โทเคโนมิกส์ (โครงสร้างเศรษฐกิจของเหรียญ)",
+    "examples": [
+      "Tokenomics determine long-term value.",
+      "Investors analyze tokenomics before buying crypto."
+    ]
+  },
+  {
+    "id": 90,
+    "word": "rebalance",
+    "meaningThai": "ปรับสัดส่วนพอร์ต",
+    "examples": [
+      "He rebalanced his portfolio quarterly.",
+      "Rebalancing keeps your risk profile stable."
+    ]
+  },
+
+  {
+    "id": 91,
+    "word": "short selling",
+    "meaningThai": "การขายชอร์ต",
+    "examples": [
+      "Short selling profits from falling prices.",
+      "The fund used short selling to hedge risk."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "insider trading",
+    "meaningThai": "การซื้อขายโดยใช้ข้อมูลวงใน",
+    "examples": [
+      "Insider trading is illegal.",
+      "He was arrested for insider trading."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "valuation",
+    "meaningThai": "การประเมินมูลค่า",
+    "examples": [
+      "The valuation of the startup soared.",
+      "Analysts questioned the company's valuation."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "market sentiment",
+    "meaningThai": "ความรู้สึกของตลาด",
+    "examples": [
+      "Market sentiment turned negative.",
+      "News can shift market sentiment quickly."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "interest margin",
+    "meaningThai": "ส่วนต่างดอกเบี้ย",
+    "examples": [
+      "Banks earn profit from interest margin.",
+      "A shrinking interest margin affects revenue."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "benchmark",
+    "meaningThai": "ตัวชี้วัดมาตรฐาน",
+    "examples": [
+      "They compared performance against a benchmark.",
+      "S&P 500 is a common benchmark."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "cash equivalent",
+    "meaningThai": "สินทรัพย์เทียบเท่าเงินสด",
+    "examples": [
+      "Money market funds are cash equivalents.",
+      "Companies keep cash equivalents for emergencies."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "ETF",
+    "meaningThai": "กองทุน ETF",
+    "examples": [
+      "ETFs offer low fees and diversification.",
+      "He invests in a technology-focused ETF."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "inflation rate",
+    "meaningThai": "อัตราเงินเฟ้อ",
+    "examples": [
+      "The inflation rate hit a 10-year high.",
+      "Rising inflation rates affect savings."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "credit risk",
+    "meaningThai": "ความเสี่ยงด้านเครดิต",
+    "examples": [
+      "Banks evaluate credit risk before lending.",
+      "High credit risk leads to higher interest rates."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "default",
+    "meaningThai": "ผิดนัดชำระหนี้",
+    "examples": [
+      "The company defaulted on its loan.",
+      "Defaulting on debt harms your credit score."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "creditworthiness",
+    "meaningThai": "ความน่าเชื่อถือทางการเงิน",
+    "examples": [
+      "Banks check your creditworthiness before approving loans.",
+      "High creditworthiness leads to better loan terms."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "cash reserve",
+    "meaningThai": "เงินสำรอง",
+    "examples": [
+      "Companies maintain cash reserves for emergencies.",
+      "A healthy cash reserve increases financial stability."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "overhead",
+    "meaningThai": "ค่าใช้จ่ายในการดำเนินงาน",
+    "examples": [
+      "The store reduced overhead to improve profit.",
+      "High overhead costs hurt small businesses."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "inflation hedge",
+    "meaningThai": "สินทรัพย์ป้องกันเงินเฟ้อ",
+    "examples": [
+      "Gold is a traditional inflation hedge.",
+      "Real estate often acts as an inflation hedge."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "bank run",
+    "meaningThai": "ภาวะประชาชนแห่ถอนเงิน",
+    "examples": [
+      "A rumor caused a sudden bank run.",
+      "Bank runs can lead to financial crises."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "compound interest",
+    "meaningThai": "ดอกเบี้ยทบต้น",
+    "examples": [
+      "Compound interest grows your savings faster.",
+      "Invest early to benefit from compound interest."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "money laundering",
+    "meaningThai": "การฟอกเงิน",
+    "examples": [
+      "The bank tightened rules to prevent money laundering.",
+      "He was arrested for money laundering activities."
+    ]
+  },
+  {
+    "id": 109,
+    "word": "tax deduction",
+    "meaningThai": "การหักลดหย่อนภาษี",
+    "examples": [
+      "Donations may qualify for tax deductions.",
+      "They claimed several tax deductions this year."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "tax bracket",
+    "meaningThai": "ช่วงอัตราภาษี",
+    "examples": [
+      "A higher income may place you in a new tax bracket.",
+      "Check which tax bracket you belong to."
+    ]
+  },
+
+  {
+    "id": 111,
+    "word": "capital structure",
+    "meaningThai": "โครงสร้างเงินทุน",
+    "examples": [
+      "A balanced capital structure reduces financial risk.",
+      "They adjusted their capital structure by issuing bonds."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "underperform",
+    "meaningThai": "ให้ผลตอบแทนต่ำกว่าตลาด",
+    "examples": [
+      "The fund underperformed this quarter.",
+      "Tech stocks underperformed due to market pressure."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "outperform",
+    "meaningThai": "ให้ผลตอบแทนสูงกว่าตลาด",
+    "examples": [
+      "Energy stocks outperformed expectations.",
+      "The company continues to outperform competitors."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "buyback",
+    "meaningThai": "การซื้อหุ้นคืน",
+    "examples": [
+      "The company announced a stock buyback.",
+      "Buybacks often increase share prices."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "expense ratio",
+    "meaningThai": "อัตราค่าใช้จ่ายของกองทุน",
+    "examples": [
+      "Index funds typically have low expense ratios.",
+      "A high expense ratio reduces long-term returns."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "market liquidity",
+    "meaningThai": "สภาพคล่องของตลาด",
+    "examples": [
+      "High market liquidity allows faster trades.",
+      "Market liquidity dropped during the crisis."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "macroeconomics",
+    "meaningThai": "เศรษฐศาสตร์มหภาค",
+    "examples": [
+      "Macroeconomics examines national economic trends.",
+      "Inflation and GDP are key macroeconomic indicators."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "microeconomics",
+    "meaningThai": "เศรษฐศาสตร์จุลภาค",
+    "examples": [
+      "Microeconomics studies individual decision-making.",
+      "Supply and demand are core microeconomic concepts."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "supply chain",
+    "meaningThai": "ห่วงโซ่อุปทาน",
+    "examples": [
+      "Supply chain disruptions raised prices.",
+      "They improved supply chain efficiency."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "recession",
+    "meaningThai": "ภาวะเศรษฐกิจถดถอย",
+    "examples": [
+      "Many businesses closed during the recession.",
+      "A recession leads to reduced consumer spending."
+    ]
+  },
+
+  {
+    "id": 121,
+    "word": "economic boom",
+    "meaningThai": "เศรษฐกิจเติบโตอย่างรวดเร็ว",
+    "examples": [
+      "The country experienced an economic boom.",
+      "Boom periods often lead to higher investment."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "GDP",
+    "meaningThai": "ผลิตภัณฑ์มวลรวมภายในประเทศ",
+    "examples": [
+      "GDP growth slowed last quarter.",
+      "Higher GDP indicates a stronger economy."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "fiscal policy",
+    "meaningThai": "นโยบายการคลัง",
+    "examples": [
+      "The government introduced new fiscal policies.",
+      "Fiscal policy affects unemployment rates."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "monetary policy",
+    "meaningThai": "นโยบายการเงิน",
+    "examples": [
+      "The central bank uses monetary policy to control inflation.",
+      "Interest rates are part of monetary policy."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "asset management",
+    "meaningThai": "การบริหารสินทรัพย์",
+    "examples": [
+      "They hired an asset management firm.",
+      "Asset management optimizes portfolio returns."
+    ]
+  },
+  {
+    "id": 126,
+    "word": "cost basis",
+    "meaningThai": "ราคาทุน",
+    "examples": [
+      "Your cost basis determines capital gains.",
+      "He tracked his cost basis for each stock."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "market correction",
+    "meaningThai": "การปรับฐานตลาด",
+    "examples": [
+      "A 10% drop is considered a market correction.",
+      "Corrections often create buying opportunities."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "asset-backed security",
+    "meaningThai": "หลักทรัพย์ที่มีสินทรัพย์ค้ำประกัน",
+    "examples": [
+      "Banks issue asset-backed securities.",
+      "ABS provide investors with stable income."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "credit crunch",
+    "meaningThai": "ภาวะสินเชื่อหดตัว",
+    "examples": [
+      "Businesses struggled during the credit crunch.",
+      "Credit crunches reduce borrowing and spending."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "margin call",
+    "meaningThai": "คำสั่งเติมเงินค้ำประกัน",
+    "examples": [
+      "He received a margin call after his stocks fell.",
+      "Margin calls occur during high volatility."
+    ]
+  },
+
+  {
+    "id": 131,
+    "word": "brokerage",
+    "meaningThai": "โบรกเกอร์/บริษัทนายหน้า",
+    "examples": [
+      "She opened an account with a new brokerage.",
+      "Brokerage fees have decreased in recent years."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "spread",
+    "meaningThai": "ส่วนต่างราคาเสนอซื้อและขาย",
+    "examples": [
+      "A narrow spread indicates high liquidity.",
+      "Traders monitor spreads during volatile markets."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "market maker",
+    "meaningThai": "ผู้ดูแลสภาพคล่องในตลาด",
+    "examples": [
+      "Market makers quote buy and sell prices.",
+      "They ensure liquidity for traders."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "arbitrage",
+    "meaningThai": "การเก็งกำไรจากส่วนต่างราคา",
+    "examples": [
+      "Arbitrage traders exploit price differences.",
+      "Crypto arbitrage opportunities appear often."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "capital market",
+    "meaningThai": "ตลาดทุน",
+    "examples": [
+      "Capital markets connect investors and businesses.",
+      "The capital market saw heavy activity today."
+    ]
+  },
+  {
+    "id": 136,
+    "word": "money market",
+    "meaningThai": "ตลาดเงิน",
+    "examples": [
+      "Money markets involve short-term debt.",
+      "Money market funds are low-risk investments."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "credit cycle",
+    "meaningThai": "วัฏจักรสินเชื่อ",
+    "examples": [
+      "The credit cycle affects borrowing costs.",
+      "Economies move through different credit cycles."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "financial literacy",
+    "meaningThai": "ความรู้ทางการเงิน",
+    "examples": [
+      "Financial literacy helps avoid debt.",
+      "Schools should teach financial literacy."
+    ]
+  },
+  {
+    "id": 139,
+    "word": "economic indicator",
+    "meaningThai": "ตัวชี้วัดเศรษฐกิจ",
+    "examples": [
+      "Unemployment rate is a key economic indicator.",
+      "Indicators suggest slow economic growth."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "asset turnover",
+    "meaningThai": "อัตราการหมุนเวียนสินทรัพย์",
+    "examples": [
+      "High asset turnover indicates efficiency.",
+      "Retailers usually have high asset turnover."
+    ]
+  },
+
+  {
+    "id": 141,
+    "word": "cash burn rate",
+    "meaningThai": "อัตราการใช้เงินสด",
+    "examples": [
+      "Startups must monitor their burn rate.",
+      "A high burn rate shortens runway."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "runway",
+    "meaningThai": "ระยะเวลาที่กิจการจะอยู่รอดด้วยเงินสดที่มี",
+    "examples": [
+      "The startup has a 12-month runway.",
+      "Fundraising extended their runway."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "cash surplus",
+    "meaningThai": "เงินสดส่วนเกิน",
+    "examples": [
+      "They invested their cash surplus.",
+      "A cash surplus indicates strong finances."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "cost of capital",
+    "meaningThai": "ต้นทุนเงินทุน",
+    "examples": [
+      "Lower cost of capital encourages expansion.",
+      "Investors calculate cost of capital carefully."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "discount rate",
+    "meaningThai": "อัตราคิดลด",
+    "examples": [
+      "Future cash flows are valued using a discount rate.",
+      "Higher discount rates reduce present value."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "present value",
+    "meaningThai": "มูลค่าปัจจุบัน",
+    "examples": [
+      "They calculated the present value of returns.",
+      "Present value helps compare investment options."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "future value",
+    "meaningThai": "มูลค่าในอนาคต",
+    "examples": [
+      "Compound interest boosts future value.",
+      "Future value estimates depend on interest rates."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "credit limit",
+    "meaningThai": "วงเงินสินเชื่อ",
+    "examples": [
+      "She requested a higher credit limit.",
+      "Banks adjust credit limits based on spending history."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "overvalued",
+    "meaningThai": "มูลค่าสูงเกินจริง",
+    "examples": [
+      "Analysts believe the stock is overvalued.",
+      "An overvalued market may correct soon."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "undervalued",
+    "meaningThai": "มูลค่าต่ำกว่าความเป็นจริง",
+    "examples": [
+      "Many investors search for undervalued stocks.",
+      "The stock appears undervalued after the decline."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "diversified portfolio",
+    "meaningThai": "พอร์ตการลงทุนที่กระจายความเสี่ยง",
+    "examples": [
+      "A diversified portfolio protects you during downturns.",
+      "She maintains a diversified portfolio of stocks and bonds."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "emergency fund",
+    "meaningThai": "กองทุนฉุกเฉิน",
+    "examples": [
+      "Everyone should maintain an emergency fund.",
+      "An emergency fund covers unexpected expenses."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "market volatility",
+    "meaningThai": "ความผันผวนของตลาด",
+    "examples": [
+      "Market volatility increased after the announcement.",
+      "Volatility creates both risks and opportunities."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "dividend yield",
+    "meaningThai": "อัตราผลตอบแทนเงินปันผล",
+    "examples": [
+      "This stock has a 4% dividend yield.",
+      "Investors compare dividend yields across sectors."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "expense forecast",
+    "meaningThai": "การคาดการณ์ค่าใช้จ่าย",
+    "examples": [
+      "They created an expense forecast for next year.",
+      "Accurate expense forecasts help budgeting."
+    ]
+  },
+  {
+    "id": 156,
+    "word": "cash position",
+    "meaningThai": "ปริมาณเงินสดที่มีอยู่",
+    "examples": [
+      "The company improved its cash position.",
+      "A strong cash position reduces financial risk."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "credit utilization",
+    "meaningThai": "สัดส่วนการใช้เครดิต",
+    "examples": [
+      "Lower credit utilization boosts credit scores.",
+      "Keep credit utilization under 30%."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "blue ocean strategy",
+    "meaningThai": "กลยุทธ์ตลาดใหม่ที่ไม่มีคู่แข่ง",
+    "examples": [
+      "The startup used a blue ocean strategy to succeed.",
+      "Blue ocean strategies create new demand."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "write-off",
+    "meaningThai": "ตัดหนี้สูญหรือค่าใช้จ่ายที่หักลดหย่อนได้",
+    "examples": [
+      "They wrote off bad debt from last year.",
+      "Some expenses are eligible for tax write-offs."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "credit facility",
+    "meaningThai": "วงเงินสินเชื่อ",
+    "examples": [
+      "The bank approved a new credit facility.",
+      "Companies use credit facilities for cash flow needs."
+    ]
+  },
+
+  {
+    "id": 161,
+    "word": "asset-backed loan",
+    "meaningThai": "สินเชื่อที่มีสินทรัพย์ค้ำประกัน",
+    "examples": [
+      "He applied for an asset-backed loan.",
+      "Banks prefer asset-backed loans due to lower risk."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "credit bureau",
+    "meaningThai": "เครดิตบูโร",
+    "examples": [
+      "The credit bureau tracks loan history.",
+      "They requested a report from the credit bureau."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "day trading",
+    "meaningThai": "การเทรดรายวัน",
+    "examples": [
+      "Day trading requires quick decisions.",
+      "She doesn't recommend day trading for beginners."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "swing trading",
+    "meaningThai": "การเทรดแบบเก็งกำไรระยะสั้น",
+    "examples": [
+      "He prefers swing trading over long-term investing.",
+      "Swing traders look for short-term price movements."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "value investing",
+    "meaningThai": "การลงทุนแบบเน้นคุณค่า",
+    "examples": [
+      "Warren Buffett is famous for value investing.",
+      "Value investing focuses on undervalued companies."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "growth investing",
+    "meaningThai": "การลงทุนในบริษัทเติบโต",
+    "examples": [
+      "Growth investing targets high-potential companies.",
+      "Tech stocks are common in growth investing."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "asset reallocation",
+    "meaningThai": "การปรับโครงสร้างพอร์ต",
+    "examples": [
+      "They reallocated assets after the market shift.",
+      "Asset reallocation helps maintain risk balance."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "economic downturn",
+    "meaningThai": "เศรษฐกิจตกต่ำ",
+    "examples": [
+      "Businesses closed during the economic downturn.",
+      "Downturns reduce consumer spending."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "capital injection",
+    "meaningThai": "การอัดฉีดเงินทุน",
+    "examples": [
+      "The startup received a capital injection from investors.",
+      "Capital injections help struggling firms survive."
+    ]
+  },
+  {
+    "id": 170,
+    "word": "liquidity crunch",
+    "meaningThai": "ภาวะขาดสภาพคล่อง",
+    "examples": [
+      "They faced a liquidity crunch during the crisis.",
+      "Liquidity crunches force companies to borrow."
+    ]
+  },
+
+  {
+    "id": 171,
+    "word": "earnings report",
+    "meaningThai": "รายงานผลประกอบการ",
+    "examples": [
+      "The company’s earnings report surprised investors.",
+      "Stock prices reacted to the earnings report."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "EBITDA",
+    "meaningThai": "กำไรก่อนหักดอกเบี้ย ภาษี ค่าเสื่อมและค่าตัดจำหน่าย",
+    "examples": [
+      "EBITDA rose sharply last quarter.",
+      "Investors use EBITDA to measure profitability."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "price-to-earnings ratio",
+    "meaningThai": "อัตราส่วนราคาต่อกำไร (P/E)",
+    "examples": [
+      "The P/E ratio helps value stocks.",
+      "High P/E ratios indicate expected growth."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "dividend payout ratio",
+    "meaningThai": "อัตราการจ่ายเงินปันผล",
+    "examples": [
+      "A low payout ratio means more reinvestment.",
+      "High payout ratios may not be sustainable."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "beta",
+    "meaningThai": "เบต้า (ความผันผวนเทียบตลาด)",
+    "examples": [
+      "A beta above 1 means higher volatility.",
+      "Investors avoid high-beta stocks during downturns."
+    ]
+  },
+  {
+    "id": 176,
+    "word": "market index",
+    "meaningThai": "ดัชนีตลาด",
+    "examples": [
+      "The market index fell 2% today.",
+      "Indexes represent overall market performance."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "market depth",
+    "meaningThai": "ความลึกของตลาด",
+    "examples": [
+      "Market depth affects order execution.",
+      "Shallow market depth increases price swings."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "asset liability management",
+    "meaningThai": "การบริหารสินทรัพย์และหนี้สิน",
+    "examples": [
+      "Banks rely heavily on asset liability management.",
+      "ALM helps avoid liquidity problems."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "coupon rate",
+    "meaningThai": "อัตราดอกเบี้ยของพันธบัตร",
+    "examples": [
+      "The bond has a coupon rate of 3%.",
+      "Higher coupon rates attract investors."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "maturity date",
+    "meaningThai": "วันครบกำหนดชำระ",
+    "examples": [
+      "The bond reaches maturity in 2030.",
+      "Investors receive principal on the maturity date."
+    ]
+  },
+
+  {
+    "id": 181,
+    "word": "credit default swap",
+    "meaningThai": "สัญญาแลกเปลี่ยนความเสี่ยงจากการผิดนัดชำระหนี้",
+    "examples": [
+      "CDS spreads widened during the crisis.",
+      "Credit default swaps protect bondholders."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "liquidation preference",
+    "meaningThai": "สิทธิในการได้รับเงินคืนก่อนในการชำระบัญชี",
+    "examples": [
+      "Investors negotiated liquidation preference terms.",
+      "Preferred shareholders often have liquidation preference."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "promissory note",
+    "meaningThai": "ตั๋วสัญญาใช้เงิน",
+    "examples": [
+      "He signed a promissory note for the loan.",
+      "Promissory notes specify repayment terms."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "escrow",
+    "meaningThai": "บัญชีกลาง/ตัวกลางถือเงินไว้ก่อน",
+    "examples": [
+      "Payments are held in escrow until completion.",
+      "Escrow protects both buyers and sellers."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "asset freeze",
+    "meaningThai": "การอายัดทรัพย์สิน",
+    "examples": [
+      "Authorities ordered an asset freeze.",
+      "An asset freeze prevents funds from being moved."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "yield curve",
+    "meaningThai": "เส้นผลตอบแทนพันธบัตร",
+    "examples": [
+      "The yield curve inverted for the first time in years.",
+      "An inverted yield curve signals a recession."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "sovereign debt",
+    "meaningThai": "หนี้สาธารณะ/หนี้รัฐบาล",
+    "examples": [
+      "The country struggles with rising sovereign debt.",
+      "Sovereign debt crises can destabilize regions."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "fiscal deficit",
+    "meaningThai": "การขาดดุลงบประมาณ",
+    "examples": [
+      "Large fiscal deficits concern economists.",
+      "The government reported a fiscal deficit again."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "surplus budget",
+    "meaningThai": "งบประมาณเกินดุล",
+    "examples": [
+      "A surplus budget allows more investments.",
+      "They achieved a surplus budget this year."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "consumer confidence",
+    "meaningThai": "ความเชื่อมั่นผู้บริโภค",
+    "examples": [
+      "Consumer confidence rose after wage increases.",
+      "Low consumer confidence affects spending."
+    ]
+  },
+
+  {
+    "id": 191,
+    "word": "currency depreciation",
+    "meaningThai": "ค่าเงินอ่อนค่า",
+    "examples": [
+      "Currency depreciation increases import prices.",
+      "Investors responded to the rapid depreciation."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "currency appreciation",
+    "meaningThai": "ค่าเงินแข็งค่า",
+    "examples": [
+      "Currency appreciation helps reduce inflation.",
+      "A strong currency affects exports."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "trade deficit",
+    "meaningThai": "ดุลการค้าขาดดุล",
+    "examples": [
+      "The trade deficit widened this year.",
+      "A trade deficit occurs when imports exceed exports."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "trade surplus",
+    "meaningThai": "ดุลการค้าเกินดุล",
+    "examples": [
+      "The country reported a trade surplus.",
+      "Trade surpluses strengthen the economy."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "economic stimulus",
+    "meaningThai": "มาตรการกระตุ้นเศรษฐกิจ",
+    "examples": [
+      "The government approved an economic stimulus package.",
+      "Stimulus measures aim to increase spending."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "subprime loan",
+    "meaningThai": "สินเชื่อความเสี่ยงสูง",
+    "examples": [
+      "Subprime loans contributed to the 2008 crisis.",
+      "Banks tightened rules on subprime lending."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "toxic asset",
+    "meaningThai": "สินทรัพย์เสี่ยงสูง/ด้อยค่า",
+    "examples": [
+      "Toxic assets caused major losses for banks.",
+      "The firm tried to unload toxic assets."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "fiscal cliff",
+    "meaningThai": "ภาวะการเงินเสี่ยงสูงจากมาตรการภาษี/งบประมาณ",
+    "examples": [
+      "Economists warned of an approaching fiscal cliff.",
+      "Avoiding the fiscal cliff required urgent action."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "quantitative easing",
+    "meaningThai": "มาตรการผ่อนคลายเชิงปริมาณ (QE)",
+    "examples": [
+      "The central bank launched quantitative easing.",
+      "QE injects liquidity into the economy."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "hyperinflation",
+    "meaningThai": "เงินเฟ้อรุนแรง",
+    "examples": [
+      "Hyperinflation destroyed the currency's value.",
+      "Countries facing hyperinflation often adopt foreign currencies."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "arbitration",
+    "meaningThai": "อนุญาโตตุลาการ, การไกล่เกลี่ยข้อพิพาททางการเงิน",
+    "examples": [
+      "The contract requires disputes to go through arbitration.",
+      "Arbitration is often faster than court proceedings."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "buying power",
+    "meaningThai": "กำลังซื้อ",
+    "examples": [
+      "Inflation reduces buying power over time.",
+      "Consumers have more buying power when wages rise."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "capital allocation",
+    "meaningThai": "การจัดสรรเงินทุน",
+    "examples": [
+      "Smart capital allocation boosts long-term growth.",
+      "The CEO discussed capital allocation strategies."
+    ]
+  },
+  {
+    "id": 204,
+    "word": "consumer debt",
+    "meaningThai": "หนี้ผู้บริโภค",
+    "examples": [
+      "Consumer debt reached record highs.",
+      "High consumer debt can slow economic growth."
+    ]
+  },
+  {
+    "id": 205,
+    "word": "corporate bond",
+    "meaningThai": "พันธบัตรบริษัท",
+    "examples": [
+      "Corporate bonds offer higher yields than government bonds.",
+      "The company issued new corporate bonds."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "credit freeze",
+    "meaningThai": "การอายัดข้อมูลเครดิต",
+    "examples": [
+      "He put a credit freeze to prevent identity theft.",
+      "A credit freeze restricts lenders from accessing your report."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "credit spread",
+    "meaningThai": "ส่วนต่างอัตราดอกเบี้ยตามความเสี่ยง",
+    "examples": [
+      "Widening credit spreads indicate rising risk.",
+      "Investors monitor credit spreads closely."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "discount window",
+    "meaningThai": "หน้าต่างกู้เงินของธนาคารกลาง",
+    "examples": [
+      "Banks borrowed from the discount window during the crisis.",
+      "The discount window provides emergency liquidity."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "economic bubble",
+    "meaningThai": "ฟองสบู่เศรษฐกิจ",
+    "examples": [
+      "The housing bubble burst in 2008.",
+      "Economic bubbles form when prices exceed real value."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "fiat currency",
+    "meaningThai": "สกุลเงินที่รัฐบาลประกาศใช้",
+    "examples": [
+      "Most countries use fiat currencies.",
+      "Fiat currency has value because people trust it."
+    ]
+  },
+
+  {
+    "id": 211,
+    "word": "financial leverage",
+    "meaningThai": "การใช้หนี้เพิ่มผลตอบแทน",
+    "examples": [
+      "Financial leverage amplifies both gains and losses.",
+      "Firms use leverage to expand operations."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "hedge fund",
+    "meaningThai": "กองทุนเฮดจ์ฟันด์",
+    "examples": [
+      "Hedge funds often use aggressive strategies.",
+      "Many hedge funds require high minimum investments."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "junk bond",
+    "meaningThai": "พันธบัตรขยะ (ความเสี่ยงสูง)",
+    "examples": [
+      "Junk bonds offer high yields.",
+      "Investors avoid junk bonds during downturns."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "market saturation",
+    "meaningThai": "ตลาดอิ่มตัว",
+    "examples": [
+      "Smartphone sales slowed due to market saturation.",
+      "Companies diversify when facing saturation."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "negative equity",
+    "meaningThai": "สินทรัพย์มีมูลค่าน้อยกว่าหนี้",
+    "examples": [
+      "Homeowners faced negative equity after prices crashed.",
+      "Negative equity traps borrowers in debt."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "private equity",
+    "meaningThai": "ทุนเอกชน",
+    "examples": [
+      "Private equity firms invest in non-public companies.",
+      "Private equity deals often involve restructuring."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "real yield",
+    "meaningThai": "ผลตอบแทนที่แท้จริงหลังหักเงินเฟ้อ",
+    "examples": [
+      "Real yields turned negative this year.",
+      "Investors monitor real yields for long-term decisions."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "secured loan",
+    "meaningThai": "สินเชื่อที่มีหลักประกัน",
+    "examples": [
+      "A mortgage is a type of secured loan.",
+      "Secured loans offer lower interest rates."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "unsecured loan",
+    "meaningThai": "สินเชื่อที่ไม่มีหลักประกัน",
+    "examples": [
+      "Unsecured loans carry higher interest rates.",
+      "Banks evaluate credit scores heavily for unsecured loans."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "venture capital",
+    "meaningThai": "เงินทุนร่วมลงทุน (VC)",
+    "examples": [
+      "Startups seek funding from venture capital firms.",
+      "Venture capital drives innovation."
+    ]
+  },
+
+  {
+    "id": 221,
+    "word": "white-collar crime",
+    "meaningThai": "อาชญากรรมทางการเงิน",
+    "examples": [
+      "Fraud and embezzlement are white-collar crimes.",
+      "The CEO was arrested for white-collar crime."
+    ]
+  },
+  {
+    "id": 222,
+    "word": "write-down",
+    "meaningThai": "การปรับลดมูลค่า",
+    "examples": [
+      "The company announced a major asset write-down.",
+      "Write-downs impact quarterly earnings."
+    ]
+  },
+  {
+    "id": 223,
+    "word": "shadow banking",
+    "meaningThai": "ระบบการเงินเงา",
+    "examples": [
+      "Shadow banking operates outside regular banking rules.",
+      "Shadow banks grew rapidly after the crisis."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "algorithmic trading",
+    "meaningThai": "การเทรดโดยใช้ชุดคำสั่งอัลกอริทึม",
+    "examples": [
+      "Algorithmic trading dominates modern markets.",
+      "Many hedge funds rely on algorithmic strategies."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "asset swap",
+    "meaningThai": "การแลกเปลี่ยนสินทรัพย์",
+    "examples": [
+      "Banks use asset swaps for risk management.",
+      "An asset swap helps adjust portfolio exposure."
+    ]
+  },
+  {
+    "id": 226,
+    "word": "economic moat",
+    "meaningThai": "ความได้เปรียบทางการแข่งขันระยะยาว",
+    "examples": [
+      "Apple has a strong economic moat.",
+      "Investors seek companies with durable moats."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "foreign reserve",
+    "meaningThai": "เงินสำรองระหว่างประเทศ",
+    "examples": [
+      "The country increased its foreign reserves.",
+      "Foreign reserves help stabilize the currency."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "monopolistic market",
+    "meaningThai": "ตลาดผูกขาด",
+    "examples": [
+      "A monopolistic market limits competition.",
+      "Monopolies often lead to higher prices."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "bank stress test",
+    "meaningThai": "การทดสอบความทนทานทางการเงินของธนาคาร",
+    "examples": [
+      "Banks must pass annual stress tests.",
+      "Stress tests assess resilience during crises."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "liquidity pool",
+    "meaningThai": "พูลสภาพคล่อง (DeFi)",
+    "examples": [
+      "Liquidity pools enable decentralized trading.",
+      "She earns fees by adding assets to a liquidity pool."
+    ]
+  },
+
+  {
+    "id": 231,
+    "word": "market exposure",
+    "meaningThai": "ความเสี่ยงที่เกิดจากการอยู่ในตลาด",
+    "examples": [
+      "He reduced market exposure during volatility.",
+      "Exposure to emerging markets boosted performance."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "regression analysis",
+    "meaningThai": "การวิเคราะห์รีเกรสชัน",
+    "examples": [
+      "Analysts use regression analysis to predict trends.",
+      "Regression models help evaluate financial relationships."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "cost reduction",
+    "meaningThai": "การลดต้นทุน",
+    "examples": [
+      "The company implemented cost reduction measures.",
+      "Cost reduction improved profitability."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "option premium",
+    "meaningThai": "ค่าใช้จ่ายในการซื้อออปชั่น",
+    "examples": [
+      "He paid a high option premium.",
+      "Option premiums rise with volatility."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "credit portfolio",
+    "meaningThai": "พอร์ตสินเชื่อ",
+    "examples": [
+      "Banks manage credit portfolios carefully.",
+      "They diversified their credit portfolio."
+    ]
+  },
+  {
+    "id": 236,
+    "word": "deficit spending",
+    "meaningThai": "การใช้จ่ายเกินรายรับ",
+    "examples": [
+      "Deficit spending boosts short-term growth.",
+      "Governments often rely on deficit spending."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "asset refinancing",
+    "meaningThai": "การรีไฟแนนซ์สินทรัพย์",
+    "examples": [
+      "Homeowners refinance to lower interest rates.",
+      "The company refinanced its debt."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "economic disparity",
+    "meaningThai": "ความเหลื่อมล้ำทางเศรษฐกิจ",
+    "examples": [
+      "Economic disparity widened during the crisis.",
+      "Policies aim to reduce economic disparity."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "loan-to-value ratio",
+    "meaningThai": "อัตราส่วนเงินกู้ต่อมูลค่าหลักประกัน (LTV)",
+    "examples": [
+      "Banks check LTV ratios before approving mortgages.",
+      "Lower LTV ratios reduce lending risk."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "financial instrument",
+    "meaningThai": "ตราสารทางการเงิน",
+    "examples": [
+      "Stocks and bonds are common financial instruments.",
+      "Derivatives are complex financial instruments."
+    ]
+  },
+
+  {
+    "id": 241,
+    "word": "monetary inflation",
+    "meaningThai": "เงินเฟ้อที่เกิดจากปริมาณเงินเพิ่มขึ้น",
+    "examples": [
+      "Monetary inflation reduces currency value.",
+      "Excessive printing leads to monetary inflation."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "price discovery",
+    "meaningThai": "กระบวนการกำหนดราคา",
+    "examples": [
+      "Markets rely on price discovery.",
+      "High liquidity improves price discovery."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "market efficiency",
+    "meaningThai": "ประสิทธิภาพของตลาด",
+    "examples": [
+      "Efficient markets reflect information quickly.",
+      "Market efficiency varies across sectors."
+    ]
+  },
+  {
+    "id": 244,
+    "word": "operating income",
+    "meaningThai": "รายได้จากการดำเนินงาน",
+    "examples": [
+      "Operating income rose 12% this quarter.",
+      "They improved operating income by cutting costs."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "debt-to-income ratio",
+    "meaningThai": "อัตราส่วนหนี้ต่อรายได้ (DTI)",
+    "examples": [
+      "Banks check DTI before offering loans.",
+      "A high DTI makes approval harder."
+    ]
+  },
+  {
+    "id": 246,
+    "word": "liquidity mining",
+    "meaningThai": "การให้สภาพคล่องเพื่อรับรางวัล (DeFi)",
+    "examples": [
+      "He earns tokens through liquidity mining.",
+      "Liquidity mining incentivizes participation."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "proof of stake",
+    "meaningThai": "ระบบตรวจสอบธุรกรรมแบบใช้เหรียญค้ำประกัน",
+    "examples": [
+      "Ethereum moved to proof of stake.",
+      "Proof of stake reduces energy consumption."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "algorithmic stablecoin",
+    "meaningThai": "สเตเบิลคอยน์แบบอัลกอริทึม",
+    "examples": [
+      "Algorithmic stablecoins maintain value using supply adjustments.",
+      "Some algorithmic stablecoins failed during market stress."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "token burn",
+    "meaningThai": "การเผาเหรียญเพื่อลดจำนวน",
+    "examples": [
+      "Token burns reduce supply over time.",
+      "Burn events often increase token prices."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "financial autonomy",
+    "meaningThai": "อิสรภาพทางการเงิน",
+    "examples": [
+      "Many people strive for financial autonomy.",
+      "Smart investing leads to financial autonomy."
+    ]
+  }
+]

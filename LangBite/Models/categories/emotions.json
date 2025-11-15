@@ -1,0 +1,2297 @@
+[
+  {
+    "id": 1,
+    "word": "happy",
+    "meaningThai": "มีความสุข",
+    "examples": [
+      "I feel happy with how today went.",
+      "She looks genuinely happy in that photo."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "sad",
+    "meaningThai": "เศร้า",
+    "examples": [
+      "He seemed sad after the meeting.",
+      "The ending of the movie made me sad."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "angry",
+    "meaningThai": "โกรธ",
+    "examples": [
+      "She was angry about the mistake.",
+      "I get angry when plans keep changing."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "excited",
+    "meaningThai": "ตื่นเต้นดีใจ",
+    "examples": [
+      "I’m excited for the trip.",
+      "He looked excited to start the project."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "nervous",
+    "meaningThai": "ประหม่า, กังวล",
+    "examples": [
+      "She felt nervous before the exam.",
+      "I’m nervous about the interview tomorrow."
+    ]
+  },
+
+  {
+    "id": 6,
+    "word": "anxious",
+    "meaningThai": "วิตกกังวล",
+    "examples": [
+      "I get anxious in crowded places.",
+      "He looked anxious while waiting for the results."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "calm",
+    "meaningThai": "สงบ",
+    "examples": [
+      "Her voice makes me feel calm.",
+      "He stayed calm in a stressful situation."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "frustrated",
+    "meaningThai": "หงุดหงิดเพราะทำอะไรไม่ได้",
+    "examples": [
+      "I’m frustrated with this assignment.",
+      "She felt frustrated after trying so many times."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "relieved",
+    "meaningThai": "โล่งใจ",
+    "examples": [
+      "I’m relieved the issue is solved.",
+      "He felt relieved after telling the truth."
+    ]
+  },
+  {
+    "id": 10,
+    "word": "grateful",
+    "meaningThai": "ขอบคุณจากใจ",
+    "examples": [
+      "I’m grateful for your help.",
+      "She felt grateful for the support."
+    ]
+  },
+
+  {
+    "id": 11,
+    "word": "hopeful",
+    "meaningThai": "มีความหวัง",
+    "examples": [
+      "I’m hopeful about the future.",
+      "She sounded hopeful after the meeting."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "disappointed",
+    "meaningThai": "ผิดหวัง",
+    "examples": [
+      "He was disappointed with the results.",
+      "I’m disappointed that it didn’t work out."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "confident",
+    "meaningThai": "มั่นใจ",
+    "examples": [
+      "She feels confident in her skills.",
+      "I’m confident this will succeed."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "insecure",
+    "meaningThai": "ไม่มั่นใจในตัวเอง",
+    "examples": [
+      "He feels insecure about his work.",
+      "I get insecure when comparing myself to others."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "overwhelmed",
+    "meaningThai": "ท่วมท้น, รับไม่ไหว",
+    "examples": [
+      "I’m overwhelmed with deadlines.",
+      "She looked overwhelmed by the news."
+    ]
+  },
+
+  {
+    "id": 16,
+    "word": "content",
+    "meaningThai": "พอใจ, อิ่มใจ",
+    "examples": [
+      "I feel content with my progress.",
+      "He looked calm and content."
+    ]
+  },
+  {
+    "id": 17,
+    "word": "jealous",
+    "meaningThai": "อิจฉา, หึงหวง",
+    "examples": [
+      "She felt jealous when she saw the photo.",
+      "I’m not jealous, just curious."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "embarrassed",
+    "meaningThai": "อาย, เขินเพราะทำอะไรพลาด",
+    "examples": [
+      "I felt embarrassed after saying that.",
+      "He gets embarrassed easily."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "proud",
+    "meaningThai": "ภูมิใจ",
+    "examples": [
+      "I’m proud of what we achieved.",
+      "She felt proud of her progress."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "lonely",
+    "meaningThai": "เหงา",
+    "examples": [
+      "He feels lonely living abroad.",
+      "I get lonely sometimes at night."
+    ]
+  },
+
+  {
+    "id": 21,
+    "word": "tired",
+    "meaningThai": "เหนื่อย",
+    "examples": [
+      "I’m tired after a long day.",
+      "She looked tired but kept working."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "stressed",
+    "meaningThai": "เครียด",
+    "examples": [
+      "I’ve been stressed all week.",
+      "He gets stressed during exams."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "shy",
+    "meaningThai": "ขี้อาย",
+    "examples": [
+      "She’s shy around new people.",
+      "I was too shy to speak up."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "annoyed",
+    "meaningThai": "รำคาญ",
+    "examples": [
+      "I’m annoyed by the noise.",
+      "He was annoyed at the delay."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "confused",
+    "meaningThai": "งง, ไม่เข้าใจ",
+    "examples": [
+      "I’m confused by the instructions.",
+      "She looked confused after the lecture."
+    ]
+  },
+
+  {
+    "id": 26,
+    "word": "shocked",
+    "meaningThai": "ช็อก, ตกใจมาก",
+    "examples": [
+      "I was shocked by the news.",
+      "He looked shocked when he heard it."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "surprised",
+    "meaningThai": "แปลกใจ",
+    "examples": [
+      "I was surprised to see her there.",
+      "He loves surprising people."
+    ]
+  },
+  {
+    "id": 28,
+    "word": "ashamed",
+    "meaningThai": "ละอายใจ",
+    "examples": [
+      "She felt ashamed after yelling.",
+      "I’m ashamed of my reaction."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "hopeful",
+    "meaningThai": "มีความหวัง",
+    "examples": [
+      "I’m hopeful things will get better.",
+      "He remained hopeful despite the challenges."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "hurt",
+    "meaningThai": "เจ็บใจ, เสียใจ",
+    "examples": [
+      "His words really hurt me.",
+      "She looked hurt after hearing that."
+    ]
+  },
+
+  {
+    "id": 31,
+    "word": "motivated",
+    "meaningThai": "มีแรงบันดาลใจ, มีไฟ",
+    "examples": [
+      "I feel motivated to work today.",
+      "She’s motivated to reach her goals."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "discouraged",
+    "meaningThai": "หมดกำลังใจ",
+    "examples": [
+      "He felt discouraged after failing.",
+      "Don’t get discouraged—try again."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "peaceful",
+    "meaningThai": "สงบสุข",
+    "examples": [
+      "This place makes me feel peaceful.",
+      "She enjoys peaceful mornings."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "irritated",
+    "meaningThai": "หงุดหงิด, รำคาญ",
+    "examples": [
+      "I’m irritated by the loud noise.",
+      "He sounded irritated on the call."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "emotionless",
+    "meaningThai": "ไร้อารมณ์, เฉย ๆ",
+    "examples": [
+      "He looked emotionless during the talk.",
+      "I felt emotionless after a long day."
+    ]
+  },
+
+  {
+    "id": 36,
+    "word": "nostalgic",
+    "meaningThai": "คิดถึงอดีต, หวนวันเก่า ๆ",
+    "examples": [
+      "This song makes me nostalgic.",
+      "He gets nostalgic about childhood a lot."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "melancholic",
+    "meaningThai": "เหงาแบบลึกซึ้ง, เศร้าปนคิดถึง",
+    "examples": [
+      "The movie has a melancholic tone.",
+      "I get melancholic on rainy days."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "euphoric",
+    "meaningThai": "มีความสุขสุดขีด",
+    "examples": [
+      "Winning made me euphoric.",
+      "She felt euphoric after hearing the news."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "apprehensive",
+    "meaningThai": "กังวลว่าจะเกิดเรื่องไม่ดี",
+    "examples": [
+      "I’m apprehensive about tomorrow.",
+      "She felt apprehensive meeting new people."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "resigned",
+    "meaningThai": "ยอมรับแบบจำใจ, ไม่มีหวังแล้ว",
+    "examples": [
+      "He gave a resigned smile.",
+      "I feel resigned about the situation."
+    ]
+  },
+
+  {
+    "id": 41,
+    "word": "grumpy",
+    "meaningThai": "อารมณ์บูด, หงุดหงิดง่าย",
+    "examples": [
+      "I get grumpy when I’m sleep-deprived.",
+      "He’s always grumpy in the morning."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "thrilled",
+    "meaningThai": "ตื่นเต้นมาก, ดีใจสุด ๆ",
+    "examples": [
+      "I’m thrilled to be part of this project.",
+      "She felt thrilled after reading the message."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "restless",
+    "meaningThai": "กระสับกระส่าย, อยู่นิ่งไม่ได้",
+    "examples": [
+      "I feel restless today.",
+      "He’s been restless all night."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "disgusted",
+    "meaningThai": "ขยะแขยง, ไม่ชอบมาก",
+    "examples": [
+      "She looked disgusted by the smell.",
+      "I’m disgusted by the behavior."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "touched",
+    "meaningThai": "ประทับใจมากจนซึ้ง",
+    "examples": [
+      "I was touched by your kindness.",
+      "He felt touched by the surprise."
+    ]
+  },
+
+  {
+    "id": 46,
+    "word": "bored",
+    "meaningThai": "เบื่อ",
+    "examples": [
+      "I’m bored of doing the same routine.",
+      "He gets bored easily."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "joyful",
+    "meaningThai": "มีความสุขมาก, ร่าเริง",
+    "examples": [
+      "Her smile looked joyful.",
+      "The celebration was joyful."
+    ]
+  },
+  {
+    "id": 48,
+    "word": "miserable",
+    "meaningThai": "ทุกข์ใจมาก, แย่สุด ๆ",
+    "examples": [
+      "I felt miserable last week.",
+      "She looked miserable in the rain."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "panicked",
+    "meaningThai": "ตื่นตระหนก",
+    "examples": [
+      "I panicked when I lost my phone.",
+      "He panicked during the exam."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "satisfied",
+    "meaningThai": "พอใจ",
+    "examples": [
+      "I’m satisfied with the results.",
+      "She felt satisfied after finishing the task."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "offended",
+    "meaningThai": "รู้สึกโดนว่า, เจ็บใจเพราะคำพูด",
+    "examples": [
+      "He felt offended by the comment.",
+      "I’m sorry if you felt offended—I didn’t mean it."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "homesick",
+    "meaningThai": "คิดถึงบ้าน",
+    "examples": [
+      "She felt homesick on her first day abroad.",
+      "I get homesick when I travel for too long."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "comforted",
+    "meaningThai": "รู้สึกได้รับการปลอบใจ",
+    "examples": [
+      "His words comforted me.",
+      "I felt comforted being with my friends."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "hopeful",
+    "meaningThai": "มีความหวัง",
+    "examples": [
+      "I’m hopeful things will get better.",
+      "She remained hopeful throughout the challenge."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "pessimistic",
+    "meaningThai": "มองโลกแง่ร้าย",
+    "examples": [
+      "He’s pessimistic about the plan.",
+      "I get pessimistic when things go wrong."
+    ]
+  },
+
+  {
+    "id": 56,
+    "word": "optimistic",
+    "meaningThai": "มองโลกแง่ดี",
+    "examples": [
+      "I’m optimistic about the future.",
+      "She stayed optimistic even in tough times."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "ashamed",
+    "meaningThai": "ละอายใจ, รู้สึกผิดแบบหนัก",
+    "examples": [
+      "He felt ashamed of his mistake.",
+      "I’m ashamed I reacted like that."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "grieving",
+    "meaningThai": "เศร้าโศก, สูญเสียอย่างลึกซึ้ง",
+    "examples": [
+      "She’s grieving the loss of her pet.",
+      "He has been grieving for months."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "overjoyed",
+    "meaningThai": "ดีใจมาก ๆ",
+    "examples": [
+      "She was overjoyed when she got the news.",
+      "I’m overjoyed with the results."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "resentful",
+    "meaningThai": "ขุ่นเคือง, เก็บความโกรธไว้",
+    "examples": [
+      "He felt resentful after being ignored.",
+      "I’m resentful about how things were handled."
+    ]
+  },
+
+  {
+    "id": 61,
+    "word": "stunned",
+    "meaningThai": "อึ้ง, ตกใจจนพูดไม่ออก",
+    "examples": [
+      "I was stunned by the announcement.",
+      "The whole room went silent—everyone was stunned."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "terrified",
+    "meaningThai": "กลัวมาก",
+    "examples": [
+      "She was terrified of the dark.",
+      "I’m terrified of losing my passport."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "worried",
+    "meaningThai": "กังวล",
+    "examples": [
+      "I’m worried about my exam.",
+      "She looked worried all day."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "guilty",
+    "meaningThai": "รู้สึกผิด",
+    "examples": [
+      "I feel guilty for forgetting.",
+      "He looked guilty after the accident."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "empathetic",
+    "meaningThai": "เข้าใจความรู้สึกผู้อื่น",
+    "examples": [
+      "She’s very empathetic.",
+      "Try to be more empathetic in tough situations."
+    ]
+  },
+
+  {
+    "id": 66,
+    "word": "sympathetic",
+    "meaningThai": "เห็นใจ, เข้าใจว่าคนอื่นลำบาก",
+    "examples": [
+      "He gave me a sympathetic smile.",
+      "I feel sympathetic toward her situation."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "worried sick",
+    "meaningThai": "กังวลหนักมาก",
+    "examples": [
+      "I was worried sick when you didn’t call.",
+      "She’s worried sick about her exams."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "hesitant",
+    "meaningThai": "ลังเล",
+    "examples": [
+      "I’m hesitant to make a decision.",
+      "She seemed hesitant to speak."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "off guard",
+    "meaningThai": "ไม่ทันตั้งตัว",
+    "examples": [
+      "The question caught me off guard.",
+      "He looked off guard when I walked in."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "touched",
+    "meaningThai": "รู้สึกซาบซึ้งใจ",
+    "examples": [
+      "I’m touched by your message.",
+      "He looked touched when he received the gift."
+    ]
+  },
+
+  {
+    "id": 71,
+    "word": "emotionally drained",
+    "meaningThai": "หมดแรงทางอารมณ์",
+    "examples": [
+      "I’m emotionally drained after today.",
+      "That conversation left me drained."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "joyous",
+    "meaningThai": "เปี่ยมด้วยความสุข",
+    "examples": [
+      "It was a joyous celebration.",
+      "She felt joyous holding the puppy."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "heartbroken",
+    "meaningThai": "อกหัก, เสียใจมาก",
+    "examples": [
+      "She was heartbroken after the breakup.",
+      "I feel heartbroken hearing the news."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "conflicted",
+    "meaningThai": "มีความรู้สึกขัดแย้งในใจ",
+    "examples": [
+      "I’m conflicted about the decision.",
+      "He looked conflicted after hearing both sides."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "annoyed",
+    "meaningThai": "รำคาญ",
+    "examples": [
+      "He sounded annoyed on the call.",
+      "I’m annoyed by all the noise outside."
+    ]
+  },
+
+  {
+    "id": 76,
+    "word": "hopeful yet scared",
+    "meaningThai": "มีหวังแต่ก็กลัว",
+    "examples": [
+      "I’m hopeful yet scared about the results.",
+      "She felt hopeful yet scared for the interview."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "tearful",
+    "meaningThai": "น้ำตาคลอ, จะร้องไห้",
+    "examples": [
+      "She gave a tearful goodbye.",
+      "He looked tearful after the speech."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "grateful",
+    "meaningThai": "ขอบคุณมาก",
+    "examples": [
+      "I’m grateful for your help.",
+      "He’s grateful to be here."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "speechless",
+    "meaningThai": "พูดไม่ออกเพราะตกใจหรือซึ้ง",
+    "examples": [
+      "I’m speechless after seeing the results.",
+      "She was speechless with joy."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "awkward",
+    "meaningThai": "อึดอัด, เขินแบบแปลก ๆ",
+    "examples": [
+      "The silence was awkward.",
+      "I felt awkward meeting his parents."
+    ]
+  },
+
+  {
+    "id": 81,
+    "word": "grieving",
+    "meaningThai": "โศกเศร้าเสียใจหนัก",
+    "examples": [
+      "They were grieving after the accident.",
+      "He’s still grieving for his friend."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "mind-blown",
+    "meaningThai": "ทึ่งสุด ๆ",
+    "examples": [
+      "That plot twist got me mind-blown.",
+      "I was mind-blown by the performance."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "stressed out",
+    "meaningThai": "เครียดมาก",
+    "examples": [
+      "I’m stressed out because of the workload.",
+      "She gets stressed out easily."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "panicky",
+    "meaningThai": "ตกใจกลัวง่าย, เหมือนจะพัง",
+    "examples": [
+      "I get panicky before public speaking.",
+      "He became panicky during the storm."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "comforted",
+    "meaningThai": "รู้สึกถูกปลอบใจ",
+    "examples": [
+      "Your message comforted me.",
+      "He felt comforted after the talk."
+    ]
+  },
+
+  {
+    "id": 86,
+    "word": "bittersweet",
+    "meaningThai": "สุขปนเศร้า",
+    "examples": [
+      "Graduation feels bittersweet.",
+      "It was a bittersweet goodbye."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "annoyed but amused",
+    "meaningThai": "รำคาญแต่ก็ขำ",
+    "examples": [
+      "I’m annoyed but amused by your chaos.",
+      "She looked annoyed but amused."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "intrigued",
+    "meaningThai": "สนใจมาก, อยากรู้ต่อ",
+    "examples": [
+      "I’m intrigued by this idea.",
+      "He looked intrigued by the story."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "resentful",
+    "meaningThai": "ขุ่นเคืองใจ, โกรธสะสม",
+    "examples": [
+      "He felt resentful after being ignored.",
+      "I’m resentful about how things happened."
+    ]
+  },
+  {
+    "id": 90,
+    "word": "afraid",
+    "meaningThai": "กลัว",
+    "examples": [
+      "I’m afraid of heights.",
+      "She’s afraid to try again."
+    ]
+  },
+
+  {
+    "id": 91,
+    "word": "joyful",
+    "meaningThai": "มีความสุข ร่าเริง",
+    "examples": [
+      "It was a joyful moment.",
+      "She looked joyful during the ceremony."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "disheartened",
+    "meaningThai": "หมดกำลังใจ, ท้อแท้",
+    "examples": [
+      "I felt disheartened by the feedback.",
+      "He seemed disheartened after the loss."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "uneasy",
+    "meaningThai": "ไม่สบายใจ, กระวนกระวาย",
+    "examples": [
+      "I feel uneasy about this.",
+      "She looked uneasy all night."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "delighted",
+    "meaningThai": "ดีใจมาก",
+    "examples": [
+      "I’m delighted to meet you.",
+      "She was delighted with the surprise."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "heartwarming",
+    "meaningThai": "อบอุ่นใจ, น่าซาบซึ้ง",
+    "examples": [
+      "That video was heartwarming.",
+      "Her message was truly heartwarming."
+    ]
+  },
+
+  {
+    "id": 96,
+    "word": "drained",
+    "meaningThai": "หมดแรง, เหนื่อยล้า",
+    "examples": [
+      "I feel drained after work.",
+      "He looked completely drained."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "uplifted",
+    "meaningThai": "มีกำลังใจขึ้น",
+    "examples": [
+      "Her words uplifted me.",
+      "The music made me feel uplifted."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "irritated",
+    "meaningThai": "หงุดหงิดมาก",
+    "examples": [
+      "She was irritated by his remarks.",
+      "I get irritated easily today."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "humbled",
+    "meaningThai": "รู้สึกถ่อมตัวลง, ตระหนักว่าต้องพัฒนา",
+    "examples": [
+      "The challenge humbled me.",
+      "He felt humbled after seeing the results."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "passionate",
+    "meaningThai": "ทุ่มเท, มีไฟในสิ่งที่รัก",
+    "examples": [
+      "She’s passionate about design.",
+      "I feel passionate when I work on this project."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "fearful",
+    "meaningThai": "กลัว, หวาดกลัว",
+    "examples": [
+      "She looked fearful during the storm.",
+      "I’m fearful of what might happen next."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "uncomfortable",
+    "meaningThai": "ไม่สบายใจ, อึดอัด",
+    "examples": [
+      "I feel uncomfortable in this situation.",
+      "He looked uncomfortable answering that question."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "motivated",
+    "meaningThai": "มีแรงผลักดัน, มีไฟทำงาน",
+    "examples": [
+      "I’m motivated to finish this today.",
+      "Her success motivated me."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "touched",
+    "meaningThai": "ซาบซึ้งใจ",
+    "examples": [
+      "I was truly touched by your letter.",
+      "He felt touched when they remembered his birthday."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "disgusted",
+    "meaningThai": "รู้สึกขยะแขยง",
+    "examples": [
+      "I’m disgusted by the smell.",
+      "She looked disgusted at the scene."
+    ]
+  },
+
+  {
+    "id": 106,
+    "word": "upset",
+    "meaningThai": "ไม่สบายใจ, เสียใจหรือโกรธ",
+    "examples": [
+      "She was upset after the meeting.",
+      "I’m upset you didn’t tell me sooner."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "hopeful",
+    "meaningThai": "มีหวัง",
+    "examples": [
+      "I’m hopeful things will improve.",
+      "He stayed hopeful through the difficulties."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "apathetic",
+    "meaningThai": "เฉยชา, ไม่สนใจ",
+    "examples": [
+      "He seemed apathetic during the discussion.",
+      "I’m feeling apathetic about everything today."
+    ]
+  },
+  {
+    "id": 109,
+    "word": "restored",
+    "meaningThai": "ได้รับการฟื้นฟู, กลับมาดีขึ้น",
+    "examples": [
+      "Her energy feels restored after a long break.",
+      "The good news restored my hope."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "inspired",
+    "meaningThai": "ได้รับแรงบันดาลใจ",
+    "examples": [
+      "I’m inspired by your work ethic.",
+      "That story really inspired me."
+    ]
+  },
+
+  {
+    "id": 111,
+    "word": "offended",
+    "meaningThai": "รู้สึกโดนดูถูก",
+    "examples": [
+      "He felt offended by the joke.",
+      "I didn’t mean to offend you."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "moody",
+    "meaningThai": "อารมณ์แปรปรวน",
+    "examples": [
+      "She gets moody in the evenings.",
+      "I’m feeling moody today."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "ecstatic",
+    "meaningThai": "ดีใจมากเป็นพิเศษ",
+    "examples": [
+      "She was ecstatic about the results.",
+      "He felt ecstatic holding the award."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "resentful",
+    "meaningThai": "โกรธเคือง, สะสมความไม่พอใจ",
+    "examples": [
+      "I’m resentful of how they treated me.",
+      "He grew resentful over time."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "grateful",
+    "meaningThai": "สำนึกในบุญคุณ",
+    "examples": [
+      "I’m grateful you’re here.",
+      "She felt grateful for the opportunity."
+    ]
+  },
+
+  {
+    "id": 116,
+    "word": "defeated",
+    "meaningThai": "รู้สึกแพ้, สิ้นหวัง",
+    "examples": [
+      "I felt defeated after the test.",
+      "He looked defeated but kept trying."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "empowered",
+    "meaningThai": "รู้สึกมีพลัง, กล้าทำสิ่งใหม่",
+    "examples": [
+      "I feel empowered to take action.",
+      "Her support empowered me."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "compassionate",
+    "meaningThai": "มีความเมตตา, เห็นอกเห็นใจ",
+    "examples": [
+      "She’s very compassionate with others.",
+      "Try to be more compassionate toward yourself."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "restless",
+    "meaningThai": "อยู่นิ่งไม่ได้, วุ่นวายใจ",
+    "examples": [
+      "I feel restless waiting for the results.",
+      "He’s been restless all week."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "grieving",
+    "meaningThai": "เศร้าโศกจากการสูญเสีย",
+    "examples": [
+      "He’s still grieving his friend.",
+      "The family was grieving together."
+    ]
+  },
+
+  {
+    "id": 121,
+    "word": "nostalgic",
+    "meaningThai": "คิดถึงวันเก่า ๆ",
+    "examples": [
+      "This song makes me nostalgic.",
+      "I feel nostalgic about college days."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "blue",
+    "meaningThai": "เศร้า ซึม ๆ",
+    "examples": [
+      "I’m feeling blue today.",
+      "Rainy days make me feel blue."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "calmed",
+    "meaningThai": "สงบลงหลังจากเครียด",
+    "examples": [
+      "The message calmed me down.",
+      "He finally calmed after the chaos."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "hopeful",
+    "meaningThai": "มีความหวัง",
+    "examples": [
+      "I’m hopeful about next year.",
+      "He stayed hopeful even after failing."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "uneasy",
+    "meaningThai": "อึดอัดใจ, ไม่สบายใจ",
+    "examples": [
+      "I have an uneasy feeling about this.",
+      "She looked uneasy waiting alone."
+    ]
+  },
+
+  {
+    "id": 126,
+    "word": "overstimulated",
+    "meaningThai": "รับสิ่งเร้ามากเกินไปจนล้า",
+    "examples": [
+      "I get overstimulated in large crowds.",
+      "The noise made me feel overstimulated."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "glad",
+    "meaningThai": "ดีใจ",
+    "examples": [
+      "I’m glad you liked it.",
+      "He seemed glad to help."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "worried",
+    "meaningThai": "กังวล",
+    "examples": [
+      "I’m worried about the deadline.",
+      "She looked worried the whole time."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "ashamed",
+    "meaningThai": "ละอายใจ",
+    "examples": [
+      "She felt ashamed of her actions.",
+      "I’m ashamed I forgot."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "startled",
+    "meaningThai": "ตกใจแบบฉับพลัน",
+    "examples": [
+      "The sound startled me.",
+      "He looked startled when I called him."
+    ]
+  },
+
+  {
+    "id": 131,
+    "word": "empowered",
+    "meaningThai": "รู้สึกมีพลัง, ควบคุมชีวิตได้",
+    "examples": [
+      "I feel empowered after the talk.",
+      "She empowered her team with optimism."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "joyful",
+    "meaningThai": "สุขล้น, ร่าเริง",
+    "examples": [
+      "He looked joyful at the celebration.",
+      "The event was full of joyful energy."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "frightened",
+    "meaningThai": "กลัวอย่างมาก",
+    "examples": [
+      "She was frightened by the noise.",
+      "I get frightened watching horror movies."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "sorrowful",
+    "meaningThai": "เศร้าใจมาก, ทุกข์ใจ",
+    "examples": [
+      "Her expression looked sorrowful.",
+      "He wrote a sorrowful message."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "skeptical",
+    "meaningThai": "สงสัย ไม่ค่อยเชื่อ",
+    "examples": [
+      "I’m skeptical about the idea.",
+      "He looked skeptical during the meeting."
+    ]
+  },
+
+  {
+    "id": 136,
+    "word": "comforted",
+    "meaningThai": "รู้สึกอบอุ่น ได้รับการปลอบ",
+    "examples": [
+      "Her presence comforted me.",
+      "He felt comforted during the call."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "emboldened",
+    "meaningThai": "รู้สึกกล้าขึ้น, กล้าตัดสินใจ",
+    "examples": [
+      "The success emboldened me.",
+      "His words emboldened the team."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "lonely but okay",
+    "meaningThai": "เหงานิด ๆ แต่ไม่เป็นไร",
+    "examples": [
+      "I’m lonely but okay, don’t worry.",
+      "She felt lonely but okay living alone."
+    ]
+  },
+  {
+    "id": 139,
+    "word": "uplifted",
+    "meaningThai": "รู้สึกสดชื่น ฟื้นพลังใจ",
+    "examples": [
+      "Your message uplifted me.",
+      "I feel uplifted after that talk."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "dazed",
+    "meaningThai": "มึนงง, ตั้งสติไม่ทัน",
+    "examples": [
+      "I felt dazed after waking up.",
+      "He looked dazed by the news."
+    ]
+  },
+
+  {
+    "id": 141,
+    "word": "emotionally numb",
+    "meaningThai": "ชา, ไม่รู้สึกอะไร",
+    "examples": [
+      "I feel emotionally numb today.",
+      "He became numb after too much stress."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "heartened",
+    "meaningThai": "รู้สึกมีกำลังใจมากขึ้น",
+    "examples": [
+      "Her encouragement heartened me.",
+      "I felt heartened after the update."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "discouraged",
+    "meaningThai": "หมดใจ, ท้อแท้",
+    "examples": [
+      "I feel discouraged by my mistakes.",
+      "She looked discouraged but pushed on."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "fulfilled",
+    "meaningThai": "รู้สึกเติมเต็ม",
+    "examples": [
+      "Helping others makes me feel fulfilled.",
+      "He felt fulfilled with his career path."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "moved",
+    "meaningThai": "ประทับใจจนรู้สึกซึ้ง",
+    "examples": [
+      "I was deeply moved by your kindness.",
+      "The speech moved the whole audience."
+    ]
+  },
+
+  {
+    "id": 146,
+    "word": "heartfelt",
+    "meaningThai": "จริงใจลึกซึ้ง",
+    "examples": [
+      "She wrote a heartfelt message.",
+      "I appreciate your heartfelt apology."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "overthinking",
+    "meaningThai": "คิดมากเกินไป",
+    "examples": [
+      "I’m overthinking everything right now.",
+      "She tends to overthink small details."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "enthusiastic",
+    "meaningThai": "กระตือรือร้น",
+    "examples": [
+      "He’s enthusiastic about the event.",
+      "I feel enthusiastic to start."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "discouraged but trying",
+    "meaningThai": "ท้อแต่ยังสู้",
+    "examples": [
+      "I’m discouraged but trying.",
+      "She’s discouraged but keeps going."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "emotionally exhausted",
+    "meaningThai": "ล้าทางอารมณ์ขั้นสุด",
+    "examples": [
+      "I’m emotionally exhausted this week.",
+      "He felt emotionally exhausted after the fight."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "resentful but silent",
+    "meaningThai": "โกรธเคืองในใจแต่ไม่พูด",
+    "examples": [
+      "I’m resentful but silent about the situation.",
+      "She looked resentful but stayed quiet."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "calm but worried",
+    "meaningThai": "ดูนิ่งแต่ในใจเป็นห่วง",
+    "examples": [
+      "I’m calm but worried inside.",
+      "She appeared calm but worried the whole time."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "tense",
+    "meaningThai": "ตึงเครียด",
+    "examples": [
+      "The atmosphere felt tense.",
+      "I get tense before big presentations."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "affectionate",
+    "meaningThai": "อบอุ่น, แสดงความรัก",
+    "examples": [
+      "He’s very affectionate with his family.",
+      "Her message was sweet and affectionate."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "confident yet nervous",
+    "meaningThai": "มั่นใจแต่แอบประหม่า",
+    "examples": [
+      "I’m confident yet nervous for the interview.",
+      "She felt confident yet nervous on stage."
+    ]
+  },
+
+  {
+    "id": 156,
+    "word": "crushed",
+    "meaningThai": "ผิดหวังหนัก, ใจสลาย",
+    "examples": [
+      "I was crushed by the results.",
+      "He looked crushed after hearing the news."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "optimistic but cautious",
+    "meaningThai": "มองบวกแต่ไม่ประมาท",
+    "examples": [
+      "I’m optimistic but cautious about the plan.",
+      "She’s optimistic but cautious of the risks."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "guarded",
+    "meaningThai": "ระวังใจ, ไม่เปิดเผยอารมณ์ง่าย",
+    "examples": [
+      "He’s guarded around new people.",
+      "I feel guarded after what happened."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "intimidated",
+    "meaningThai": "เกรง, กลัวเพราะอีกฝ่ายดูเหนือกว่า",
+    "examples": [
+      "I felt intimidated walking into the room.",
+      "She gets intimidated by big crowds."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "uplifted but tired",
+    "meaningThai": "ดีขึ้นแล้ว แต่ยังล้า",
+    "examples": [
+      "I’m uplifted but tired.",
+      "She felt uplifted but tired after the talk."
+    ]
+  },
+
+  {
+    "id": 161,
+    "word": "nostalgic but happy",
+    "meaningThai": "คิดถึงอดีตและรู้สึกดี",
+    "examples": [
+      "I feel nostalgic but happy listening to this song.",
+      "She looked nostalgic but happy flipping through old photos."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "serene",
+    "meaningThai": "สงบนิ่ง, สบายใจ",
+    "examples": [
+      "The morning felt serene.",
+      "She looked serene watching the sunset."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "heart-heavy",
+    "meaningThai": "ใจหนัก, กังวลหรือเศร้าแบบลึก",
+    "examples": [
+      "My heart feels heavy today.",
+      "She spoke with a heart-heavy tone."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "optimistic",
+    "meaningThai": "มองโลกในแง่ดี",
+    "examples": [
+      "He’s optimistic about the future.",
+      "I’m optimistic this will work out."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "defensive",
+    "meaningThai": "ตั้งการ์ด, ปกป้องตัวเองมากไป",
+    "examples": [
+      "He got defensive when questioned.",
+      "I wasn’t trying to be defensive."
+    ]
+  },
+
+  {
+    "id": 166,
+    "word": "validated",
+    "meaningThai": "รู้สึกได้รับการยอมรับ, เห็นคุณค่า",
+    "examples": [
+      "His words made me feel validated.",
+      "I feel validated hearing that feedback."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "isolated",
+    "meaningThai": "รู้สึกแยกจากคนอื่น, โดดเดี่ยว",
+    "examples": [
+      "I feel isolated even in a crowd.",
+      "She felt isolated living far away."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "anxious but hopeful",
+    "meaningThai": "กังวลแต่ยังมีความหวัง",
+    "examples": [
+      "I’m anxious but hopeful for tomorrow.",
+      "She’s anxious but hopeful about her future."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "overwhelmed but grateful",
+    "meaningThai": "เหนื่อยมากแต่ซาบซึ้ง",
+    "examples": [
+      "I’m overwhelmed but grateful for the support.",
+      "He felt overwhelmed but grateful after the event."
+    ]
+  },
+  {
+    "id": 170,
+    "word": "energized",
+    "meaningThai": "รู้สึกมีพลัง",
+    "examples": [
+      "I feel energized after the nap.",
+      "She looked energized in the morning."
+    ]
+  },
+
+  {
+    "id": 171,
+    "word": "inferior",
+    "meaningThai": "รู้สึกด้อยกว่า",
+    "examples": [
+      "He felt inferior next to his peers.",
+      "I sometimes feel inferior without reason."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "superior",
+    "meaningThai": "เหนือกว่า, รู้สึกมั่นใจมาก",
+    "examples": [
+      "She felt superior in the discussion.",
+      "Don’t act superior to others."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "hurt but pretending fine",
+    "meaningThai": "เจ็บในใจแต่ทำเหมือนโอเค",
+    "examples": [
+      "I’m hurt but pretending fine.",
+      "She smiled even though she was hurt inside."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "comforted but sad",
+    "meaningThai": "ได้รับการปลอบใจแต่ยังเศร้า",
+    "examples": [
+      "I’m comforted but sad about the outcome.",
+      "She felt comforted but sad."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "admired",
+    "meaningThai": "รู้สึกชื่นชม, นับถือ",
+    "examples": [
+      "I admired her bravery.",
+      "He felt admired by the team."
+    ]
+  },
+
+  {
+    "id": 176,
+    "word": "grateful but overwhelmed",
+    "meaningThai": "ซาบซึ้งแต่รับมือยาก",
+    "examples": [
+      "I’m grateful but overwhelmed by all the support.",
+      "She felt grateful but overwhelmed with responsibilities."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "hopeful but unsure",
+    "meaningThai": "มีความหวังแต่ยังไม่มั่นใจ",
+    "examples": [
+      "I’m hopeful but unsure how it’ll end.",
+      "She felt hopeful but unsure about her choice."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "overconfident",
+    "meaningThai": "มั่นใจเกินไป",
+    "examples": [
+      "He was overconfident before the test.",
+      "Don’t be overconfident too early."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "warm",
+    "meaningThai": "อบอุ่นใจ",
+    "examples": [
+      "Her words made me feel warm inside.",
+      "He gave me a warm smile."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "troubled",
+    "meaningThai": "มีความกังวล, มีเรื่องในใจ",
+    "examples": [
+      "He looked troubled the whole day.",
+      "I’m troubled by the situation."
+    ]
+  },
+
+  {
+    "id": 181,
+    "word": "sensitive",
+    "meaningThai": "อ่อนไหว",
+    "examples": [
+      "I’m sensitive about that topic.",
+      "She’s quite sensitive to criticism."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "joyful tears",
+    "meaningThai": "น้ำตาแห่งความสุข",
+    "examples": [
+      "I cried joyful tears.",
+      "It brought joyful tears to everyone."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "devastated",
+    "meaningThai": "เสียใจอย่างยับเยิน",
+    "examples": [
+      "He was devastated by the news.",
+      "I’m devastated but trying to stay strong."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "sharp regret",
+    "meaningThai": "เสียใจอย่างจี้ใจ",
+    "examples": [
+      "I felt sharp regret saying that.",
+      "She had sharp regret after the mistake."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "heart full",
+    "meaningThai": "หัวใจเต็มไปด้วยความรู้สึกดี",
+    "examples": [
+      "My heart feels full today.",
+      "He smiled with a heart-full expression."
+    ]
+  },
+
+  {
+    "id": 186,
+    "word": "emotionally present",
+    "meaningThai": "อยู่กับปัจจุบันทั้งใจและอารมณ์",
+    "examples": [
+      "I’m trying to be emotionally present.",
+      "She felt emotionally present during the talk."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "emotionally absent",
+    "meaningThai": "เหมือนไม่อยู่ในโมเมนต์ทางอารมณ์",
+    "examples": [
+      "He looked emotionally absent today.",
+      "I feel emotionally absent lately."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "on edge",
+    "meaningThai": "ประหม่า, เหมือนจะระเบิดได้ทุกเวลา",
+    "examples": [
+      "I’m on edge waiting for the call.",
+      "She’s been on edge since morning."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "empowered but scared",
+    "meaningThai": "มีพลังขึ้นแต่ก็หวั่น",
+    "examples": [
+      "I’m empowered but scared to take the next step.",
+      "She felt empowered but scared after the decision."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "hopeful but sad",
+    "meaningThai": "มีความหวังแต่ยังเศร้าอยู่",
+    "examples": [
+      "I’m hopeful but sad about moving on.",
+      "She felt hopeful but sad packing her things."
+    ]
+  },
+
+  {
+    "id": 191,
+    "word": "furious",
+    "meaningThai": "โกรธจัด",
+    "examples": [
+      "He was furious after hearing the news.",
+      "I’m furious this keeps happening."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "relaxed",
+    "meaningThai": "ผ่อนคลาย",
+    "examples": [
+      "I feel relaxed near the ocean.",
+      "She looked relaxed after yoga class."
+    ]
+  },
+  {
+    "id": 193,
+    "word": "hesitant but willing",
+    "meaningThai": "ลังเลแต่พร้อมลอง",
+    "examples": [
+      "I’m hesitant but willing to try.",
+      "She’s hesitant but willing to join."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "deeply moved",
+    "meaningThai": "ซาบซึ้งลึก ๆ",
+    "examples": [
+      "I was deeply moved by their kindness.",
+      "He looked deeply moved during the ceremony."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "shaken",
+    "meaningThai": "ใจสั่น, ตกใจต่อเหตุการณ์",
+    "examples": [
+      "I’m still shaken from last night.",
+      "He sounded shaken on the call."
+    ]
+  },
+
+  {
+    "id": 196,
+    "word": "mindful",
+    "meaningThai": "มีสติรู้ตัว",
+    "examples": [
+      "I’m trying to be more mindful.",
+      "She practices being mindful daily."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "comfortably numb",
+    "meaningThai": "ชาแบบรับได้, เฉยแต่ไม่เจ็บ",
+    "examples": [
+      "I feel comfortably numb lately.",
+      "He grew comfortably numb to stress."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "emotionally raw",
+    "meaningThai": "อ่อนไหวมากเป็นพิเศษ",
+    "examples": [
+      "I’m emotionally raw after the breakup.",
+      "She’s too emotionally raw to talk now."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "relieved but exhausted",
+    "meaningThai": "โล่งใจแต่หมดแรง",
+    "examples": [
+      "I’m relieved but exhausted after finishing the project.",
+      "She was relieved but exhausted after the exam."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "emotionally fulfilled",
+    "meaningThai": "อิ่มเอมใจ, รู้สึกเต็มเปี่ยม",
+    "examples": [
+      "I feel emotionally fulfilled today.",
+      "Her support made me feel emotionally fulfilled."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "emotionally steady",
+    "meaningThai": "อารมณ์มั่นคง",
+    "examples": [
+      "I’m trying to stay emotionally steady.",
+      "She appeared emotionally steady through the chaos."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "emotionally supportive",
+    "meaningThai": "คอยสนับสนุนทางใจ",
+    "examples": [
+      "He’s always emotionally supportive.",
+      "I felt emotionally supported by my friends."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "emotionally uplifted",
+    "meaningThai": "ใจฟื้นขึ้น, ดีขึ้นอย่างมาก",
+    "examples": [
+      "Her message made me emotionally uplifted.",
+      "I feel emotionally uplifted this morning."
+    ]
+  },
+  {
+    "id": 204,
+    "word": "feeling small",
+    "meaningThai": "รู้สึกตัวเล็ก, ไม่มีคุณค่า",
+    "examples": [
+      "I felt small in that meeting.",
+      "Her comment made me feel small."
+    ]
+  },
+  {
+    "id": 205,
+    "word": "emotionally distant",
+    "meaningThai": "ห่างเหินทางอารมณ์",
+    "examples": [
+      "He seems emotionally distant lately.",
+      "I get emotionally distant when stressed."
+    ]
+  },
+
+  {
+    "id": 206,
+    "word": "reassured",
+    "meaningThai": "สบายใจขึ้นหลังได้รับการยืนยัน",
+    "examples": [
+      "His words reassured me.",
+      "I felt reassured after hearing the update."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "revived",
+    "meaningThai": "รู้สึกฟื้นพลังใจ",
+    "examples": [
+      "The break revived my spirit.",
+      "I feel revived after the nap."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "emotionally connected",
+    "meaningThai": "เชื่อมโยงกันทางใจ",
+    "examples": [
+      "We felt emotionally connected instantly.",
+      "That talk made me feel emotionally connected."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "comfortably peaceful",
+    "meaningThai": "สงบแบบสบายใจ",
+    "examples": [
+      "The morning felt comfortably peaceful.",
+      "Her presence makes me comfortably peaceful."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "lost",
+    "meaningThai": "หลงทางทางอารมณ์",
+    "examples": [
+      "I feel lost lately.",
+      "He looked lost in his thoughts."
+    ]
+  },
+
+  {
+    "id": 211,
+    "word": "emotionally shaky",
+    "meaningThai": "ใจไม่นิ่ง, สั่นคลอน",
+    "examples": [
+      "I’m emotionally shaky today.",
+      "She sounded emotionally shaky."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "soft-hearted",
+    "meaningThai": "ใจอ่อน, อ่อนไหวง่าย",
+    "examples": [
+      "She’s soft-hearted around animals.",
+      "I get soft-hearted easily."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "touched but speechless",
+    "meaningThai": "ซึ้งจนพูดไม่ออก",
+    "examples": [
+      "I’m touched but speechless.",
+      "He was touched but speechless by the surprise."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "mellow",
+    "meaningThai": "อารมณ์นุ่มนวล ผ่อนคลาย",
+    "examples": [
+      "I feel mellow this evening.",
+      "The music put me in a mellow mood."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "emotionally intense",
+    "meaningThai": "อารมณ์แรง, ลึกมาก",
+    "examples": [
+      "It was an emotionally intense moment.",
+      "He can be emotionally intense sometimes."
+    ]
+  },
+
+  {
+    "id": 216,
+    "word": "quietly sad",
+    "meaningThai": "เศร้าแบบเงียบ ๆ",
+    "examples": [
+      "I’m quietly sad today.",
+      "She looked quietly sad during dinner."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "emotionally drained but hopeful",
+    "meaningThai": "หมดพลังแต่ยังมีความหวัง",
+    "examples": [
+      "I’m emotionally drained but hopeful.",
+      "She felt drained but hopeful about tomorrow."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "raw but healing",
+    "meaningThai": "ยังเจ็บ แต่กำลังดีขึ้น",
+    "examples": [
+      "I’m raw but healing.",
+      "He’s raw but healing from the past."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "emotionally grounded",
+    "meaningThai": "ตั้งอยู่บนสติ, ใจมั่นคง",
+    "examples": [
+      "Meditation keeps me emotionally grounded.",
+      "She feels emotionally grounded lately."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "restored but fragile",
+    "meaningThai": "ดีขึ้นแล้ว แต่ยังไม่แข็งแรงดี",
+    "examples": [
+      "I’m restored but fragile.",
+      "Her hope is restored but fragile."
+    ]
+  },
+
+  {
+    "id": 221,
+    "word": "open-hearted",
+    "meaningThai": "เปิดใจ รับฟังได้",
+    "examples": [
+      "He’s very open-hearted.",
+      "I’m trying to be open-hearted."
+    ]
+  },
+  {
+    "id": 222,
+    "word": "emotionally protective",
+    "meaningThai": "ปกป้องใจตัวเองไว้ก่อน",
+    "examples": [
+      "I’ve been emotionally protective lately.",
+      "She’s emotionally protective of her peace."
+    ]
+  },
+  {
+    "id": 223,
+    "word": "emotionally overwhelmed",
+    "meaningThai": "อารมณ์ท่วมท้น",
+    "examples": [
+      "I’m emotionally overwhelmed by everything.",
+      "She felt emotionally overwhelmed by the support."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "lighthearted",
+    "meaningThai": "สบายใจ ขี้เล่น",
+    "examples": [
+      "I feel lighthearted today.",
+      "He’s fun and lighthearted."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "emotionally safe",
+    "meaningThai": "รู้สึกปลอดภัยทางอารมณ์",
+    "examples": [
+      "I feel emotionally safe around you.",
+      "She creates an emotionally safe space."
+    ]
+  },
+
+  {
+    "id": 226,
+    "word": "calm but sad",
+    "meaningThai": "สงบแต่มีความเศร้าอยู่",
+    "examples": [
+      "I’m calm but sad about it.",
+      "She looked calm but sad today."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "emotionally hopeful",
+    "meaningThai": "มีความหวังจากใจจริง",
+    "examples": [
+      "I’m emotionally hopeful for change.",
+      "He felt emotionally hopeful again."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "heart-heavy but moving forward",
+    "meaningThai": "ใจหนักแต่ยังเดินต่อ",
+    "examples": [
+      "I’m heart-heavy but moving forward.",
+      "She’s heart-heavy but continuing."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "emotionally gentle",
+    "meaningThai": "อ่อนโยนทางอารมณ์",
+    "examples": [
+      "He speaks in an emotionally gentle way.",
+      "I’m learning to be emotionally gentle with myself."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "emotionally present but tired",
+    "meaningThai": "อยู่กับปัจจุบัน แต่ใจล้า",
+    "examples": [
+      "I’m emotionally present but tired.",
+      "She felt emotionally present but tired from work."
+    ]
+  },
+
+  {
+    "id": 231,
+    "word": "gloomy",
+    "meaningThai": "หม่นหมอง, มืดมน",
+    "examples": [
+      "The weather makes me feel gloomy.",
+      "He had a gloomy expression."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "emotionally vulnerable",
+    "meaningThai": "เปราะบางทางอารมณ์",
+    "examples": [
+      "I’m emotionally vulnerable right now.",
+      "She felt emotionally vulnerable after opening up."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "hopeful but fragile",
+    "meaningThai": "มีความหวังแต่ยังเปราะ",
+    "examples": [
+      "I’m hopeful but fragile today.",
+      "Her hope felt fragile yet real."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "heartlight",
+    "meaningThai": "ใจเบา สว่าง สดใส",
+    "examples": [
+      "I feel heartlight this morning.",
+      "Her laugh makes everyone feel heartlight."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "emotionally warmed",
+    "meaningThai": "ใจอุ่นขึ้นอย่างชัดเจน",
+    "examples": [
+      "Your message made me feel emotionally warmed.",
+      "He felt emotionally warmed by the gesture."
+    ]
+  },
+
+  {
+    "id": 236,
+    "word": "emotionally clouded",
+    "meaningThai": "ใจหม่น, คิดอะไรไม่ออก",
+    "examples": [
+      "My mind feels emotionally clouded.",
+      "She sounded emotionally clouded today."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "emotionally honest",
+    "meaningThai": "ซื่อตรงกับความรู้สึกตัวเอง",
+    "examples": [
+      "I’m trying to be emotionally honest.",
+      "He appreciates emotionally honest conversations."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "emotionally messy",
+    "meaningThai": "อารมณ์ยุ่งเหยิง, สับสน",
+    "examples": [
+      "I’m emotionally messy right now.",
+      "She felt emotionally messy after the argument."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "emotionally rising",
+    "meaningThai": "กำลังดีขึ้นทีละน้อย",
+    "examples": [
+      "I feel emotionally rising this week.",
+      "Her mood is emotionally rising again."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "emotionally recovering",
+    "meaningThai": "อยู่ในช่วงฟื้นฟูทางอารมณ์",
+    "examples": [
+      "I’m emotionally recovering slowly.",
+      "She’s emotionally recovering from the loss."
+    ]
+  },
+
+  {
+    "id": 241,
+    "word": "emotionally clear",
+    "meaningThai": "ใจโล่ง, รู้ว่าต้องการอะไร",
+    "examples": [
+      "I finally feel emotionally clear.",
+      "She sounded emotionally clear about her decision."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "emotionally centered",
+    "meaningThai": "ใจนิ่ง, ไม่สวิงแรง",
+    "examples": [
+      "Meditation keeps me emotionally centered.",
+      "He feels emotionally centered today."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "emotionally grounded but sad",
+    "meaningThai": "มีสติ แต่ยังมีความเศร้าอยู่",
+    "examples": [
+      "I’m emotionally grounded but sad.",
+      "She felt grounded but sad at the same time."
+    ]
+  },
+  {
+    "id": 244,
+    "word": "emotionally transparent",
+    "meaningThai": "เปิดเผยอารมณ์ตรงไปตรงมา",
+    "examples": [
+      "She’s emotionally transparent.",
+      "I’m learning to be emotionally transparent."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "emotionally alive",
+    "meaningThai": "รู้สึกมีชีวิตชีวาทางอารมณ์",
+    "examples": [
+      "I feel emotionally alive again.",
+      "The moment made me feel emotionally alive."
+    ]
+  },
+
+  {
+    "id": 246,
+    "word": "emotionally hopeful but scared",
+    "meaningThai": "มีหวังแต่ก็กลัว",
+    "examples": [
+      "I’m emotionally hopeful but scared.",
+      "She felt hopeful but scared of change."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "emotionally reflective",
+    "meaningThai": "ครุ่นคิดทางใจ, ทบทวน",
+    "examples": [
+      "I’m emotionally reflective tonight.",
+      "He gets emotionally reflective at night."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "settled",
+    "meaningThai": "ใจนิ่ง, สงบลงแล้ว",
+    "examples": [
+      "I feel settled after talking to you.",
+      "Her heart finally felt settled."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "emotionally light",
+    "meaningThai": "ใจเบา สดใส มากกว่าปกติ",
+    "examples": [
+      "I feel emotionally light today.",
+      "The morning air made me emotionally light."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "emotionally whole",
+    "meaningThai": "ครบถ้วนทางอารมณ์, ฟื้นเต็มที่",
+    "examples": [
+      "I feel emotionally whole again.",
+      "Time helped her feel emotionally whole."
+    ]
+  }
+]

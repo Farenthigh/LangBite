@@ -1,0 +1,2246 @@
+[
+  {
+    "id": 1,
+    "word": "analyze",
+    "meaningThai": "วิเคราะห์",
+    "examples": [
+      "Analyze the graph and choose the correct answer.",
+      "The passage asks readers to analyze the author's viewpoint."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "infer",
+    "meaningThai": "อนุมาน, สรุปจากข้อมูล",
+    "examples": [
+      "What can be inferred from the paragraph?",
+      "From the speaker’s tone, we can infer he is frustrated."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "significant",
+    "meaningThai": "สำคัญอย่างมาก",
+    "examples": [
+      "There is a significant difference between the two results.",
+      "The chart shows a significant increase in sales."
+    ]
+  },
+  {
+    "id": 4,
+    "word": "primarily",
+    "meaningThai": "เป็นหลัก, ส่วนใหญ่",
+    "examples": [
+      "The report primarily focuses on market trends.",
+      "The speaker is primarily discussing safety procedures."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "assumption",
+    "meaningThai": "สมมติฐาน, ข้อสมมติ",
+    "examples": [
+      "Which assumption is made by the author?",
+      "The question tests your understanding of the main assumption."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "indicate",
+    "meaningThai": "แสดงให้เห็น",
+    "examples": [
+      "The chart indicates a drop in customer satisfaction.",
+      "What does the passage indicate about the manager?"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "maintain",
+    "meaningThai": "รักษาไว้, ยืนยัน",
+    "examples": [
+      "The author maintains that the policy is ineffective.",
+      "The company maintains high safety standards."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "contrast",
+    "meaningThai": "ความแตกต่าง, เปรียบเทียบในมุมต่าง",
+    "examples": [
+      "How does the author contrast the two ideas?",
+      "The listening section contrasts two opinions."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "concern",
+    "meaningThai": "ความกังวล, ประเด็นสำคัญ",
+    "examples": [
+      "The passage discusses concerns about pollution.",
+      "The manager expressed concern over delays."
+    ]
+  },
+  {
+    "id": 10,
+    "word": "interpret",
+    "meaningThai": "ตีความ",
+    "examples": [
+      "How should the phrase be interpreted in this context?",
+      "Interpret the data shown in the graph."
+    ]
+  },
+  {
+    "id": 11,
+    "word": "specific",
+    "meaningThai": "เฉพาะเจาะจง",
+    "examples": [
+      "Choose the answer with the most specific detail.",
+      "The instructions ask for a specific time."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "instruction",
+    "meaningThai": "คำสั่ง, ข้อกำหนด",
+    "examples": [
+      "Follow the instructions carefully.",
+      "The test instructions state that calculators are not allowed."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "determine",
+    "meaningThai": "ตัดสินใจ, ระบุ",
+    "examples": [
+      "Determine the main purpose of the passage.",
+      "The listener must determine the correct schedule."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "decline",
+    "meaningThai": "ลดลง",
+    "examples": [
+      "Sales declined sharply last year.",
+      "The chart shows a decline in attendance."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "indirectly",
+    "meaningThai": "โดยอ้อม",
+    "examples": [
+      "The author indirectly suggests the policy is unfair.",
+      "The speaker indirectly mentions the problem."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "expand",
+    "meaningThai": "ขยาย",
+    "examples": [
+      "The company plans to expand its operations overseas.",
+      "Which idea does the author expand on in paragraph 3?"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "fluctuate",
+    "meaningThai": "ผันผวน",
+    "examples": [
+      "Prices fluctuate depending on demand.",
+      "The graph shows fluctuating temperature levels."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "rarely",
+    "meaningThai": "แทบไม่เคย",
+    "examples": [
+      "The writer rarely uses emotional language.",
+      "This type of error rarely appears in the test."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "appropriate",
+    "meaningThai": "เหมาะสม",
+    "examples": [
+      "Choose the most appropriate response.",
+      "What is the appropriate title for the passage?"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "essential",
+    "meaningThai": "จำเป็น",
+    "examples": [
+      "Understanding the vocabulary is essential for this section.",
+      "Listening carefully is essential during the interview."
+    ]
+  },
+  {
+    "id": 21,
+    "word": "demonstrate",
+    "meaningThai": "แสดงให้เห็น",
+    "examples": [
+      "The chart demonstrates a clear upward trend.",
+      "The author demonstrates his point using an example."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "minor",
+    "meaningThai": "เล็กน้อย, ไม่สำคัญมาก",
+    "examples": [
+      "There is a minor error in the calculation.",
+      "The speaker makes a minor adjustment to the schedule."
+    ]
+  },
+  {
+    "id": 23,
+    "word": "majority",
+    "meaningThai": "ส่วนใหญ่",
+    "examples": [
+      "The majority of participants agreed.",
+      "The majority of questions focus on reading skills."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "respond",
+    "meaningThai": "ตอบ, ตอบสนอง",
+    "examples": [
+      "Respond to the question based on the passage.",
+      "The employee responded quickly to the request."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "persuade",
+    "meaningThai": "โน้มน้าว",
+    "examples": [
+      "The advertisement tries to persuade customers.",
+      "Which statement best persuades the reader?"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "illustrate",
+    "meaningThai": "ยกตัวอย่างให้เห็นภาพ",
+    "examples": [
+      "The author illustrates his idea with a case study.",
+      "The chart illustrates population growth."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "complex",
+    "meaningThai": "ซับซ้อน",
+    "examples": [
+      "The text uses complex sentence structures.",
+      "The situation is more complex than it appears."
+    ]
+  },
+  {
+    "id": 28,
+    "word": "contrast with",
+    "meaningThai": "แตกต่างจาก",
+    "examples": [
+      "How does paragraph 2 contrast with paragraph 3?",
+      "The speaker’s tone contrasts with the earlier message."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "region",
+    "meaningThai": "ภูมิภาค",
+    "examples": [
+      "The map shows different temperature levels by region.",
+      "The product is popular in the northern region."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "participate",
+    "meaningThai": "เข้าร่วม",
+    "examples": [
+      "Employees were encouraged to participate in the survey.",
+      "Participants are asked to participate in group tasks."
+    ]
+  },
+  {
+    "id": 31,
+    "word": "evaluate",
+    "meaningThai": "ประเมิน",
+    "examples": [
+      "Evaluate the meaning of the underlined word.",
+      "The report evaluates customer feedback."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "inquire",
+    "meaningThai": "สอบถาม",
+    "examples": [
+      "The caller inquired about room availability.",
+      "Customers often inquire about delivery times."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "alter",
+    "meaningThai": "เปลี่ยนแปลง",
+    "examples": [
+      "The schedule was altered due to weather conditions.",
+      "How does the new rule alter the process?"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "purchase",
+    "meaningThai": "ซื้อ",
+    "examples": [
+      "Customers can purchase tickets online.",
+      "The woman is purchasing office supplies."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "reliable",
+    "meaningThai": "เชื่อถือได้",
+    "examples": [
+      "Choose the most reliable source of information.",
+      "The company is known for reliable service."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "decline (verb)",
+    "meaningThai": "ปฏิเสธ",
+    "examples": [
+      "The manager declined the invitation.",
+      "Why did the speaker decline the offer?"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "various",
+    "meaningThai": "หลากหลาย",
+    "examples": [
+      "The store sells various electronic devices.",
+      "The passage mentions various solutions."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "efficient",
+    "meaningThai": "มีประสิทธิภาพ",
+    "examples": [
+      "The new system is more efficient.",
+      "Which method is the most efficient?"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "identify",
+    "meaningThai": "ระบุ",
+    "examples": [
+      "Identify the main idea of the passage.",
+      "The staff identified the issue quickly."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "emphasize",
+    "meaningThai": "เน้นย้ำ",
+    "examples": [
+      "The speaker emphasizes the importance of safety.",
+      "The author emphasizes his main claim in paragraph 4."
+    ]
+  },
+  {
+    "id": 41,
+    "word": "consequently",
+    "meaningThai": "ดังนั้นจึง",
+    "examples": [
+      "The store was closed; consequently, customers waited outside.",
+      "Production slowed down; consequently, delivery was delayed."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "beneficial",
+    "meaningThai": "เป็นประโยชน์",
+    "examples": [
+      "Regular reading is beneficial for language learners.",
+      "Which option is most beneficial for the company?"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "compare",
+    "meaningThai": "เปรียบเทียบ",
+    "examples": [
+      "Compare the two charts and choose the best summary.",
+      "The question asks you to compare the speakers’ opinions."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "annually",
+    "meaningThai": "ประจำปี",
+    "examples": [
+      "The company reviews performance annually.",
+      "The passage states that profits rise annually."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "requirement",
+    "meaningThai": "ข้อกำหนด",
+    "examples": [
+      "What is the requirement for joining the program?",
+      "TOEIC test centers have strict requirements."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "slightly",
+    "meaningThai": "เล็กน้อย",
+    "examples": [
+      "Sales increased slightly last month.",
+      "The tone of the speaker slightly changes."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "predict",
+    "meaningThai": "ทำนาย",
+    "examples": [
+      "Predict what will happen next in the conversation.",
+      "The model predicts strong economic growth."
+    ]
+  },
+  {
+    "id": 48,
+    "word": "survey",
+    "meaningThai": "แบบสำรวจ",
+    "examples": [
+      "The company conducted a customer satisfaction survey.",
+      "According to the survey, most users prefer online services."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "confirm",
+    "meaningThai": "ยืนยัน",
+    "examples": [
+      "Please confirm your registration.",
+      "The speaker confirms the meeting time."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "rapidly",
+    "meaningThai": "อย่างรวดเร็ว",
+    "examples": [
+      "Sales increased rapidly during the holiday season.",
+      "The situation is changing rapidly."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "highlight",
+    "meaningThai": "เน้นย้ำ, ชี้ให้เห็น",
+    "examples": [
+      "The passage highlights the importance of teamwork.",
+      "The speaker highlights the changes in the new policy."
+    ]
+  },
+  {
+    "id": 52,
+    "word": "lack",
+    "meaningThai": "ขาด, ไม่มีเพียงพอ",
+    "examples": [
+      "The report lacks clear evidence.",
+      "The company lacks skilled workers."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "efficiently",
+    "meaningThai": "อย่างมีประสิทธิภาพ",
+    "examples": [
+      "The new system works more efficiently.",
+      "Employees are trained to work efficiently."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "retain",
+    "meaningThai": "รักษาไว้, เก็บไว้",
+    "examples": [
+      "The company aims to retain its customers.",
+      "How can the organization retain its employees?"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "affect",
+    "meaningThai": "ส่งผลต่อ",
+    "examples": [
+      "Weather conditions may affect delivery time.",
+      "The policy affects all departments."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "identify with",
+    "meaningThai": "รู้สึกเชื่อมโยง/เข้าใจเป็นอย่างดี",
+    "examples": [
+      "Readers can identify with the author's situation.",
+      "The speaker identifies with the challenges mentioned."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "emerge",
+    "meaningThai": "ปรากฏ, เกิดขึ้น",
+    "examples": [
+      "New problems emerged after the system update.",
+      "A clear trend emerges from the data."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "determine whether",
+    "meaningThai": "ตัดสินว่า…หรือไม่",
+    "examples": [
+      "Determine whether the statement is true.",
+      "The listener must determine whether the offer is accepted."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "illustration",
+    "meaningThai": "ตัวอย่างประกอบ, ภาพประกอบ",
+    "examples": [
+      "The illustration helps explain the process.",
+      "Refer to the illustration to answer the question."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "adequate",
+    "meaningThai": "เพียงพอ",
+    "examples": [
+      "The report lacks adequate support.",
+      "There is not adequate time to finish the task."
+    ]
+  },
+  {
+    "id": 61,
+    "word": "roughly",
+    "meaningThai": "ประมาณ",
+    "examples": [
+      "The project will take roughly two weeks.",
+      "The population increased by roughly 10%."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "acquire",
+    "meaningThai": "ได้รับ, หามาได้",
+    "examples": [
+      "The company acquired new equipment.",
+      "Students must acquire academic vocabulary."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "consistent",
+    "meaningThai": "สอดคล้อง, คงที่",
+    "examples": [
+      "Her performance is consistent throughout the year.",
+      "The data is not consistent with the hypothesis."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "initially",
+    "meaningThai": "ในตอนแรก",
+    "examples": [
+      "The program was initially designed for beginners.",
+      "Initially, the speaker sounds uncertain."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "overall",
+    "meaningThai": "โดยรวม",
+    "examples": [
+      "Overall, the passage argues for stricter rules.",
+      "Overall sales increased last quarter."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "briefly",
+    "meaningThai": "อย่างย่อ, อย่างสั้น",
+    "examples": [
+      "The speaker briefly mentions the schedule.",
+      "Briefly explain the main idea."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "revise",
+    "meaningThai": "แก้ไข, ปรับปรุง",
+    "examples": [
+      "The company revised its safety guidelines.",
+      "Revise your answer based on the passage."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "essentially",
+    "meaningThai": "โดยพื้นฐานแล้ว",
+    "examples": [
+      "The two concepts are essentially the same.",
+      "The process essentially requires three steps."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "assess",
+    "meaningThai": "ประเมิน",
+    "examples": [
+      "Assess the speaker’s attitude.",
+      "The test assesses language proficiency."
+    ]
+  },
+  {
+    "id": 70,
+    "word": "capability",
+    "meaningThai": "ความสามารถ",
+    "examples": [
+      "The machine has the capability to process large data.",
+      "Workers should improve their capabilities."
+    ]
+  },
+  {
+    "id": 71,
+    "word": "tentative",
+    "meaningThai": "ยังไม่แน่นอน",
+    "examples": [
+      "The schedule is tentative and may change.",
+      "The speaker gives a tentative answer."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "distinguish",
+    "meaningThai": "แยกแยะ, จำแนก",
+    "examples": [
+      "Distinguish between fact and opinion.",
+      "The question asks you to distinguish the two terms."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "obviously",
+    "meaningThai": "อย่างชัดเจน",
+    "examples": [
+      "The correct answer is obviously B.",
+      "The speaker is obviously upset."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "affordable",
+    "meaningThai": "ราคาเอื้อมถึง",
+    "examples": [
+      "The hotel offers affordable rooms.",
+      "Customers look for affordable options."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "extend",
+    "meaningThai": "ขยาย, ต่อเวลา",
+    "examples": [
+      "The company extended the deadline.",
+      "Service hours may be extended on weekends."
+    ]
+  },
+  {
+    "id": 76,
+    "word": "convey",
+    "meaningThai": "สื่อสาร, ถ่ายทอด",
+    "examples": [
+      "What does the author try to convey?",
+      "The tone conveys a sense of urgency."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "slight",
+    "meaningThai": "เล็กน้อย",
+    "examples": [
+      "There is a slight difference in meaning.",
+      "Traffic caused a slight delay."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "multiply",
+    "meaningThai": "เพิ่มจำนวน",
+    "examples": [
+      "The number of participants multiplied last year.",
+      "Bacteria multiply quickly in warm environments."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "frequently",
+    "meaningThai": "บ่อยครั้ง",
+    "examples": [
+      "This word appears frequently in exams.",
+      "He frequently travels for work."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "formerly",
+    "meaningThai": "ก่อนหน้านี้",
+    "examples": [
+      "The building was formerly used as a warehouse.",
+      "The speaker formerly worked as a pilot."
+    ]
+  },
+  {
+    "id": 81,
+    "word": "thoroughly",
+    "meaningThai": "อย่างละเอียด",
+    "examples": [
+      "Read the instructions thoroughly.",
+      "The report was thoroughly reviewed."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "contrast (noun)",
+    "meaningThai": "ความแตกต่าง",
+    "examples": [
+      "There is a clear contrast between the two opinions.",
+      "The chart shows a contrast in spending habits."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "monitor",
+    "meaningThai": "ติดตาม, คอยดูแล",
+    "examples": [
+      "The manager monitors employee performance.",
+      "Monitor the information before answering."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "brief",
+    "meaningThai": "สั้น, กระชับ",
+    "examples": [
+      "Give a brief summary of the passage.",
+      "The speaker gives a brief introduction."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "emphasized",
+    "meaningThai": "ถูกเน้นย้ำ",
+    "examples": [
+      "Safety was emphasized in the meeting.",
+      "The key point is emphasized in paragraph 4."
+    ]
+  },
+  {
+    "id": 86,
+    "word": "address",
+    "meaningThai": "จัดการ, พูดถึง",
+    "examples": [
+      "The article addresses environmental concerns.",
+      "The speaker addresses the listeners directly."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "contain",
+    "meaningThai": "ประกอบด้วย",
+    "examples": [
+      "The package contains several documents.",
+      "The passage contains three main ideas."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "significantly",
+    "meaningThai": "อย่างมีนัยสำคัญ",
+    "examples": [
+      "Sales improved significantly last year.",
+      "Scores differ significantly between the groups."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "promptly",
+    "meaningThai": "อย่างรวดเร็วทันที",
+    "examples": ["Please respond promptly.", "The technician arrived promptly."]
+  },
+  {
+    "id": 90,
+    "word": "ultimately",
+    "meaningThai": "ท้ายที่สุด",
+    "examples": [
+      "Ultimately, the decision is up to the board.",
+      "The experiment ultimately failed."
+    ]
+  },
+  {
+    "id": 91,
+    "word": "decline (noun)",
+    "meaningThai": "การลดลง",
+    "examples": [
+      "There is a decline in ticket sales.",
+      "The chart illustrates a decline in population."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "objective",
+    "meaningThai": "วัตถุประสงค์",
+    "examples": [
+      "The objective of this task is to check comprehension.",
+      "The main objective is to improve efficiency."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "primarily due to",
+    "meaningThai": "สาเหตุหลักคือ",
+    "examples": [
+      "The delay was primarily due to traffic.",
+      "The success was primarily due to teamwork."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "indicate that",
+    "meaningThai": "แสดงให้เห็นว่า",
+    "examples": [
+      "The results indicate that more research is needed.",
+      "The chart indicates that sales doubled."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "consume",
+    "meaningThai": "บริโภค, ใช้",
+    "examples": [
+      "Americans consume large amounts of coffee.",
+      "The machine consumes less energy."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "expand on",
+    "meaningThai": "ขยายความ",
+    "examples": [
+      "The author expands on the idea in the next paragraph.",
+      "Expand on your answer using examples."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "assistance",
+    "meaningThai": "ความช่วยเหลือ",
+    "examples": [
+      "Contact customer service for assistance.",
+      "The woman asks for assistance with her bags."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "numerous",
+    "meaningThai": "จำนวนมาก",
+    "examples": [
+      "The company received numerous complaints.",
+      "Numerous studies support this claim."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "observe",
+    "meaningThai": "สังเกต",
+    "examples": [
+      "Observe the chart before answering.",
+      "Passengers must observe safety rules."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "slight increase",
+    "meaningThai": "เพิ่มขึ้นเล็กน้อย",
+    "examples": [
+      "There was a slight increase in revenue.",
+      "The graph shows a slight increase in attendance."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "conclude",
+    "meaningThai": "สรุป",
+    "examples": [
+      "What can be concluded from the passage?",
+      "The speaker concludes the meeting with a reminder."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "require",
+    "meaningThai": "ต้องการ, จำเป็นต้องมี",
+    "examples": [
+      "The task requires careful reading.",
+      "The position requires at least two years of experience."
+    ]
+  },
+  {
+    "id": 103,
+    "word": "detected",
+    "meaningThai": "ตรวจพบ",
+    "examples": [
+      "No major errors were detected.",
+      "The sensor detected unusual activity."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "abundant",
+    "meaningThai": "มากมาย, อุดมสมบูรณ์",
+    "examples": [
+      "The region has abundant natural resources.",
+      "Examples of this pattern are abundant in the text."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "alteration",
+    "meaningThai": "การเปลี่ยนแปลง",
+    "examples": [
+      "There was a slight alteration in the schedule.",
+      "The passage describes the alteration of the policy."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "adhere to",
+    "meaningThai": "ยึดตาม, ปฏิบัติตาม",
+    "examples": [
+      "Employees must adhere to safety regulations.",
+      "Which rule must the staff adhere to?"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "indifferent",
+    "meaningThai": "เฉยๆ, ไม่สนใจ",
+    "examples": [
+      "The speaker seems indifferent to the suggestion.",
+      "The students appeared indifferent during the lecture."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "acknowledge",
+    "meaningThai": "ยอมรับ, รับรู้",
+    "examples": [
+      "The manager acknowledged the mistake.",
+      "The author acknowledges both benefits and drawbacks."
+    ]
+  },
+  {
+    "id": 109,
+    "word": "comprehend",
+    "meaningThai": "เข้าใจ",
+    "examples": [
+      "Students must comprehend the passage before answering.",
+      "The listener fails to comprehend the instructions."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "efficiently handle",
+    "meaningThai": "จัดการอย่างมีประสิทธิภาพ",
+    "examples": [
+      "The new software efficiently handles large files.",
+      "The staff efficiently handled customer inquiries."
+    ]
+  },
+  {
+    "id": 111,
+    "word": "contribute",
+    "meaningThai": "มีส่วนทำให้เกิด",
+    "examples": [
+      "Several factors contribute to the company's success.",
+      "The graph shows what contributes to the trend."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "possess",
+    "meaningThai": "มี, ครอบครอง",
+    "examples": [
+      "Applicants must possess strong communication skills.",
+      "The team possesses valuable knowledge."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "evaluate the statement",
+    "meaningThai": "ประเมินข้อความ",
+    "examples": [
+      "Evaluate the statement based on the passage.",
+      "The question asks you to evaluate the speaker’s claim."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "anticipate",
+    "meaningThai": "คาดการณ์",
+    "examples": [
+      "We anticipate increased demand next month.",
+      "The listener anticipates the next instruction."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "consist of",
+    "meaningThai": "ประกอบด้วย",
+    "examples": [
+      "The package consists of three documents.",
+      "The test consists of four sections."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "approach",
+    "meaningThai": "วิธีการ",
+    "examples": [
+      "The passage explains a new approach to teaching.",
+      "Which approach does the company use?"
+    ]
+  },
+  {
+    "id": 117,
+    "word": "estimate",
+    "meaningThai": "ประมาณการ",
+    "examples": [
+      "Estimate the total cost using the information provided.",
+      "The manager estimated the time needed."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "exceed",
+    "meaningThai": "เกินกว่า",
+    "examples": [
+      "Expenses exceeded the budget.",
+      "The weight limit must not be exceeded."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "transition",
+    "meaningThai": "การเปลี่ยนผ่าน",
+    "examples": [
+      "The company is undergoing a transition.",
+      "The passage describes a transition in leadership."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "compensation",
+    "meaningThai": "ค่าตอบแทน",
+    "examples": [
+      "Employees receive compensation for overtime.",
+      "The man asks about compensation benefits."
+    ]
+  },
+  {
+    "id": 121,
+    "word": "declining trend",
+    "meaningThai": "แนวโน้มลดลง",
+    "examples": [
+      "The chart shows a declining trend in sales.",
+      "A declining trend can be observed after 2019."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "emphasize the importance",
+    "meaningThai": "เน้นความสำคัญ",
+    "examples": [
+      "The speaker emphasizes the importance of safety.",
+      "The author emphasizes the importance of research."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "enhance",
+    "meaningThai": "เสริม, ทำให้ดีขึ้น",
+    "examples": [
+      "The new software enhances efficiency.",
+      "Training enhances employee performance."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "dedicated",
+    "meaningThai": "อุทิศตน, ยึดมั่น",
+    "examples": [
+      "She is dedicated to improving customer service.",
+      "The team is dedicated to the project."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "comply with",
+    "meaningThai": "ปฏิบัติตาม",
+    "examples": [
+      "All staff must comply with the policy.",
+      "The company complies with international standards."
+    ]
+  },
+  {
+    "id": 126,
+    "word": "explanation",
+    "meaningThai": "คำอธิบาย",
+    "examples": [
+      "Which explanation fits the context best?",
+      "The speaker provides a brief explanation."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "modify",
+    "meaningThai": "ปรับเปลี่ยน",
+    "examples": [
+      "The design was modified after feedback.",
+      "Modify your answer according to the instructions."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "address the issue",
+    "meaningThai": "จัดการปัญหา",
+    "examples": [
+      "The company must address the issue immediately.",
+      "How does the author address the issue?"
+    ]
+  },
+  {
+    "id": 129,
+    "word": "assure",
+    "meaningThai": "รับรอง, ทำให้มั่นใจ",
+    "examples": [
+      "The manager assured customers of the quality.",
+      "He assures the audience that the plan is safe."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "accurate",
+    "meaningThai": "แม่นยำ",
+    "examples": [
+      "Choose the most accurate summary.",
+      "The report provides accurate data."
+    ]
+  },
+  {
+    "id": 131,
+    "word": "reliable source",
+    "meaningThai": "แหล่งข้อมูลที่เชื่อถือได้",
+    "examples": [
+      "Use reliable sources when writing essays.",
+      "The passage refers to a reliable source."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "concerning",
+    "meaningThai": "เกี่ยวกับ",
+    "examples": [
+      "The article discusses issues concerning public health.",
+      "The speaker answers questions concerning the schedule."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "precisely",
+    "meaningThai": "อย่างแม่นยำ",
+    "examples": [
+      "The instructions must be followed precisely.",
+      "Which option precisely describes the situation?"
+    ]
+  },
+  {
+    "id": 134,
+    "word": "justify",
+    "meaningThai": "ให้เหตุผลสนับสนุน",
+    "examples": [
+      "Which statement justifies the correct answer?",
+      "The author justifies his position with data."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "interpretation",
+    "meaningThai": "การตีความ",
+    "examples": [
+      "The interpretation depends on context.",
+      "Which interpretation fits the author’s tone?"
+    ]
+  },
+  {
+    "id": 136,
+    "word": "implement",
+    "meaningThai": "ดำเนินการ, นำไปใช้",
+    "examples": [
+      "The company implemented new procedures.",
+      "The plan will be implemented next month."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "complicated",
+    "meaningThai": "ซับซ้อน",
+    "examples": [
+      "The instructions are too complicated for beginners.",
+      "The situation becomes complicated in paragraph 3."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "evaluate the argument",
+    "meaningThai": "ประเมินข้อโต้แย้ง",
+    "examples": [
+      "Evaluate the argument presented in the passage.",
+      "Which detail strengthens the argument?"
+    ]
+  },
+  {
+    "id": 139,
+    "word": "emerge as",
+    "meaningThai": "กลายเป็น",
+    "examples": [
+      "She emerged as the team leader.",
+      "The main idea emerges as the passage progresses."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "visible",
+    "meaningThai": "มองเห็นได้",
+    "examples": [
+      "A visible trend can be seen in the graph.",
+      "The sign is clearly visible from the road."
+    ]
+  },
+  {
+    "id": 141,
+    "word": "shortly",
+    "meaningThai": "ในอีกไม่นาน",
+    "examples": [
+      "The train will depart shortly.",
+      "The speaker will begin shortly."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "disturb",
+    "meaningThai": "รบกวน",
+    "examples": [
+      "Please do not disturb during the test.",
+      "Noise may disturb other passengers."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "observe that",
+    "meaningThai": "สังเกตว่า",
+    "examples": [
+      "We can observe that sales increased slowly.",
+      "The researcher observed that errors decreased."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "assume",
+    "meaningThai": "สันนิษฐาน",
+    "examples": [
+      "Assume that the statement is true.",
+      "The question asks you to assume you are the manager."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "extensive",
+    "meaningThai": "ครอบคลุม, จำนวนมาก",
+    "examples": [
+      "The company conducted extensive research.",
+      "The passage provides extensive details."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "confidently",
+    "meaningThai": "อย่างมั่นใจ",
+    "examples": [
+      "He answered confidently.",
+      "The candidate speaks confidently during the interview."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "potential",
+    "meaningThai": "ศักยภาพ, ที่อาจเป็นไปได้",
+    "examples": [
+      "The product has strong market potential.",
+      "The passage discusses potential risks."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "specify",
+    "meaningThai": "ระบุให้ชัดเจน",
+    "examples": [
+      "Please specify your availability.",
+      "The question specifies the time period."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "stable",
+    "meaningThai": "คงที่, มีเสถียรภาพ",
+    "examples": [
+      "The graph shows stable growth.",
+      "Prices remained stable throughout the year."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "highlight the difference",
+    "meaningThai": "ชี้ให้เห็นความแตกต่าง",
+    "examples": [
+      "The chart highlights the difference between age groups.",
+      "Paragraph 2 highlights the difference in opinions."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "gradually",
+    "meaningThai": "ค่อย ๆ อย่างต่อเนื่อง",
+    "examples": [
+      "Sales gradually increased over the year.",
+      "The speaker’s tone gradually becomes more serious."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "indicator",
+    "meaningThai": "ตัวบ่งชี้",
+    "examples": [
+      "The chart shows key economic indicators.",
+      "Customer satisfaction is an indicator of service quality."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "examine",
+    "meaningThai": "ตรวจสอบ, พิจารณา",
+    "examples": [
+      "Examine the passage before answering.",
+      "The report examines factors affecting performance."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "occupy",
+    "meaningThai": "ครอบครอง, ใช้พื้นที่",
+    "examples": [
+      "The factory occupies a large area.",
+      "The chart shows which sector occupies the largest share."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "reduction",
+    "meaningThai": "การลดลง",
+    "examples": [
+      "There was a reduction in operating costs.",
+      "The graph displays a reduction in energy consumption."
+    ]
+  },
+  {
+    "id": 156,
+    "word": "expandable",
+    "meaningThai": "ขยายได้",
+    "examples": [
+      "The file storage is expandable up to 1 TB.",
+      "The product offers expandable features."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "minimize",
+    "meaningThai": "ลดให้น้อยที่สุด",
+    "examples": [
+      "The new system minimizes errors.",
+      "Training helps minimize customer complaints."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "accessible",
+    "meaningThai": "เข้าถึงได้ง่าย",
+    "examples": [
+      "The information is accessible online.",
+      "The building is accessible to all visitors."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "consistent with",
+    "meaningThai": "สอดคล้องกับ",
+    "examples": [
+      "The results are consistent with the hypothesis.",
+      "The forecast is consistent with last year’s data."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "maintainable",
+    "meaningThai": "ดูแลรักษาได้ง่าย",
+    "examples": [
+      "The system is designed to be easily maintainable.",
+      "A maintainable structure reduces long-term costs."
+    ]
+  },
+  {
+    "id": 161,
+    "word": "omit",
+    "meaningThai": "ละเว้น",
+    "examples": [
+      "Do not omit any necessary details.",
+      "The author omits the reason for the change."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "undergo",
+    "meaningThai": "ผ่านกระบวนการ, ประสบกับ",
+    "examples": [
+      "The company underwent major changes.",
+      "The bridge is undergoing repairs."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "increase sharply",
+    "meaningThai": "เพิ่มขึ้นอย่างรวดเร็ว",
+    "examples": [
+      "Profits increased sharply last quarter.",
+      "The chart shows that costs increased sharply."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "closely related",
+    "meaningThai": "สัมพันธ์กันอย่างใกล้ชิด",
+    "examples": [
+      "The two ideas are closely related.",
+      "Listening and pronunciation are closely related skills."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "fundamental",
+    "meaningThai": "พื้นฐาน, สำคัญ",
+    "examples": [
+      "Reading is a fundamental skill.",
+      "The passage explains fundamental principles."
+    ]
+  },
+  {
+    "id": 166,
+    "word": "derive",
+    "meaningThai": "ได้รับ/ได้มาจาก",
+    "examples": [
+      "The word is derived from Latin.",
+      "The conclusion is derived from the data."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "precaution",
+    "meaningThai": "ข้อควรระวัง",
+    "examples": [
+      "Take precautions when using the equipment.",
+      "The speaker mentions necessary precautions."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "authorize",
+    "meaningThai": "อนุญาต, ให้อำนาจ",
+    "examples": [
+      "Only managers can authorize payments.",
+      "The speaker is authorized to sign the documents."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "omit information",
+    "meaningThai": "ละข้อมูลบางอย่าง",
+    "examples": [
+      "The passage omits information about the cause.",
+      "Why does the writer omit this detail?"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "overall trend",
+    "meaningThai": "แนวโน้มโดยรวม",
+    "examples": [
+      "The overall trend shows steady growth.",
+      "Identify the overall trend in the graph."
+    ]
+  },
+  {
+    "id": 171,
+    "word": "allocate",
+    "meaningThai": "จัดสรร",
+    "examples": [
+      "Funds were allocated for the project.",
+      "The manager allocates tasks to employees."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "mandatory",
+    "meaningThai": "บังคับ",
+    "examples": [
+      "Wearing a seatbelt is mandatory.",
+      "Attendance is mandatory for all staff."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "emphasize strongly",
+    "meaningThai": "เน้นย้ำอย่างชัดเจน",
+    "examples": [
+      "The speaker emphasizes strongly the need to improve safety.",
+      "The report emphasizes strongly the financial risks."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "commonly used",
+    "meaningThai": "ถูกใช้บ่อย",
+    "examples": [
+      "This phrase is commonly used in academic tests.",
+      "A commonly used method is shown in the example."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "rough estimate",
+    "meaningThai": "ค่าประมาณคร่าว ๆ",
+    "examples": [
+      "Give a rough estimate of the total amount.",
+      "The graph helps provide a rough estimate."
+    ]
+  },
+  {
+    "id": 176,
+    "word": "primarily focused on",
+    "meaningThai": "มุ่งเน้นเป็นหลัก",
+    "examples": [
+      "The passage is primarily focused on transportation.",
+      "The task is primarily focused on listening comprehension."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "inspect",
+    "meaningThai": "ตรวจสอบ",
+    "examples": [
+      "Inspect the form before submitting.",
+      "The engineer inspected the equipment."
+    ]
+  },
+  {
+    "id": 178,
+    "word": "precise",
+    "meaningThai": "แม่นยำ, ชัดเจน",
+    "examples": ["Give a precise answer.", "The instructions must be precise."]
+  },
+  {
+    "id": 179,
+    "word": "scrutinize",
+    "meaningThai": "ตรวจสอบอย่างละเอียด",
+    "examples": [
+      "Scrutinize the chart before responding.",
+      "The auditors scrutinized the documents."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "ultimately result in",
+    "meaningThai": "ท้ายที่สุดนำไปสู่",
+    "examples": [
+      "Poor planning ultimately results in delays.",
+      "Lack of training ultimately resulted in errors."
+    ]
+  },
+  {
+    "id": 181,
+    "word": "considerably",
+    "meaningThai": "อย่างมาก",
+    "examples": [
+      "The price has increased considerably.",
+      "The speaker talks considerably faster than expected."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "renewable",
+    "meaningThai": "ทดแทนได้",
+    "examples": [
+      "Solar energy is a renewable resource.",
+      "The lease contract is renewable annually."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "substantially",
+    "meaningThai": "อย่างมีนัยสำคัญ",
+    "examples": [
+      "The workload has increased substantially.",
+      "Results improved substantially after the update."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "closely examine",
+    "meaningThai": "ตรวจสอบอย่างใกล้ชิด",
+    "examples": [
+      "Closely examine the chart’s labels.",
+      "The inspector closely examined the machine."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "specific detail",
+    "meaningThai": "รายละเอียดเฉพาะ",
+    "examples": [
+      "Which option includes the most specific detail?",
+      "The speaker provides a specific detail about timing."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "inaccurate",
+    "meaningThai": "ไม่แม่นยำ",
+    "examples": [
+      "The article contains inaccurate information.",
+      "The measurement was inaccurate."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "visible trend",
+    "meaningThai": "แนวโน้มที่เห็นได้ชัด",
+    "examples": [
+      "A visible trend appears in the chart.",
+      "The graph displays a visible trend in sales."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "acknowledge the problem",
+    "meaningThai": "ยอมรับปัญหา",
+    "examples": [
+      "The manager acknowledged the problem in the report.",
+      "The speaker acknowledges the problem openly."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "alternative option",
+    "meaningThai": "ตัวเลือกทางเลือก",
+    "examples": [
+      "Choose the best alternative option.",
+      "The passage offers an alternative option."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "enhancement",
+    "meaningThai": "การปรับปรุง, การพัฒนา",
+    "examples": [
+      "Software enhancements will improve performance.",
+      "The enhancement is mentioned in paragraph 2."
+    ]
+  },
+  {
+    "id": 191,
+    "word": "relevant",
+    "meaningThai": "เกี่ยวข้อง",
+    "examples": [
+      "Choose the most relevant answer.",
+      "Only relevant data was included in the report."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "appropriate response",
+    "meaningThai": "คำตอบที่เหมาะสม",
+    "examples": [
+      "Select the most appropriate response.",
+      "Which response is appropriate in this context?"
+    ]
+  },
+  {
+    "id": 193,
+    "word": "demanding",
+    "meaningThai": "ต้องการมาก/ยาก",
+    "examples": [
+      "The job is demanding but rewarding.",
+      "The exam is demanding for new learners."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "exceed expectations",
+    "meaningThai": "เกินความคาดหมาย",
+    "examples": [
+      "Sales exceeded expectations.",
+      "The product exceeded customer expectations."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "partially",
+    "meaningThai": "บางส่วน",
+    "examples": [
+      "The statement is partially true.",
+      "The project is partially completed."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "predictable",
+    "meaningThai": "คาดเดาได้",
+    "examples": [
+      "The pattern is predictable from the chart.",
+      "The ending of the passage is predictable."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "inconsistent",
+    "meaningThai": "ไม่สม่ำเสมอ, ไม่สอดคล้อง",
+    "examples": [
+      "The data is inconsistent across regions.",
+      "The speaker gives inconsistent information."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "announce",
+    "meaningThai": "ประกาศ",
+    "examples": [
+      "The speaker announces a schedule change.",
+      "The results will be announced tomorrow."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "accurately",
+    "meaningThai": "อย่างแม่นยำ",
+    "examples": [
+      "Describe the chart accurately.",
+      "The instructions must be followed accurately."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "straightforward",
+    "meaningThai": "ตรงไปตรงมา, ไม่ซับซ้อน",
+    "examples": [
+      "The process is straightforward.",
+      "The passage gives a straightforward answer."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "straightforwardly",
+    "meaningThai": "อย่างตรงไปตรงมา",
+    "examples": [
+      "The question can be answered straightforwardly.",
+      "The instructions are explained straightforwardly."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "circumstance",
+    "meaningThai": "สถานการณ์",
+    "examples": [
+      "The decision depends on the circumstances.",
+      "Under no circumstances should you leave the room early."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "undoubtedly",
+    "meaningThai": "อย่างไม่ต้องสงสัย",
+    "examples": [
+      "This is undoubtedly the best answer.",
+      "The speaker is undoubtedly frustrated."
+    ]
+  },
+  {
+    "id": 204,
+    "word": "assert",
+    "meaningThai": "ยืนยันอย่างหนักแน่น",
+    "examples": [
+      "The author asserts that technology has improved productivity.",
+      "Which idea does the speaker assert most strongly?"
+    ]
+  },
+  {
+    "id": 205,
+    "word": "comprehensive",
+    "meaningThai": "ครอบคลุม",
+    "examples": [
+      "The report gives a comprehensive overview.",
+      "Choose the most comprehensive summary."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "critical",
+    "meaningThai": "สำคัญมาก",
+    "examples": [
+      "Time management is critical during the test.",
+      "The speaker mentions critical concerns."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "marginal",
+    "meaningThai": "เล็กน้อย",
+    "examples": [
+      "There was only a marginal improvement.",
+      "Scores increased by a marginal amount."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "proceed",
+    "meaningThai": "ดำเนินการต่อ",
+    "examples": [
+      "You may now proceed to the next question.",
+      "The train will proceed after the inspection."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "retain information",
+    "meaningThai": "จดจำข้อมูล",
+    "examples": [
+      "Students must retain information from the passage.",
+      "Listening practice helps retain vocabulary."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "sufficient",
+    "meaningThai": "เพียงพอ",
+    "examples": [
+      "There is insufficient information to choose the answer.",
+      "We need sufficient evidence before concluding."
+    ]
+  },
+  {
+    "id": 211,
+    "word": "predominantly",
+    "meaningThai": "ส่วนใหญ่",
+    "examples": [
+      "The passage is predominantly about climate change.",
+      "The region is predominantly rural."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "approximate",
+    "meaningThai": "ประมาณ",
+    "examples": [
+      "Choose the approximate value shown in the chart.",
+      "The flight time is approximate."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "acknowledgment",
+    "meaningThai": "การยอมรับ/การรับรู้",
+    "examples": [
+      "The speaker gives an acknowledgment of the problem.",
+      "There is no acknowledgment of customer complaints."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "summarize",
+    "meaningThai": "สรุป",
+    "examples": [
+      "Summarize the main point of the passage.",
+      "The chart summarizes last year’s performance."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "interfere",
+    "meaningThai": "รบกวน/ขัดขวาง",
+    "examples": [
+      "Noise may interfere with the recording.",
+      "The outage interfered with production."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "emergence",
+    "meaningThai": "การเกิดขึ้น",
+    "examples": [
+      "The passage describes the emergence of new technologies.",
+      "There was a sudden emergence of problems."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "notable",
+    "meaningThai": "โดดเด่น",
+    "examples": [
+      "The chart shows notable differences.",
+      "There is a notable change in tone."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "valid",
+    "meaningThai": "ถูกต้องตามหลัก/น่าเชื่อถือ",
+    "examples": [
+      "Which answer is valid based on the passage?",
+      "The ticket is valid for three days."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "inevitably",
+    "meaningThai": "อย่างหลีกเลี่ยงไม่ได้",
+    "examples": [
+      "The delay will inevitably affect the schedule.",
+      "Mistakes inevitably occur when rushing."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "insight",
+    "meaningThai": "ความเข้าใจลึกซึ้ง",
+    "examples": [
+      "The passage provides insight into modern education.",
+      "Listening carefully gives insight into the speaker's attitude."
+    ]
+  },
+  {
+    "id": 221,
+    "word": "justify your answer",
+    "meaningThai": "ให้เหตุผลสนับสนุนคำตอบ",
+    "examples": [
+      "Use the passage to justify your answer.",
+      "Which detail justifies the correct choice?"
+    ]
+  },
+  {
+    "id": 222,
+    "word": "distinct",
+    "meaningThai": "แตกต่างชัดเจน",
+    "examples": [
+      "There are three distinct opinions in the passage.",
+      "The two trends are distinct from each other."
+    ]
+  },
+  {
+    "id": 223,
+    "word": "fundamentally",
+    "meaningThai": "โดยพื้นฐาน",
+    "examples": [
+      "The two views are fundamentally different.",
+      "The process is fundamentally simple."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "assurance",
+    "meaningThai": "การรับประกัน/ความมั่นใจ",
+    "examples": [
+      "The speaker gives assurance that the plan is safe.",
+      "Warranty provides assurance to customers."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "respond appropriately",
+    "meaningThai": "ตอบสนองอย่างเหมาะสม",
+    "examples": [
+      "Respond appropriately to the caller’s request.",
+      "The test checks your ability to respond appropriately."
+    ]
+  },
+  {
+    "id": 226,
+    "word": "evaluate evidence",
+    "meaningThai": "ประเมินหลักฐาน",
+    "examples": [
+      "Evaluate the evidence before choosing the answer.",
+      "The author uses evidence that must be evaluated carefully."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "adverse",
+    "meaningThai": "ไม่พึงประสงค์, เป็นผลลบ",
+    "examples": [
+      "The plan may have adverse effects.",
+      "Adverse weather delayed the flight."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "approximate value",
+    "meaningThai": "ค่าประมาณ",
+    "examples": [
+      "Choose the approximate value shown on the graph.",
+      "The measurement is only an approximate value."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "accessible information",
+    "meaningThai": "ข้อมูลที่เข้าถึงง่าย",
+    "examples": [
+      "The website provides accessible information.",
+      "Accessible information is needed for fair testing."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "alternative explanation",
+    "meaningThai": "คำอธิบายทางเลือก",
+    "examples": [
+      "What is the best alternative explanation for the event?",
+      "The author offers no alternative explanation."
+    ]
+  },
+  {
+    "id": 231,
+    "word": "ultimately lead to",
+    "meaningThai": "ท้ายที่สุดนำไปสู่",
+    "examples": [
+      "Lack of planning ultimately leads to delays.",
+      "The changes ultimately led to higher performance."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "correspond",
+    "meaningThai": "สอดคล้องกัน",
+    "examples": [
+      "The graph corresponds with the passage.",
+      "His statement does not correspond with the facts."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "brief explanation",
+    "meaningThai": "คำอธิบายอย่างสั้น",
+    "examples": [
+      "Provide a brief explanation for your answer.",
+      "The speaker gives a brief explanation of the delay."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "consideration",
+    "meaningThai": "การพิจารณา",
+    "examples": [
+      "Cost is an important consideration.",
+      "Several considerations must be reviewed."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "predictable pattern",
+    "meaningThai": "รูปแบบที่คาดเดาได้",
+    "examples": [
+      "The chart shows a predictable pattern.",
+      "A predictable pattern appears in the report."
+    ]
+  },
+  {
+    "id": 236,
+    "word": "interact",
+    "meaningThai": "โต้ตอบ/ปฏิสัมพันธ์",
+    "examples": [
+      "The test measures your ability to interact naturally.",
+      "Children interact differently with technology."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "influential",
+    "meaningThai": "มีอิทธิพล",
+    "examples": [
+      "The speaker is highly influential in the field.",
+      "Which influential factor is mentioned?"
+    ]
+  },
+  {
+    "id": 238,
+    "word": "viable",
+    "meaningThai": "สามารถทำได้จริง",
+    "examples": [
+      "The proposal is not financially viable.",
+      "The author questions whether the plan is viable."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "interpret the chart",
+    "meaningThai": "ตีความกราฟ",
+    "examples": [
+      "Interpret the chart to find the correct answer.",
+      "The question asks you to interpret the chart accurately."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "dependent on",
+    "meaningThai": "ขึ้นอยู่กับ",
+    "examples": [
+      "The outcome is dependent on several factors.",
+      "Success is dependent on preparation."
+    ]
+  },
+  {
+    "id": 241,
+    "word": "distorted",
+    "meaningThai": "บิดเบือน",
+    "examples": [
+      "The data may be distorted by measurement error.",
+      "The speaker’s message was distorted by noise."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "straightforward explanation",
+    "meaningThai": "คำอธิบายที่ง่ายและตรงไปตรงมา",
+    "examples": [
+      "The passage offers a straightforward explanation.",
+      "Which option gives the most straightforward explanation?"
+    ]
+  },
+  {
+    "id": 243,
+    "word": "commonly appear",
+    "meaningThai": "ปรากฏบ่อย",
+    "examples": [
+      "These words commonly appear in reading tests.",
+      "Graphs commonly appear in the IELTS exam."
+    ]
+  },
+  {
+    "id": 244,
+    "word": "drastically",
+    "meaningThai": "อย่างรุนแรง/อย่างมาก",
+    "examples": [
+      "Prices increased drastically last year.",
+      "The situation has drastically changed."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "readily",
+    "meaningThai": "ง่ายดาย, อย่างเต็มใจ",
+    "examples": [
+      "Information is readily available online.",
+      "Employees readily accepted the new policy."
+    ]
+  },
+  {
+    "id": 246,
+    "word": "tentatively",
+    "meaningThai": "อย่างไม่แน่ใจ/อย่างคร่าว ๆ",
+    "examples": [
+      "The schedule is tentatively set for next Friday.",
+      "The speaker tentatively agrees with the proposal."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "underestimate",
+    "meaningThai": "ประเมินต่ำไป",
+    "examples": [
+      "Do not underestimate the difficulty of the exam.",
+      "The team underestimated the time required."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "overestimate",
+    "meaningThai": "ประเมินสูงไป",
+    "examples": [
+      "The manager overestimated the budget.",
+      "Many students overestimate their speaking ability."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "straightforward question",
+    "meaningThai": "คำถามที่ไม่ซับซ้อน",
+    "examples": [
+      "This is a straightforward question based on the passage.",
+      "The speaker asks a straightforward question."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "assess your understanding",
+    "meaningThai": "ประเมินความเข้าใจของคุณ",
+    "examples": [
+      "This section assesses your understanding of the text.",
+      "The questions are designed to assess your understanding."
+    ]
+  }
+]
