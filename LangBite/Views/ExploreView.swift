@@ -9,90 +9,111 @@ import SwiftUI
 
 
 struct ExploreView: View {
-    @EnvironmentObject var vm: LangViewModel
+    @StateObject var vm = VocabularyViewModel()
     @EnvironmentObject var fav: FavoritesManager
     
     
-    let columns = [GridItem(.flexible()), GridItem(.flexible())]
-    
+    let columns = [
+        GridItem(.flexible()),
+        GridItem(.flexible())
+    ]
     
     var body: some View {
-        NavigationStack {
-            ScrollView {
-                LazyVGrid(columns: columns, spacing: 18) {
-                    ForEach(vm.categories) { cat in
-                        NavigationLink(value: cat) {
-                            PlaylistCard(category: cat)
-                        }
-                        .buttonStyle(PlainButtonStyle())
+        ScrollView {
+            LazyVGrid(columns: columns, spacing: 18) {
+                ForEach(VocabCategory.allCases) { cat in
+                    NavigationLink(
+                        destination: WordListView(
+                            words: vm.words(for: cat),
+                            title: cat.displayName
+                        )
+                        .environmentObject(fav)
+                    ) {
+                        PlaylistCard(
+                            category: cat,
+                            wordsCount: vm.words(for: cat).count
+                        )
+                        .environmentObject(fav)
                     }
+                    .buttonStyle(.plain)
                 }
-                .padding()
             }
-            .navigationTitle("Vocabulary Playlist")
-            .navigationDestination(for: VocabCategory.self) { category in
-                CategoryDetailView(category: category)
-                    .environmentObject(vm)
-                    .environmentObject(fav)
-            }
+            .padding()
         }
+        .navigationTitle("Vocabulary Playlist")
     }
 }
 
 
 struct PlaylistCard: View {
     let category: VocabCategory
+    let wordsCount: Int
     @EnvironmentObject var fav: FavoritesManager
     
     
     var body: some View {
         VStack(alignment: .leading) {
+            
             ZStack(alignment: .topTrailing) {
-                RoundedRectangle(cornerRadius: 14).fill(Color(UIColor.secondarySystemBackground)).frame(height: 120)
-                Button(action: { fav.toggleFavorite(item: category.title) }) {
-                    Image(systemName: fav.isFavorite(category.title) ? "heart.fill" : "heart").padding(8).foregroundColor(.red)
+                
+                Image(category.rawValue)
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: 148, height: 131)
+                    .clipShape(RoundedRectangle(cornerRadius: 14))
+                    .clipped()
+                
+                Button {
+                    fav.toggleFavorite(item: category.displayName)
+                } label: {
+                    Image(systemName: fav.isFavorite(category.displayName) ? "heart.fill" : "heart")
+                        .padding(8)
+                        .foregroundStyle(.red)
                 }
                 .padding(8)
             }
-            Text(category.title).font(.headline).padding(.top, 8)
-            Text("\(category.wordsCount) words").font(.caption).foregroundColor(.secondary)
+            Text(category.displayName)
+                .font(.headline)
+                .padding(.top, 8)
+            Text("\(wordsCount) words")
+                .font(.caption)
+                .foregroundStyle(.secondary)
         }
         .padding(10)
-        .background(RoundedRectangle(cornerRadius: 16).fill(Color(UIColor.systemBackground)).shadow(radius: 2))
+        .background(
+            RoundedRectangle(cornerRadius: 16)
+                .fill(Color(UIColor.systemBackground))
+                .shadow(radius: 2)
+        )
     }
 }
 
 
-struct CategoryDetailView: View {
-    let category: VocabCategory
-    @EnvironmentObject var vm: LangViewModel
-    @EnvironmentObject var fav: FavoritesManager
-    
-    
+struct WordListView: View {
+    let words: [VocabWord]
+    let title: String
     var body: some View {
-        List {
-            Section {
-                ForEach(vm.selectedCategoryWords) { w in
-                    NavigationLink(destination: WordDetailView(word: w)) {
-                        HStack {
-                            VStack(alignment: .leading) {
-                                Text(w.word).bold()
-                                Text(w.translation).font(.caption).foregroundColor(.secondary)
-                            }
-                            Spacer()
-                            Image(systemName: "chevron.right").foregroundColor(.secondary)
-                        }
-                        .padding(.vertical, 8)
-                    }
+        List(words) {
+            w in NavigationLink(destination: WordDetailView(word: w)){
+                HStack{
+                    Text(w.word).bold()
+                    Text(w.meaningThai)
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                    Spacer()
+                    Image(systemName: "chevron.right")
+                        .foregroundStyle(.secondary)
                 }
+                .padding(.vertical, 8)
             }
         }
-        .listStyle(.insetGrouped)
-        .navigationTitle(category.title)
-        .onAppear { vm.loadWords(for: category) }
+        .navigationTitle(title)
     }
 }
+
+
 
 #Preview {
     ExploreView()
+        .environmentObject(FavoritesManager())
 }

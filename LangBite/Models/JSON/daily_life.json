@@ -129,7 +129,7 @@
     "examples": ["I’ll handle it.", "Can you handle this task?"]
   },
   {
-    "id": "19",
+    "id": 19,
     "word": "pack",
     "meaningThai": "เก็บของ, แพ็ค",
     "examples": [

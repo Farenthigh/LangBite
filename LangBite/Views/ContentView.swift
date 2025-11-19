@@ -9,30 +9,34 @@ import SwiftUI
 
 
 struct ContentView: View {
-    @StateObject private var vm = LangViewModel()
     @StateObject private var fav = FavoritesManager()
-    
+    @StateObject private var vocabVM = VocabularyViewModel()
     
     var body: some View {
         TabView {
             LearnView()
-                .tabItem { Image(systemName: "book.fill"); Text("Learn") }
-                .environmentObject(vm)
-                .environmentObject(fav)
+                .tabItem {
+                    Image(systemName: "book.fill")
+                    Text("Learn")
+                }
             
-            
-            ExploreView()
-                .tabItem { Image(systemName: "safari"); Text("Explore") }
-                .environmentObject(vm)
-                .environmentObject(fav)
-            
+            NavigationStack {
+                ExploreView()
+            }
+            .tabItem {
+                Image(systemName: "safari")
+                Text("Explore")
+            }
             
             ProfileView()
-                .tabItem { Image(systemName: "person.crop.circle"); Text("Profile") }
-                .environmentObject(vm)
-                .environmentObject(fav)
+                .tabItem {
+                    Image(systemName: "person.crop.circle")
+                    Text("Profile")
+                }
+            
         }
         .accentColor(.blue)
+        .environmentObject(fav)
     }
 }
 

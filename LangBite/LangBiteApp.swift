@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 @main
 struct LangBiteApp: App {
     var body: some Scene {
