@@ -22,20 +22,30 @@ struct WordDetailView: View {
                 VStack(alignment: .leading, spacing: 8) {
                     HStack {
                         VStack(alignment: .leading, spacing: 4) {
-                            Text(word.word)
-                                .font(.largeTitle)
-                                .bold()
+                            HStack{
+                                Text(word.word)
+                                    .font(.largeTitle)
+                                    .bold()
+                                Button {
+                                    speaker.speak(word.word, language: "en-US")
+                                } label: {
+                                    Image(systemName: "speaker.wave.2.fill")
+                                        .foregroundColor(.blue)
+                                }
+                            }
+                                
                             Text(word.meaningThai)
                                 .font(.title3)
                                 .foregroundColor(.secondary)
+                            
                         }
                         
                         Spacer()
                         
                         Button {
-                            fav.toggleFavorite(item: word.word)
+                            fav.toggleWord(word)
                         } label: {
-                            Image(systemName: fav.isFavorite(word.word) ? "heart.fill" : "heart")
+                            Image(systemName: fav.isWordFavorite(word.word) ? "heart.fill" : "heart")
                                 .foregroundColor(.red)
                                 .font(.title2)
                         }
@@ -62,23 +72,13 @@ struct WordDetailView: View {
                 }
                 .padding()
                 .background(RoundedRectangle(cornerRadius: 12)
-                .fill(Color(UIColor.systemBackground))
-                .shadow(radius: 3))
+                    .fill(Color(UIColor.systemBackground))
+                    .shadow(radius: 3))
                 
                 Spacer()
             }
             .padding()
-
-        }
-        .navigationTitle(word.word)
-        .toolbar {
-            ToolbarItem(placement: .navigationBarTrailing) {
-                Button {
-                    speaker.speak(word.word, language: "en-US")
-                } label: {
-                    Image(systemName: "speaker.wave.2.fill")
-                }
-            }
+            
         }
     }
 }
