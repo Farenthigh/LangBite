@@ -50,20 +50,21 @@ struct DailyWordCard: View {
         VStack(alignment: .leading, spacing: 10) {
             HStack {
                 VStack(alignment: .leading, spacing: 6) {
-                    Text(word.word).font(.title).bold()
                     HStack {
+                        Text(word.word).font(.title).bold()
                         Button {
                             speaker.speak(word.word, language: "en-US")
                         } label: {
                             Image(systemName: "speaker.wave.2.fill")
                                 .foregroundColor(.blue)
                         }
-                        Text(word.meaningThai).foregroundColor(.secondary)
+                        
                     }
+                    Text(word.meaningThai).foregroundColor(.secondary)
                 }
                 Spacer()
-                Button(action: { fav.toggleFavorite(item: word.word) }) {
-                    Image(systemName: fav.isFavorite(word.word) ? "heart.fill" : "heart").foregroundColor(.red)
+                Button(action: { fav.toggleWord(word) }) {
+                    Image(systemName: fav.isWordFavorite(word.word) ? "heart.fill" : "heart").foregroundColor(.red)
                 }
             }
         }

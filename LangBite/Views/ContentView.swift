@@ -37,6 +37,7 @@ struct ContentView: View {
         }
         .accentColor(.blue)
         .environmentObject(fav)
+        .environmentObject(vocabVM)
     }
 }
 

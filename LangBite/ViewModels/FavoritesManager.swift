@@ -10,26 +10,70 @@ import Combine
 
 
 final class FavoritesManager: ObservableObject {
-    @Published var favorites: [String] = [] {
+    @Published var favorites: [FavoriteItem] = [] {
         didSet {
-            UserDefaults.standard.set(favorites, forKey: "favorites")
+            save()
         }
     }
     
     init() {
-        favorites = UserDefaults.standard.stringArray(forKey: "favorites") ?? []
+        load()
     }
     
     
-    func toggleFavorite(item: String) {
-        if favorites.contains(item) {
-            favorites.removeAll { $0 == item }
+    func toggleWord(_ vocab: VocabWord){
+        if let idx = favorites.firstIndex(where: { $0.type == .word && $0.value == vocab.word}) {
+            favorites.remove(at: idx)
         } else {
-            favorites.append(item)
+            favorites.append(
+                FavoriteItem(
+                    type: .word,
+                    value: vocab.word,
+                    category: nil,
+                    word: vocab
+                )
+            )
         }
     }
     
-    func isFavorite(_ item: String) -> Bool {
-        favorites.contains(item)
+    func togglePlaylist(_ playlist: String){
+        if let idx = favorites.firstIndex(where: { $0.type == .playlist && $0.value == playlist}) {
+            favorites.remove(at: idx)
+        } else {
+            favorites.append(
+                FavoriteItem(
+                    type: .playlist,
+                    value: playlist,
+                    category: nil,
+                    word: nil
+                )
+            )
+        }
+    }
+    
+    func isWordFavorite(_ word: String) -> Bool {
+        favorites.contains{$0.type == .word && $0.value == word}
+    }
+    
+    func isPlaylistFavorite(_ playlist: String) -> Bool {
+        favorites.contains{$0.type == .playlist && $0.value == playlist}
+    }
+    
+    func remove(_ item: FavoriteItem){
+        favorites.removeAll{ $0.id == item.id}
+    }
+    
+    private func save() {
+        if let data = try? JSONEncoder().encode(favorites) {
+            UserDefaults.standard.set(data, forKey: "favorites")
+        }
+    }
+    
+    private func load() {
+        if let data = UserDefaults.standard.data(forKey: "favorites"),
+           let decoded = try? JSONDecoder().decode( [FavoriteItem].self, from: data){
+            favorites = decoded
+        }
     }
 }
+

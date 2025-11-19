@@ -23,11 +23,9 @@ struct ExploreView: View {
             LazyVGrid(columns: columns, spacing: 18) {
                 ForEach(VocabCategory.allCases) { cat in
                     NavigationLink(
-                        destination: WordListView(
-                            words: vm.words(for: cat),
-                            title: cat.displayName
-                        )
-                        .environmentObject(fav)
+                        destination: WordListView(category: cat)
+                            .environmentObject(vm)
+                            .environmentObject(fav)
                     ) {
                         PlaylistCard(
                             category: cat,
@@ -64,9 +62,9 @@ struct PlaylistCard: View {
                     .clipped()
                 
                 Button {
-                    fav.toggleFavorite(item: category.displayName)
+                    fav.togglePlaylist(category.displayName)
                 } label: {
-                    Image(systemName: fav.isFavorite(category.displayName) ? "heart.fill" : "heart")
+                    Image(systemName: fav.isPlaylistFavorite(category.displayName) ? "heart.fill" : "heart")
                         .padding(8)
                         .foregroundStyle(.red)
                 }
@@ -90,24 +88,27 @@ struct PlaylistCard: View {
 
 
 struct WordListView: View {
-    let words: [VocabWord]
-    let title: String
+    @EnvironmentObject var vm: VocabularyViewModel
+    let category: VocabCategory
+    
     var body: some View {
-        List(words) {
-            w in NavigationLink(destination: WordDetailView(word: w)){
+        let words = vm.words(for: category)
+        
+        List(words) { w in
+            NavigationLink(destination: WordDetailView(word: w)){
                 HStack{
-                    Text(w.word).bold()
-                    Text(w.meaningThai)
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
-                    Spacer()
-                    Image(systemName: "chevron.right")
-                        .foregroundStyle(.secondary)
+                    VStack(alignment: .leading){
+                        Text(w.word).bold()
+                        Text(w.meaningThai)
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
+                    
                 }
                 .padding(.vertical, 8)
             }
         }
-        .navigationTitle(title)
+        .navigationTitle(category.displayName)
     }
 }
 
