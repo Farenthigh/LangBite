@@ -51,28 +51,29 @@ struct PlaylistCard: View {
     
     var body: some View {
         VStack(alignment: .leading) {
+            Image(category.rawValue)
+                .resizable()
+                .scaledToFit()
+                .frame(width: 148, height: 148)
+                .background(Color.white)
+                .clipShape(RoundedRectangle(cornerRadius: 14))
             
-            ZStack(alignment: .topTrailing) {
+            HStack {
+                Text(category.displayName)
+                    .font(.headline)
                 
-                Image(category.rawValue)
-                    .resizable()
-                    .scaledToFit()
-                    .frame(width: 148, height: 131)
-                    .clipShape(RoundedRectangle(cornerRadius: 14))
-                    .clipped()
+                Spacer()
                 
                 Button {
                     fav.togglePlaylist(category.displayName)
                 } label: {
                     Image(systemName: fav.isPlaylistFavorite(category.displayName) ? "heart.fill" : "heart")
-                        .padding(8)
                         .foregroundStyle(.red)
+                        .padding(8)
                 }
-                .padding(8)
             }
-            Text(category.displayName)
-                .font(.headline)
-                .padding(.top, 8)
+            .frame(maxWidth: .infinity)
+            
             Text("\(wordsCount) words")
                 .font(.caption)
                 .foregroundStyle(.secondary)
@@ -85,7 +86,6 @@ struct PlaylistCard: View {
         )
     }
 }
-
 
 struct WordListView: View {
     @EnvironmentObject var vm: VocabularyViewModel
