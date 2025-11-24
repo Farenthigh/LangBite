@@ -9,7 +9,15 @@ import SwiftUI
 
 @main
 struct LangBiteApp: App {
+    @StateObject private var authVM = AuthViewModel()
+    @StateObject private var favVM = FavoritesViewModel()
+    @StateObject private var vocabVM = VocabularyViewModel()
     var body: some Scene {
-        WindowGroup { ContentView() }
+        WindowGroup {
+            MainTabView()
+                .environmentObject(authVM)
+                .environmentObject(favVM)
+                .environmentObject(vocabVM)
+        }
     }
 }
