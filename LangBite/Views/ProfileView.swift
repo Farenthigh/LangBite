@@ -17,7 +17,6 @@ struct ProfileView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 28) {
-                    
                     ProfileHeader()
                         .environmentObject(auth)
                     
@@ -54,10 +53,12 @@ struct ProfileHeader: View {
     @EnvironmentObject var fav: FavoritesViewModel
     var body: some View {
         VStack(spacing: 8) {
-            Image(systemName: "person.crop.circle.fill")
-                .resizable()
-                .frame(width: 88, height: 88)
-                .foregroundColor(.blue)
+//            Image(systemName: "person.crop.circle.fill")
+//                .resizable()
+//                .frame(width: 88, height: 88)
+//                .foregroundColor(.blue)
+            ProfilePictureView()
+                .environmentObject(auth)
             
             Text(auth.currentUser?.username ?? "กำลังโหลด..")
                 .font(.title2).bold()

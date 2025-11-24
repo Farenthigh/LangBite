@@ -10,7 +10,7 @@ import SwiftUI
 struct MainTabView: View {
     @EnvironmentObject var authViewModel: AuthViewModel
     var body: some View {
-        if authViewModel.isLoggedIn {
+        if authViewModel.isAuthenticated{
             // 1. ถ้าล็อคอินแล้ว: แสดงหน้าหลักของแอปฯ (Main App Dashboard)
             ContentView()
         } else {

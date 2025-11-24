@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 @MainActor
 class AuthViewModel: ObservableObject {
@@ -13,13 +14,31 @@ class AuthViewModel: ObservableObject {
     @Published var currentUser: UserData?
     @Published var errorMessage: String?
     
+    private let userKey = "saved_user"
+    
     let base_url = "http://127.0.0.1:3000/api/v1"
+    
     
     var onLogin: ((Int) -> Void)?
     
     init() {
         self.currentUser = UserDefaults.standard.loadUser()
+        if(currentUser?.ID != 0){
+            isLoggedIn = true
         }
+        else{
+            isLoggedIn = false
+        }
+        print(currentUser)
+        }
+    var isAuthenticated: Bool {
+            // true only when currentUser exists and ID is non-zero (or > 0)
+            if let id = currentUser?.ID {
+                return id != 0
+            }
+            return false
+        }
+    
     
     func Login(email: String, password: String) async throws -> LoginRes {
         let body = LoginReq(email: email, password: password)
@@ -67,7 +86,7 @@ class AuthViewModel: ObservableObject {
         // Decode
         do {
             let decoded = try JSONDecoder().decode(LoginRes.self, from: data)
-            print("Decoded response:", decoded) // <--- you should see this on success
+//            print("Decoded response:", decoded) // <--- you should see this on success
             // Interpret backend 'error' semantics:
             if let apiError = decoded.error, !apiError.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
                 print("API signalled error field:", apiError)
@@ -168,6 +187,60 @@ class AuthViewModel: ObservableObject {
         }
         UserDefaults.standard.clearUser()
     }
+    func UpdataAvatar() async throws -> UploadAvatarRes{
+        let body = UploadAvatarReq(user_id: currentUser?.ID ?? 0, avatar: currentUser?.avatar ?? "")
+        guard let url = URL(string: "\(base_url)/users/avatar") else {
+            print("Bad url:", "\(base_url)/auth/login")
+            throw APIError.serverError(statusCode: 500)
+        }
+        var request = URLRequest(url: url)
+        request.httpMethod = "POST"
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        do {
+            request.httpBody = try JSONEncoder().encode(body)
+        } catch {
+            print("Failed to encode request body:", error)
+            throw APIError.serverError(statusCode: 500)
+        }
+        let (data, response) = try await URLSession.shared.data(for: request)
+        if let http = response as? HTTPURLResponse {
+//            print("HTTP status:", http.statusCode)
+//            print("Response headers:", http.allHeaderFields)
+        } else {
+            print("Non-HTTP response:", response)
+        }
+
+        // Raw body for debugging
+        let bodyString = String(data: data, encoding: .utf8) ?? "<non-utf8 data>"
+//        print("Raw response body:", bodyString)
+
+        // Check for HTTP error codes first
+        if let http = response as? HTTPURLResponse, !(200...299).contains(http.statusCode) {
+            print("Server returned non-2xx status:", http.statusCode)
+            // If server includes JSON error details, attempt to decode them for helpful logging
+            if let maybeError = try? JSONDecoder().decode(UploadAvatarRes.self, from: data) {
+                print("Decoded error response:", maybeError)
+            }
+            throw APIError.serverError(statusCode: http.statusCode)
+        }
+
+        // Decode
+        do {
+            let decoded = try JSONDecoder().decode(UploadAvatarRes.self, from: data)
+//            print("Decoded response:", decoded) // <--- you should see this on success
+            // Interpret backend 'error' semantics:
+            if let apiError = decoded.error, !apiError.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                print("API signalled error field:", apiError)
+                throw APIError.serverError(statusCode: 500)
+            }
+            return decoded
+        } catch {
+            print("Decoding failed:", error)
+            print("Raw response again:", bodyString)
+            throw APIError.decodingFailed
+        }
+    }
+
         
 }
 enum APIError: Error {

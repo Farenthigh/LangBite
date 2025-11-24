@@ -23,6 +23,7 @@ struct UserData:Codable {
     let ID: Int?
     let username: String?
     let email: String?
+    var avatar: String?
 }
 
 struct RegisterReq: Codable{
@@ -36,6 +37,16 @@ struct RegisterRes: Codable{
     let error: String?
 }
 
+struct UploadAvatarReq:Codable{
+    let user_id: Int
+    let avatar: String
+}
+
+struct UploadAvatarRes:Codable{
+    let data: String?
+    let error: String?
+    let message: String
+}
 extension UserDefaults {
     func saveUser(_ user: UserData) {
         let encoder = JSONEncoder()

@@ -12,7 +12,6 @@ struct ContentView: View {
     @EnvironmentObject var auth: AuthViewModel
     @StateObject private var fav = FavoritesViewModel()
     @StateObject private var vocabVM = VocabularyViewModel()
-    
     var body: some View {
         TabView {
             LearnView()

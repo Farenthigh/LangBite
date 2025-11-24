@@ -6,15 +6,31 @@
 //
 
 import SwiftUI
+import FirebaseCore
+import FirebaseStorage
+import FirebaseAuth
+
+class AppDelegate: NSObject, UIApplicationDelegate {
+  func application(_ application: UIApplication,
+                   didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
+    FirebaseApp.configure()
+
+    return true
+  }
+}
+
 
 @main
 struct LangBiteApp: App {
     @StateObject var auth = AuthViewModel()
     @StateObject var fav = FavoritesViewModel()
     
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
     var body: some Scene {
+        
         WindowGroup {
-            if auth.isLoggedIn {
+            if auth.isAuthenticated {
                 ContentView()
                     .environmentObject(auth)
                     .environmentObject(fav)
