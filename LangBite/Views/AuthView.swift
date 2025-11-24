@@ -8,9 +8,30 @@
 import SwiftUI
 
 struct AuthView: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
+    @State private var showRegister = false // toggle between Login and Register
+        
+        var body: some View {
+            VStack {
+                if showRegister {
+                    RegisterView(showRegister: $showRegister)
+                } else {
+                    LoginView()
+                }
+                
+                // Switch button
+                Button(action: {
+                    withAnimation {
+                        showRegister.toggle()
+                    }
+                }) {
+                    Text(showRegister ? "กลับไปเข้าสู่ระบบ" : "ยังไม่มีบัญชี? สมัครสมาชิก")
+                        .font(.subheadline)
+                        .foregroundColor(.blue)
+                        .padding(.top, 20)
+                }
+            }
+            .padding()
+        }
 }
 
 #Preview {

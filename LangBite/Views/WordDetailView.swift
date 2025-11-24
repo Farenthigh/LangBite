@@ -11,7 +11,7 @@ import SwiftUI
 struct WordDetailView: View {
     let word: VocabWord
     @StateObject private var speaker = SpeechManager()
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     
     
     var body: some View {
@@ -93,5 +93,5 @@ struct WordDetailView: View {
             "The results were consistent, therefore supporting the hypothesis."
         ]
     ))
-    .environmentObject(FavoritesManager())
+    .environmentObject(FavoritesViewModel())
 }

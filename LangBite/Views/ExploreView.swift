@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ExploreView: View {
     @StateObject var vm = VocabularyViewModel()
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     
     
     let columns = [
@@ -46,7 +46,7 @@ struct ExploreView: View {
 struct PlaylistCard: View {
     let category: VocabCategory
     let wordsCount: Int
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     
     
     var body: some View {
@@ -116,5 +116,5 @@ struct WordListView: View {
 
 #Preview {
     ExploreView()
-        .environmentObject(FavoritesManager())
+        .environmentObject(FavoritesViewModel())
 }

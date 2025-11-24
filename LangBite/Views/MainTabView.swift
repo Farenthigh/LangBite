@@ -8,11 +8,19 @@
 import SwiftUI
 
 struct MainTabView: View {
+    @EnvironmentObject var authViewModel: AuthViewModel
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        if authViewModel.isLoggedIn {
+            // 1. ถ้าล็อคอินแล้ว: แสดงหน้าหลักของแอปฯ (Main App Dashboard)
+            ContentView()
+        } else {
+            // 2. ถ้ายังไม่ได้ล็อคอิน: แสดงหน้าจอการเข้าสู่ระบบ
+            AuthView()
+        }
     }
 }
 
 #Preview {
     MainTabView()
+        .environmentObject(AuthViewModel())
 }

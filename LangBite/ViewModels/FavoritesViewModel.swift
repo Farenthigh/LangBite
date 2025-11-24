@@ -9,7 +9,7 @@ import Foundation
 import Combine
 
 
-final class FavoritesManager: ObservableObject {
+final class FavoritesViewModel: ObservableObject {
     @Published var favorites: [FavoriteItem] = [] {
         didSet {
             save()

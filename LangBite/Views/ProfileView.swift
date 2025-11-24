@@ -1,8 +1,9 @@
 import SwiftUI
 
 struct ProfileView: View {
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     @EnvironmentObject var vm: VocabularyViewModel
+    
     
     var favoriteWords: [FavoriteItem] {
         fav.favorites.filter { $0.type == .word }
@@ -35,6 +36,7 @@ struct ProfileView: View {
 }
 
 struct ProfileHeader: View {
+    @EnvironmentObject var auth: AuthViewModel
     var body: some View {
         VStack(spacing: 8) {
             Image(systemName: "person.crop.circle.fill")
@@ -42,18 +44,23 @@ struct ProfileHeader: View {
                 .frame(width: 88, height: 88)
                 .foregroundColor(.blue)
             
-            Text("Thunwa")
+            Text(auth.currentUser?.username ?? "กำลังโหลด..")
                 .font(.title2).bold()
             
-            Text("thunwa@gmail.com")
+            Text(auth.currentUser?.email ?? "กำลังโหลด..")
                 .font(.caption)
                 .foregroundColor(.secondary)
+            Button("ออกจากระบบ") {
+                auth.Logout()
+            }
+            .font(.subheadline)
+            .foregroundColor(.red)
         }
     }
 }
 
 struct FavoritePlaylistList: View {
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     @EnvironmentObject var vm: VocabularyViewModel
     
     let playlists: [FavoriteItem]
@@ -101,7 +108,7 @@ struct FavoritePlaylistList: View {
 }
 
 struct FavoriteWordList: View {
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     @EnvironmentObject var vm: VocabularyViewModel
     
     let words: [FavoriteItem]
@@ -136,7 +143,7 @@ struct FavoriteWordList: View {
 }
 
 struct ProfileWordRow: View {
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     let item: FavoriteItem
     
     var body: some View {
@@ -159,6 +166,7 @@ struct ProfileWordRow: View {
 
 #Preview {
     ProfileView()
-        .environmentObject(FavoritesManager())
+        .environmentObject(FavoritesViewModel())
         .environmentObject(VocabularyViewModel())
+        .environmentObject(AuthViewModel())
 }

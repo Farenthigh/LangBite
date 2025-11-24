@@ -9,7 +9,7 @@ import SwiftUI
 
 
 struct ContentView: View {
-    @StateObject private var fav = FavoritesManager()
+    @StateObject private var fav = FavoritesViewModel()
     @StateObject private var vocabVM = VocabularyViewModel()
     
     var body: some View {

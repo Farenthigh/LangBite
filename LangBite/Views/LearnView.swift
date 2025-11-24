@@ -9,7 +9,7 @@ import SwiftUI
 
 struct LearnView: View {
     @StateObject var vm = DailyWordViewModel()
-    @EnvironmentObject var fav: FavoritesManager
+    @EnvironmentObject var fav: FavoritesViewModel
     @StateObject private var speaker = SpeechManager()
     
     
@@ -43,7 +43,7 @@ struct LearnView: View {
 
 struct DailyWordCard: View {
     let word: VocabWord
-    @EnvironmentObject private var fav: FavoritesManager
+    @EnvironmentObject private var fav: FavoritesViewModel
     @EnvironmentObject private var speaker: SpeechManager
     
     var body: some View {
@@ -105,6 +105,6 @@ struct ExampleCard: View {
 
 #Preview {
     LearnView()
-        .environmentObject(FavoritesManager())
+        .environmentObject(FavoritesViewModel())
 }
 
