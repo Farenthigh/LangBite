@@ -87,7 +87,7 @@ struct WordDetailView: View {
                 .padding()
                 .background(
                     RoundedRectangle(cornerRadius: 12)
-                        .fill(Color(UIColor.systemBackground))
+                        .fill(Color(UIColor.secondarySystemBackground))
                         .shadow(radius: 3)
                 )
                 
