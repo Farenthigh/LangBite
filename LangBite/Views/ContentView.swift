@@ -9,6 +9,7 @@ import SwiftUI
 
 
 struct ContentView: View {
+    @EnvironmentObject var auth: AuthViewModel
     @StateObject private var fav = FavoritesViewModel()
     @StateObject private var vocabVM = VocabularyViewModel()
     
@@ -35,6 +36,16 @@ struct ContentView: View {
                 }
             
         }
+        .onChange(of: auth.currentUser?.ID) {
+            Task {
+                print("User ID Change")
+                if auth.currentUser != nil {
+                    await fav.loadForUser(userId: auth.currentUser?.ID ?? 0)
+                } else {
+                    fav.clear()
+                }
+            }
+        }
         .accentColor(.blue)
         .environmentObject(fav)
         .environmentObject(vocabVM)
@@ -42,5 +53,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    ContentView().environmentObject(AuthViewModel())
 }

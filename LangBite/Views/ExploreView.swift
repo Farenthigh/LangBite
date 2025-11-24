@@ -7,11 +7,12 @@
 
 import SwiftUI
 
+// MARK: - ExploreView
 
 struct ExploreView: View {
     @StateObject var vm = VocabularyViewModel()
     @EnvironmentObject var fav: FavoritesViewModel
-    
+    @EnvironmentObject var auth: AuthViewModel
     
     let columns = [
         GridItem(.flexible()),
@@ -26,12 +27,14 @@ struct ExploreView: View {
                         destination: WordListView(category: cat)
                             .environmentObject(vm)
                             .environmentObject(fav)
+                            .environmentObject(auth)
                     ) {
                         PlaylistCard(
                             category: cat,
                             wordsCount: vm.words(for: cat).count
                         )
                         .environmentObject(fav)
+                        .environmentObject(auth)
                     }
                     .buttonStyle(.plain)
                 }
@@ -39,24 +42,31 @@ struct ExploreView: View {
             .padding()
         }
         .navigationTitle("Vocabulary Playlist")
+        .task {
+            // Fetch favorites when Explore opens
+            if let userId = auth.currentUser?.ID {
+                await fav.fetchFavorites(userId: userId)
+            }
+        }
     }
 }
 
+// MARK: - PlaylistCard
 
 struct PlaylistCard: View {
     let category: VocabCategory
     let wordsCount: Int
     @EnvironmentObject var fav: FavoritesViewModel
-    
+    @EnvironmentObject var auth: AuthViewModel
     
     var body: some View {
         VStack(alignment: .leading) {
             Image(category.rawValue)
-                .resizable()
-                .scaledToFit()
-                .frame(width: 148, height: 148)
-                .background(Color.white)
-                .clipShape(RoundedRectangle(cornerRadius: 14))
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 148, height: 148)
+                            .background(Color.white)
+                            .clipShape(RoundedRectangle(cornerRadius: 14))
             
             HStack {
                 Text(category.displayName)
@@ -65,10 +75,14 @@ struct PlaylistCard: View {
                 Spacer()
                 
                 Button {
-                    fav.togglePlaylist(category.displayName)
+                    Task {
+                        guard let userId = auth.currentUser?.ID else { return }
+                        let item = FavoriteItem(id: nil, type: .playlist, value: category.displayName, category: nil, word: nil)
+                        await fav.toggleFavorite(userId: userId, item: item)
+                    }
                 } label: {
                     Image(systemName: fav.isPlaylistFavorite(category.displayName) ? "heart.fill" : "heart")
-                        .foregroundStyle(.red)
+                        .foregroundColor(.red)
                         .padding(8)
                 }
             }
@@ -76,7 +90,7 @@ struct PlaylistCard: View {
             
             Text("\(wordsCount) words")
                 .font(.caption)
-                .foregroundStyle(.secondary)
+                .foregroundColor(.secondary)
         }
         .padding(10)
         .background(
@@ -87,26 +101,48 @@ struct PlaylistCard: View {
     }
 }
 
+// MARK: - WordListView
+
 struct WordListView: View {
     @EnvironmentObject var vm: VocabularyViewModel
+    @EnvironmentObject var fav: FavoritesViewModel
+    @EnvironmentObject var auth: AuthViewModel
     let category: VocabCategory
     
     var body: some View {
         let words = vm.words(for: category)
         
         List(words) { w in
-            NavigationLink(destination: WordDetailView(word: w)){
-                HStack{
-                    VStack(alignment: .leading){
-                        Text(w.word).bold()
-                        Text(w.meaningThai)
-                            .font(.caption)
-                            .foregroundStyle(.secondary)
-                    }
-                    
+            HStack {
+                VStack(alignment: .leading) {
+                    Text(w.word ?? "label").bold()
+                    Text(w.meaningThai ?? "label")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
                 }
-                .padding(.vertical, 8)
+                
+                Spacer()
+                
+                Button {
+                    Task {
+                        guard let userId = auth.currentUser?.ID else { return }
+                        let item = FavoriteItem(id: nil, type: .word, value: w.word ?? "label", category: nil, word: w)
+                        await fav.toggleFavorite(userId: userId, item: item)
+                    }
+                } label: {
+                    Image(systemName: fav.isWordFavorite(w.word ?? "label") ? "heart.fill" : "heart")
+                        .foregroundColor(.red)
+                        .font(.title3)
+                }
             }
+            .padding(.vertical, 4)
+            .contentShape(Rectangle()) // ensures full row clickable
+            .background(
+                NavigationLink(destination: WordDetailView(word: w).environmentObject(fav).environmentObject(auth)) {
+                    EmptyView()
+                }
+                .opacity(0)
+            )
         }
         .navigationTitle(category.displayName)
     }
@@ -114,7 +150,12 @@ struct WordListView: View {
 
 
 
+// MARK: - Preview
+
 #Preview {
-    ExploreView()
-        .environmentObject(FavoritesViewModel())
+    NavigationStack {
+        ExploreView()
+            .environmentObject(FavoritesViewModel())
+            .environmentObject(AuthViewModel())
+    }
 }

@@ -9,15 +9,24 @@ import SwiftUI
 
 @main
 struct LangBiteApp: App {
-    @StateObject private var authVM = AuthViewModel()
-    @StateObject private var favVM = FavoritesViewModel()
-    @StateObject private var vocabVM = VocabularyViewModel()
+    @StateObject var auth = AuthViewModel()
+    @StateObject var fav = FavoritesViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            MainTabView()
-                .environmentObject(authVM)
-                .environmentObject(favVM)
-                .environmentObject(vocabVM)
+            if auth.isLoggedIn {
+                ContentView()
+                    .environmentObject(auth)
+                    .environmentObject(fav)
+                    .task {
+                        if let userId = auth.currentUser?.ID {
+                            await fav.fetchFavorites(userId: userId)
+                        }
+                    }
+            } else {
+                AuthView()
+                    .environmentObject(auth)
+            }
         }
     }
 }

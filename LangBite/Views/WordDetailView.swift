@@ -7,45 +7,60 @@
 
 import SwiftUI
 
-
 struct WordDetailView: View {
     let word: VocabWord
     @StateObject private var speaker = SpeechManager()
     @EnvironmentObject var fav: FavoritesViewModel
-    
+    @EnvironmentObject var auth: AuthViewModel
     
     var body: some View {
+        let wordText = word.word ?? ""
+        let meaningThai = word.meaningThai ?? ""
         ScrollView {
             VStack(spacing: 20) {
                 
-                // TOP CARD
+                // MARK: - Top Card
                 VStack(alignment: .leading, spacing: 8) {
-                    HStack {
+                    HStack(alignment: .center) {
                         VStack(alignment: .leading, spacing: 4) {
-                            HStack{
-                                Text(word.word)
+                            HStack {
+                                Text(wordText)
                                     .font(.largeTitle)
                                     .bold()
+                                
+                                // Speaker button
                                 Button {
-                                    speaker.speak(word.word, language: "en-US")
+                                    speaker.speak(wordText, language: "en-US")
                                 } label: {
                                     Image(systemName: "speaker.wave.2.fill")
                                         .foregroundColor(.blue)
                                 }
                             }
-                                
-                            Text(word.meaningThai)
+                            
+                            Text(meaningThai)
                                 .font(.title3)
                                 .foregroundColor(.secondary)
-                            
                         }
                         
                         Spacer()
                         
+                        // Favorite button
                         Button {
-                            fav.toggleWord(word)
+                            Task {
+                                guard let userId = auth.currentUser?.ID else { return }
+                                
+                                let item = FavoriteItem(
+                                    id: nil,
+                                    type: .word,
+                                    value: wordText,
+                                    category: nil,
+                                    word: word
+                                )
+                                
+                                await fav.toggleFavorite(userId: userId, item: item)
+                            }
                         } label: {
-                            Image(systemName: fav.isWordFavorite(word.word) ? "heart.fill" : "heart")
+                            Image(systemName: fav.isWordFavorite(wordText) ? "heart.fill" : "heart")
                                 .foregroundColor(.red)
                                 .font(.title2)
                         }
@@ -58,30 +73,54 @@ struct WordDetailView: View {
                         .shadow(radius: 4)
                 )
                 
-                
-                // EXAMPLE SENTENCES
+                // MARK: - Example Sentences
                 VStack(alignment: .leading, spacing: 12) {
                     Text("Example Sentences")
                         .font(.headline)
                     
-                    ForEach(word.examples, id: \.self) { example in
-                        VStack(alignment: .leading, spacing: 6){
-                            Text(example).font(.body)
-                        }
+                    ForEach(word.examples ?? [""], id: \.self) { example in
+                        Text(example)
+                            .font(.body)
+                            .padding(.vertical, 4)
                     }
                 }
                 .padding()
-                .background(RoundedRectangle(cornerRadius: 12)
-                    .fill(Color(UIColor.systemBackground))
-                    .shadow(radius: 3))
+                .background(
+                    RoundedRectangle(cornerRadius: 12)
+                        .fill(Color(UIColor.systemBackground))
+                        .shadow(radius: 3)
+                )
                 
                 Spacer()
             }
             .padding()
-            
+        }
+        .navigationTitle(wordText)
+        .navigationBarTitleDisplayMode(.inline)
+        .task {
+            // Optional: Fetch latest favorites if needed
+            if let userId = auth.currentUser?.ID {
+                await fav.fetchFavorites(userId: userId)
+            }
         }
     }
 }
+
+// MARK: - Preview
+#Preview {
+    WordDetailView(word: VocabWord(
+        id: 1,
+        word: "intense",
+        meaningThai: "เข้มข้น รุนแรง",
+        examples: [
+            "The heat is intense today.",
+            "The competition was intense."
+        ]
+    ))
+    .environmentObject(FavoritesViewModel())
+    .environmentObject(AuthViewModel()) // provide currentUser in your preview if needed
+}
+
 
 #Preview {
     WordDetailView(word: VocabWord(

@@ -16,6 +16,7 @@ struct LoginView: View {
     @State private var password: String = ""
     @State private var errorMessage: String = ""
     @EnvironmentObject var auth: AuthViewModel
+    @EnvironmentObject var fav: FavoritesViewModel
 
     var body: some View {
         // ใช้ NavigationView เพื่อให้สามารถเพิ่ม Navigation Bar ได้

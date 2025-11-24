@@ -15,6 +15,12 @@ class AuthViewModel: ObservableObject {
     
     let base_url = "http://127.0.0.1:3000/api/v1"
     
+    var onLogin: ((Int) -> Void)?
+    
+    init() {
+        self.currentUser = UserDefaults.standard.loadUser()
+        }
+    
     func Login(email: String, password: String) async throws -> LoginRes {
         let body = LoginReq(email: email, password: password)
         guard let url = URL(string: "\(base_url)/auth/login") else {
@@ -38,15 +44,15 @@ class AuthViewModel: ObservableObject {
 
         // Log response metadata
         if let http = response as? HTTPURLResponse {
-            print("HTTP status:", http.statusCode)
-            print("Response headers:", http.allHeaderFields)
+//            print("HTTP status:", http.statusCode)
+//            print("Response headers:", http.allHeaderFields)
         } else {
             print("Non-HTTP response:", response)
         }
 
         // Raw body for debugging
         let bodyString = String(data: data, encoding: .utf8) ?? "<non-utf8 data>"
-        print("Raw response body:", bodyString)
+//        print("Raw response body:", bodyString)
 
         // Check for HTTP error codes first
         if let http = response as? HTTPURLResponse, !(200...299).contains(http.statusCode) {
@@ -160,6 +166,7 @@ class AuthViewModel: ObservableObject {
             self.currentUser = nil
             self.isLoggedIn = false
         }
+        UserDefaults.standard.clearUser()
     }
         
 }

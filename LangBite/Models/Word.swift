@@ -8,9 +8,9 @@
 import Foundation
 
 struct VocabWord: Identifiable, Hashable, Codable {
-    let id: Int
-    let word: String
-    let meaningThai: String
-    let examples: [String]
+    let id: Int?
+    let word: String?
+    let meaningThai: String?
+    let examples: [String]?
 }
 
